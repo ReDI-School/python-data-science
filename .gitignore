@@ -1,3 +1,5 @@
 .idea*
 .ipynb_checkpoints*
-week2/data/*
+*/data/*
+.venv
+.DS_Store
