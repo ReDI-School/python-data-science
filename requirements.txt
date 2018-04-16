@@ -7,3 +7,5 @@ seaborn
 scikit-learn
 ipython
 xgboost
+pandas-datareader
+statsmodels
