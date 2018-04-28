@@ -4,7 +4,6 @@ import re
 
 url = 'http://sofifa.com/players?offset=0'
 
-
 fifa_stats = ['Crossing', 'Finishing', 'Heading Accuracy',
               'Short Passing', 'Volleys', 'Dribbling', 'Curve',
               'Free Kick Accuracy', 'Long Passing', 'Ball Control',
@@ -46,7 +45,7 @@ def find_player_info(soup):
     player_data['age'] = int(infos[infos.index('Age') + 1: -2][0])
     player_data['height'] = int((infos[infos.index('Age') + 2: -1][0]).replace('cm', ''))
     player_data['weight'] = int((infos[infos.index('Age') + 3:][0]).replace('kg', ''))
-    return(player_data)
+    return (player_data)
 
 
 def find_player_stats(soup):
@@ -56,27 +55,27 @@ def find_player_stats(soup):
     player_data['potential'] = int(info[1])
     player_data['value'] = int(info[2])
     player_data['wage'] = int(info[3])
-    return(player_data)
+    return (player_data)
 
 
 def find_player_secondary_info(soup):
     player_data = {}
-    player_data['preff_foot'] = soup.find('label', text='Preferred Foot')\
+    player_data['preff_foot'] = soup.find('label', text='Preferred Foot') \
         .parent.contents[2].strip('\n ')
     player_data['club'] = soup.find_all('ul')[1].find('a').text
-    player_data['club_pos'] = soup.find('label', text='Position')\
+    player_data['club_pos'] = soup.find('label', text='Position') \
         .parent.find('span').text
-    player_data['club_jersey'] = soup.find('label', text='Jersey number')\
+    player_data['club_jersey'] = soup.find('label', text='Jersey number') \
         .parent.contents[2].strip('\n ')
     if soup.find('label', text='Joined'):
-        player_data['club_joined'] = soup.find('label', text='Joined')\
+        player_data['club_joined'] = soup.find('label', text='Joined') \
             .parent.contents[2].strip('\n ')
     player_data['contract_valid'] = soup.find(
-        'label', text='Contract valid until')\
+        'label', text='Contract valid until') \
         .parent.contents[2].strip('\n ')
     if len(soup.find_all('ul')) > 2:
         player_data['country'] = soup.find_all('ul')[2].find('a').text
-    return(player_data)
+    return (player_data)
 
 
 def find_fifa_info(soup):
@@ -92,12 +91,12 @@ def find_fifa_info(soup):
     traits = soup[1].find('h4', text='Traits')
     if traits:
         player_data['traits'] = [li.text.replace('\xa0', '') for li in
-            traits.parent.next_sibling.next_sibling.find_all('li')]
+                                 traits.parent.next_sibling.next_sibling.find_all('li')]
     specialities = soup[1].find('h4', text='Specialities')
     if specialities:
         player_data['specialities'] = [li.text.replace('\xa0', '') for li in
-            specialities.parent.next_sibling.next_sibling.find_all('li')]
-    return(player_data)
+                                       specialities.parent.next_sibling.next_sibling.find_all('li')]
+    return (player_data)
 
 
 def player_all_details(url):
@@ -111,9 +110,8 @@ def player_all_details(url):
     all_details.update(find_player_secondary_info(secondary_info))
     fifa_info = soup.find_all('div', {'class': 'columns mb-20'})
     all_details.update(find_fifa_info(fifa_info))
-    return(all_details)
+    return (all_details)
 
 
 soup = soup_maker(url)
 find_top_players(soup)
-
