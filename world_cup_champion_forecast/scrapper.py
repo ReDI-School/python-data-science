@@ -2,6 +2,7 @@ from bs4 import BeautifulSoup as bs
 import pandas as pd
 import requests
 import re
+import time
 
 ###### Parameters
 
@@ -108,7 +109,9 @@ def query_all_fifa_players_info(nations, years_code, days_code, n_players):
                                                                       days_code[i], n_players)
             results_all.append(results)
 
-    pd.concat(results_all).to_csv('./data/results.csv', index=False, encoding='utf-8')
+        time.sleep(60)
+
+    pd.concat(results_all).to_csv('./data/fifa_players_data.csv', index=False, encoding='utf-8')
 
 
 query_all_fifa_players_info(nations, years_code, days_code, n_players)
