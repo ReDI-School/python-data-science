@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Flask Template Example</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  </head>
+  <body>
+    <div class="container">
+        <h1>{{value1}} + {{value2}} = {{result}}</h1>
+        <select name="value1" form="calcform">
+          {% for val in values1 %}
+          <option value="{{val.value}}" {% if val.selected %}selected{% endif %}>{{val.value}}</option>
+          {% endfor %}
+        </select>
+        <select name="value2" form="calcform">
+          {% for val in values2 %}
+          <option value="{{val.value}}" {% if val.selected %}selected{% endif %}>{{val.value}}</option>
+          {% endfor %}
+        </select>
+        <form action="/" id="calcform">
+          <input type="submit">
+        </form>
+    </div>
+  </body>
+</html>
