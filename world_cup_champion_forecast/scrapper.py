@@ -105,13 +105,16 @@ def query_all_fifa_players_info(nations, years_code, days_code, n_players):
     results_all = []
     for nation in range(1, nations):
         for i in range(len(years_code)):
-            results = get_all_players_statistics_per_country_per_year(url_fifa_base, nation, years_code[i],
+            try:
+                results = get_all_players_statistics_per_country_per_year(url_fifa_base, nation, years_code[i],
                                                                       days_code[i], n_players)
-            results_all.append(results)
+                results_all.append(results)
+            except:
+                print("it failed to get {} from year {} from nation {}.".format(i, years_code[i], nation))
 
         time.sleep(60)
 
-    pd.concat(results_all).to_csv('./data/fifa_players_data.csv', index=False, encoding='utf-8')
+    pd.concat(results_all).to_csv('./world_cup_champion_forecast/data/fifa_players_data.csv', index=False, encoding='utf-8')
 
 
 query_all_fifa_players_info(nations, years_code, days_code, n_players)
