@@ -19,6 +19,13 @@ fifa_stats = ['Crossing', 'Finishing', 'Heading Accuracy',
               'Sliding Tackle', 'GK Diving', 'GK Handling', 'GK Kicking',
               'GK Positioning', 'GK Reflexes']
 
+countries = ['Russia', 'Brazil', 'Iran', 'Japan', 'Mexico', 'Belgium',
+       'South Korea', 'Saudi Arabia', 'Germany', 'England', 'Spain',
+       'Nigeria', 'Costa Rica', 'Poland', 'Egypt', 'Iceland', 'Serbia',
+       'Portugal', 'France', 'Uruguay', 'Argentina', 'Colombia', 'Panama',
+       'Senegal', 'Morocco', 'Tunisia', 'Switzerland', 'Croatia',
+       'Sweden', 'Denmark', 'Australia', 'Peru', 'Korea Republic']
+
 # nation IDs are between [1-251]
 nations = 251
 
@@ -102,21 +109,35 @@ def get_all_players_statistics_per_country_per_year(url_fifa_base, country, year
     return results_per_country_per_year
 
 
+def check_nation(url_fifa_base, country):
+    url = "{url_fifa_base}na%5B0%5D={country}".format(
+        url_fifa_base=url_fifa_base,
+        country=country
+    )
+    soup = soup_maker(url)
+    table = soup.find('table', {'class': 'table-hover'})
+    tbody = table.find('tbody')
+    all_a = tbody.find_all('a', {'class': ''})
+    if len(all_a) == 0:
+        return False
+    return all_a[0]['title'] in countries
+
+
 def query_all_fifa_players_info(nations, years_code, days_code, n_players):
     results_all = []
     for nation in range(1, nations):
-        for i in range(len(years_code)):
-            try:
-                results = get_all_players_statistics_per_country_per_year(url_fifa_base, nation, years_code[i],
-                                                                          days_code[i], n_players)
-                results_all.append(results)
-            except:
-                print("it failed to get {} from year {} from nation {}.".format(i, years_code[i], nation))
+        if check_nation(url_fifa_base, nation):
+            for i in range(len(years_code)):
+                try:
+                    results = get_all_players_statistics_per_country_per_year(url_fifa_base, nation, years_code[i],
+                                                                        days_code[i], n_players)
+                    results_all.append(results)
+                except:
+                    print("it failed to get {} from year {} from nation {}.".format(i, years_code[i], nation))
 
-        time.sleep(60)
+            time.sleep(60)
 
-    pd.concat(results_all).to_csv('./world_cup_champion_forecast/fifa_stats.csv', index=False,
-                                  encoding='utf-8')
+    pd.concat(results_all).to_csv('./fifa_players_data.csv', index=False, encoding='utf-8')
 
 
 query_all_fifa_players_info(nations, years_code, days_code, n_players)

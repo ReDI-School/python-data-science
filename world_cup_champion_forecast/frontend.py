@@ -1,7 +1,7 @@
 from flask import Flask, render_template
 from flask import request
-values1 = [{'value':i, 'selected': False}  for i in range(0, 20)]
-values2 = [{'value':i, 'selected': False}  for i in range(0, 20)]
+values1 = [{'value':i, 'selected': False}  for i in range(0, 30)]
+values2 = [{'value':i, 'selected': False}  for i in range(0, 30)]
 
 app = Flask(__name__)
 
@@ -16,7 +16,7 @@ def template_test():
     values2 = update_values(values2, value2)
     return render_template(
         'template.html', value1=value1, value2=value2, values1=values1, values2=values2, 
-        result=result)
+        result=result, blabla='Fooo')
 
 def update_values(values, value):
     return [{'value':val['value'], 'selected': val['value'] == value} for val in values]
