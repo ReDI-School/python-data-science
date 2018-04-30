@@ -1,0 +1,12 @@
+http://sofifa.com/players?na%5B0%5D=1&col=vl&sort=desc&v=18&e=158961&set=true
+it failed to get 0 from year 18 from nation 1.
+http://sofifa.com/players?na%5B0%5D=1&col=vl&sort=desc&v=14&e=157501&set=true
+it failed to get 1 from year 14 from nation 1.
+http://sofifa.com/players?na%5B0%5D=1&col=vl&sort=desc&v=10&e=156090&set=true
+it failed to get 2 from year 10 from nation 1.
+Traceback (most recent call last):
+  File "world_cup_champion_forecast/scrapper.py", line 122, in <module>
+    query_all_fifa_players_info(nations, years_code, days_code, n_players)
+  File "world_cup_champion_forecast/scrapper.py", line 116, in query_all_fifa_players_info
+    time.sleep(60)
+KeyboardInterrupt
