@@ -1,29 +1,46 @@
 from flask import Flask, render_template
 from flask import request
-values1 = [{'value':i, 'selected': False}  for i in range(0, 30)]
-values2 = [{'value':i, 'selected': False}  for i in range(0, 30)]
+import pickle
+import pandas as pd
+year=2018
+team_fer = pd.read_csv('team_features.csv')
+logreg = pickle.load(open('Final_fifa_Logmodel.sav', 'rb'))
 
 app = Flask(__name__)
 
+@app.route('/static')
+def root():
+    return app.send_static_file('index.html')
+
+
 @app.route("/")
 def template_test():
-    global values1
-    global values2
-    value1 = request.args.get('value1', default = 1, type = int)
-    value2 = request.args.get('value2', default = 2, type = int)
-    result = calculate(value1, value2)
-    values1 = update_values(values1, value1)
-    values2 = update_values(values2, value2)
+ 
+    value1 = request.args.get('country', default = "", type = str)
+    value2 = request.args.get('country2', default = "", type = str)
+    if (value1 == "") or (value2 == ''):
+        result = None
+    else:
+        result = predict(value1, value2,year,team_fer,logreg)
+   
     return render_template(
-        'template.html', value1=value1, value2=value2, values1=values1, values2=values2, 
-        result=result, blabla='Fooo')
+        'website.html', value1=value1, value2=value2,
+        result=result)
 
-def update_values(values, value):
-    return [{'value':val['value'], 'selected': val['value'] == value} for val in values]
+def getval(team1,team2,year,df):
+    team1_par=df[(df["Team"]==team1) & (df["year"]==year)].iloc[0]
+    team2_par=df[(df["Team"]==team2) & (df["year"]==year)].iloc[0]
+    rank_dif=team1_par["Fifa Ranking"]-team2_par["Fifa Ranking"]
+    rate_dif=team1_par["rating"]-team2_par["rating"]
+    return rank_dif,rate_dif
 
-
-def calculate(val1, val2):
-    return val1 + val2
+def predict(team1,team2,year,df,logreg):
+    ex1=getval(team1,team2,year,team_fer)
+    log=logreg.predict([list(ex1)])[0]
+    if log==1:
+        return team2
+    else:
+        return team1
 
 if __name__ == '__main__':
     app.run(debug=True)
