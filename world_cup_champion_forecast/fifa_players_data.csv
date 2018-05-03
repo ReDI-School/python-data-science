@@ -1,0 +1,1028 @@
+age,country_code,dob,full_name,image,nation,potential,rating,short_name,value,wage,year
+26.0,7,"Jun 28, 1991",K. De Bruyne,https://cdn.sofifa.org/1x/18/players/192985.png,Belgium,92.0,91.0,K. De Bruyne,104.5,395.0,18
+26.0,7,"Jan 7, 1991",E. Hazard,https://cdn.sofifa.org/1x/18/players/183277.png,Belgium,91.0,91.0,E. Hazard,95.5,405.0,18
+25.0,7,"May 11, 1992",T. Courtois,https://cdn.sofifa.org/1x/18/players/192119.png,Belgium,92.0,89.0,T. Courtois,59.0,190.0,18
+24.0,7,"May 13, 1993",R. Lukaku,https://cdn.sofifa.org/1x/18/players/192505.png,Belgium,90.0,86.0,R. Lukaku,59.0,210.0,18
+23.0,7,"Sep 4, 1993",Y. Carrasco,https://cdn.sofifa.org/1x/18/players/208418.png,Belgium,90.0,85.0,Y. Carrasco,0.0,0.0,18
+30.0,7,"May 6, 1987",D. Mertens,https://cdn.sofifa.org/1x/18/players/175943.png,Belgium,87.0,87.0,D. Mertens,48.5,135.0,18
+29.0,7,"May 4, 1988",R. Nainggolan,https://cdn.sofifa.org/1x/18/players/178518.png,Belgium,86.0,86.0,R. Nainggolan,42.5,130.0,18
+28.0,7,"Mar 2, 1989",T. Alderweireld,https://cdn.sofifa.org/1x/18/players/184087.png,Belgium,86.0,85.0,T. Alderweireld,35.0,140.0,18
+30.0,7,"Apr 24, 1987",J. Vertonghen,https://cdn.sofifa.org/1x/18/players/172871.png,Belgium,86.0,86.0,J. Vertonghen,33.0,155.0,18
+31.0,7,"Apr 10, 1986",V. Kompany,https://cdn.sofifa.org/1x/18/players/139720.png,Belgium,85.0,85.0,V. Kompany,26.0,170.0,18
+29.0,7,"Jul 16, 1987",M. Dembélé,https://cdn.sofifa.org/1x/18/players/162240.png,Belgium,84.0,84.0,M. Dembélé,30.0,150.0,18
+26.0,7,"Jan 7, 1991",E. Hazard,https://cdn.sofifa.org/1x/18/players/183277.png,Belgium,91.0,91.0,E. Hazard,95.5,405.0,14
+31.0,7,"Apr 10, 1986",V. Kompany,https://cdn.sofifa.org/1x/18/players/139720.png,Belgium,85.0,85.0,V. Kompany,26.0,170.0,14
+26.0,7,"Dec 3, 1990",C. Benteke,https://cdn.sofifa.org/1x/18/players/184111.png,Belgium,80.0,79.0,C. Benteke,15.0,75.0,14
+24.0,7,"May 13, 1993",R. Lukaku,https://cdn.sofifa.org/1x/18/players/192505.png,Belgium,90.0,86.0,R. Lukaku,59.0,210.0,14
+29.0,7,"May 4, 1988",R. Nainggolan,https://cdn.sofifa.org/1x/18/players/178518.png,Belgium,86.0,86.0,R. Nainggolan,42.5,130.0,14
+26.0,7,"Jun 28, 1991",K. De Bruyne,https://cdn.sofifa.org/1x/18/players/192985.png,Belgium,92.0,91.0,K. De Bruyne,104.5,395.0,14
+28.0,7,"Jan 12, 1989",A. Witsel,https://cdn.sofifa.org/1x/18/players/177413.png,Belgium,82.0,82.0,A. Witsel,0.0,0.0,14
+25.0,7,"May 11, 1992",T. Courtois,https://cdn.sofifa.org/1x/18/players/192119.png,Belgium,92.0,89.0,T. Courtois,59.0,190.0,14
+29.0,7,"Oct 5, 1987",K. Mirallas,https://cdn.sofifa.org/1x/18/players/172175.png,Belgium,79.0,79.0,K. Mirallas,12.5,1.0,14
+29.0,7,"Jul 16, 1987",M. Dembélé,https://cdn.sofifa.org/1x/18/players/162240.png,Belgium,84.0,84.0,M. Dembélé,30.0,150.0,14
+29.0,7,"Nov 22, 1987",M. Fellaini,https://cdn.sofifa.org/1x/18/players/176944.png,Belgium,79.0,79.0,M. Fellaini,12.0,140.0,14
+32.0,7,"Jan 1, 1983",P. Monteyne,https://cdn.sofifa.org/1x/16/players/49920.png,Belgium,65.0,65.0,P. Monteyne,300.0,5.0,10
+27.0,7,"Oct 8, 1989",S. Wuytens,https://cdn.sofifa.org/1x/18/players/188416.png,Belgium,73.0,73.0,S. Wuytens,3.4,11.0,10
+35.0,7,"Feb 7, 1978",D. Van Buyten,https://cdn.sofifa.org/1x/14/players/16897.png,Belgium,78.0,78.0,D. Van Buyten,1.2,80.0,10
+34.0,7,"Jun 16, 1976",G. Englebert,https://cdn.sofifa.org/1x/11/players/19713.png,Belgium,69.0,65.0,G. Englebert,0.0,0.0,10
+30.0,7,"Sep 13, 1986",S. Colpaert,https://cdn.sofifa.org/1x/18/players/162821.png,Belgium,67.0,67.0,S. Colpaert,575.0,8.0,10
+28.0,7,"Jan 12, 1989",A. Witsel,https://cdn.sofifa.org/1x/18/players/177413.png,Belgium,82.0,82.0,A. Witsel,0.0,0.0,10
+29.0,7,"May 27, 1988",D. Odoi,https://cdn.sofifa.org/1x/18/players/185349.png,Belgium,69.0,69.0,D. Odoi,825.0,24.0,10
+32.0,7,"Feb 25, 1978",L. Van Nieuwenhuyze,https://cdn.sofifa.org/1x/11/players/151816.png,Belgium,67.0,66.0,L. Van Nieuwenhuyze,1.0,0.0,10
+28.0,7,"Mar 22, 1989",J. Vossen,https://cdn.sofifa.org/1x/18/players/176137.png,Belgium,74.0,74.0,J. Vossen,6.0,25.0,10
+36.0,7,"Feb 16, 1981",O. Deschacht,https://cdn.sofifa.org/1x/18/players/49161.png,Belgium,71.0,71.0,O. Deschacht,325.0,10.0,10
+32.0,7,"May 12, 1983",I. de Camargo,https://cdn.sofifa.org/1x/16/players/49674.png,Belgium,71.0,71.0,I. De Camargo,1.3,25.0,10
+31.0,10,"Sep 9, 1985",L. Modrić,https://cdn.sofifa.org/1x/18/players/177003.png,Croatia,89.0,89.0,L. Modrić,57.0,340.0,18
+29.0,10,"Mar 10, 1988",I. Rakitić,https://cdn.sofifa.org/1x/18/players/168651.png,Croatia,86.0,86.0,I. Rakitić,42.5,275.0,18
+28.0,10,"Feb 2, 1989",I. Perišić,https://cdn.sofifa.org/1x/18/players/181458.png,Croatia,85.0,85.0,I. Perišić,39.0,110.0,18
+23.0,10,"May 6, 1994",M. Kovačić,https://cdn.sofifa.org/1x/18/players/207410.png,Croatia,88.0,82.0,M. Kovačić,30.0,150.0,18
+31.0,10,"May 21, 1986",M. Mandžukić,https://cdn.sofifa.org/1x/18/players/181783.png,Croatia,83.0,83.0,M. Mandžukić,23.5,135.0,18
+24.0,10,"Nov 16, 1992",M. Brozović,https://cdn.sofifa.org/1x/18/players/216352.png,Croatia,82.0,80.0,M. Brozović,18.0,64.0,18
+26.0,10,"Jun 19, 1991",A. Kramarić,https://cdn.sofifa.org/1x/18/players/216354.png,Croatia,83.0,81.0,A. Kramarić,22.0,50.0,18
+32.0,10,"Oct 27, 1984",D. Subašić,https://cdn.sofifa.org/1x/18/players/192593.png,Croatia,84.0,84.0,D. Subašić,18.0,46.0,18
+25.0,10,"Jan 10, 1992",S. Vrsaljko,https://cdn.sofifa.org/1x/18/players/203890.png,Croatia,83.0,80.0,S. Vrsaljko,15.5,54.0,18
+31.0,10,"Feb 5, 1986",V. Ćorluka,https://cdn.sofifa.org/1x/18/players/181786.png,Croatia,82.0,82.0,V. Ćorluka,15.0,54.0,18
+29.0,10,"Jan 5, 1988",N. Kalinić,https://cdn.sofifa.org/1x/18/players/185431.png,Croatia,79.0,79.0,N. Kalinić,12.5,84.0,18
+31.0,10,"Sep 9, 1985",L. Modrić,https://cdn.sofifa.org/1x/18/players/177003.png,Croatia,89.0,89.0,L. Modrić,57.0,340.0,14
+29.0,10,"Mar 10, 1988",I. Rakitić,https://cdn.sofifa.org/1x/18/players/168651.png,Croatia,86.0,86.0,I. Rakitić,42.5,275.0,14
+31.0,10,"May 21, 1986",M. Mandžukić,https://cdn.sofifa.org/1x/18/players/181783.png,Croatia,83.0,83.0,M. Mandžukić,23.5,135.0,14
+27.0,10,"Jul 5, 1989",D. Lovren,https://cdn.sofifa.org/1x/18/players/195086.png,Croatia,82.0,80.0,D. Lovren,14.5,110.0,14
+23.0,10,"May 6, 1994",M. Kovačić,https://cdn.sofifa.org/1x/18/players/207410.png,Croatia,88.0,82.0,M. Kovačić,30.0,150.0,14
+28.0,10,"Feb 25, 1989",M. Badelj,https://cdn.sofifa.org/1x/18/players/201144.png,Croatia,79.0,79.0,M. Badelj,10.0,71.0,14
+28.0,10,"Feb 2, 1989",I. Perišić,https://cdn.sofifa.org/1x/18/players/181458.png,Croatia,85.0,85.0,I. Perišić,39.0,110.0,14
+31.0,10,"Feb 5, 1986",V. Ćorluka,https://cdn.sofifa.org/1x/18/players/181786.png,Croatia,82.0,82.0,V. Ćorluka,15.0,54.0,14
+27.0,10,"Aug 5, 1989",G. Sertic,https://cdn.sofifa.org/1x/18/players/190502.png,France,74.0,74.0,G. Sertic,4.7,25.0,14
+35.0,10,"May 1, 1982",D. Srna,https://cdn.sofifa.org/1x/18/players/139997.png,Croatia,81.0,81.0,D. Srna,3.8,1.0,14
+29.0,10,"Aug 27, 1985",N. Jelavić,https://cdn.sofifa.org/1x/16/players/182763.png,Croatia,73.0,73.0,N. Jelavić,2.8,40.0,14
+27.0,10,"Aug 22, 1987",J. Tadić,https://cdn.sofifa.org/1x/16/players/167430.png,Croatia,63.0,63.0,J. Tadic,350.0,6.0,10
+18.0,10,"Oct 16, 1990",S. Rožman,https://cdn.sofifa.org/1x/11/players/198410.png,Croatia,68.0,53.0,S. Rožman,0.0,0.0,10
+33.0,10,"Jun 8, 1977",H. Vejić,https://cdn.sofifa.org/1x/11/players/173580.png,Croatia,1.0,70.0,H. Vejić,72.0,0.0,10
+27.0,10,"Jul 5, 1989",D. Lovren,https://cdn.sofifa.org/1x/18/players/195086.png,Croatia,82.0,80.0,D. Lovren,14.5,110.0,10
+31.0,10,"Feb 26, 1981",T. Dujmović,https://cdn.sofifa.org/1x/13/players/187151.png,Croatia,67.0,67.0,T. Dujmovic,0.0,0.0,10
+29.0,10,"Jun 18, 1986",A. Rukavina,https://cdn.sofifa.org/1x/16/players/181782.png,Croatia,66.0,66.0,A. Rukavina,600.0,1.0,10
+29.0,10,"Mar 18, 1985",G. Schildenfeld,https://cdn.sofifa.org/1x/15/players/186902.png,Croatia,74.0,74.0,G. Schildenfeld,2.7,30.0,10
+31.0,10,"May 21, 1986",M. Mandžukić,https://cdn.sofifa.org/1x/18/players/181783.png,Croatia,83.0,83.0,M. Mandžukič,23.5,135.0,10
+29.0,10,"Apr 4, 1986",K. Ipša,https://cdn.sofifa.org/1x/16/players/181785.png,Croatia,65.0,65.0,K. Ipša,400.0,1.0,10
+31.0,10,"Feb 5, 1986",V. Ćorluka,https://cdn.sofifa.org/1x/18/players/181786.png,Croatia,82.0,82.0,V. Ćorluka,15.0,54.0,10
+31.0,10,"Oct 3, 1980",I. Turina,https://cdn.sofifa.org/1x/13/players/190237.png,Croatia,72.0,72.0,I. Turina,0.0,0.0,10
+25.0,13,"Feb 14, 1992",C. Eriksen,https://cdn.sofifa.org/1x/18/players/190460.png,Denmark,91.0,88.0,C. Eriksen,74.5,210.0,18
+21.0,13,"Apr 10, 1996",A. Christensen,https://cdn.sofifa.org/1x/18/players/213661.png,Denmark,90.0,82.0,A. Christensen,28.5,93.0,18
+28.0,13,"May 31, 1989",D. Wass,https://cdn.sofifa.org/1x/18/players/172522.png,Denmark,81.0,81.0,D. Wass,17.5,33.0,18
+30.0,13,"Nov 5, 1986",K. Schmeichel,https://cdn.sofifa.org/1x/18/players/163587.png,Denmark,82.0,82.0,K. Schmeichel,14.0,65.0,18
+26.0,13,"Jan 15, 1991",N. Jørgensen,https://cdn.sofifa.org/1x/18/players/199852.png,Denmark,1.0,77.0,N. Jørgensen,78.0,1.0,18
+19.0,13,"Oct 6, 1997",K. Dolberg,https://cdn.sofifa.org/1x/18/players/228687.png,Denmark,85.0,76.0,K. Dolberg,11.5,10.0,18
+28.0,13,"Mar 26, 1989",S. Kjær,https://cdn.sofifa.org/1x/18/players/179645.png,Denmark,79.0,78.0,S. Kjær,9.5,19.0,18
+25.0,13,"Sep 3, 1991",T. Delaney,https://cdn.sofifa.org/1x/18/players/193283.png,Denmark,81.0,78.0,T. Delaney,13.0,30.0,18
+22.0,13,"Feb 4, 1995",P. Sisto,https://cdn.sofifa.org/1x/18/players/212196.png,Denmark,84.0,77.0,P. Sisto,12.5,26.0,18
+22.0,13,"Sep 13, 1994",L. Andersen,https://cdn.sofifa.org/1x/18/players/203903.png,Denmark,1.0,76.0,L. Andersen,82.0,2.0,18
+24.0,13,"Aug 3, 1992",J. Vestergaard,https://cdn.sofifa.org/1x/18/players/202849.png,Denmark,82.0,79.0,J. Vestergaard,13.5,36.0,18
+25.0,13,"Feb 14, 1992",C. Eriksen,https://cdn.sofifa.org/1x/18/players/190460.png,Denmark,91.0,88.0,C. Eriksen,74.5,210.0,14
+30.0,13,"Dec 12, 1984",D. Agger,https://cdn.sofifa.org/1x/16/players/152039.png,Denmark,77.0,77.0,D. Agger,0.0,0.0,14
+23.0,13,"Jun 9, 1994",V. Fischer,https://cdn.sofifa.org/1x/18/players/203965.png,Denmark,81.0,75.0,V. Fischer,9.0,19.0,14
+28.0,13,"Mar 26, 1989",S. Kjær,https://cdn.sofifa.org/1x/18/players/179645.png,Denmark,79.0,78.0,S. Kjær,9.5,19.0,14
+26.0,13,"Jun 5, 1991",M. Braithwaite,https://cdn.sofifa.org/1x/18/players/193290.png,Denmark,78.0,75.0,M. Braithwaite,8.5,19.0,14
+29.0,13,"Jan 16, 1988",N. Bendtner,https://cdn.sofifa.org/1x/18/players/167706.png,Denmark,74.0,74.0,N. Bendtner,5.5,10.0,14
+25.0,13,"Apr 14, 1992",F. Sørensen,https://cdn.sofifa.org/1x/18/players/201342.png,Denmark,80.0,76.0,F. Sørensen,8.5,33.0,14
+24.0,13,"Aug 11, 1992",J. Okore,https://cdn.sofifa.org/1x/18/players/204163.png,Denmark,76.0,72.0,J. Okore,3.4,9.0,14
+22.0,13,"Sep 13, 1994",L. Andersen,https://cdn.sofifa.org/1x/18/players/203903.png,Denmark,1.0,76.0,L. Andersen,82.0,2.0,14
+24.0,13,"Aug 3, 1992",J. Vestergaard,https://cdn.sofifa.org/1x/18/players/202849.png,Denmark,82.0,79.0,J. Vestergaard,13.5,36.0,14
+24.0,13,"Mar 16, 1993",A. Cornelius,https://cdn.sofifa.org/1x/18/players/201943.png,Denmark,79.0,74.0,A. Cornelius,7.5,25.0,14
+25.0,13,"Sep 7, 1985",B. Fetai,https://cdn.sofifa.org/1x/12/players/151552.png,FYR Macedonia,63.0,61.0,B. Fetai,0.0,0.0,10
+32.0,13,"Oct 7, 1984",S. Poulsen,https://cdn.sofifa.org/1x/18/players/152065.png,Denmark,63.0,63.0,S. Poulsen,200.0,3.0,10
+21.0,13,"Apr 19, 1988",K. Lassen,https://cdn.sofifa.org/1x/11/players/193282.png,Denmark,60.0,41.0,K. Lassen,0.0,0.0,10
+30.0,13,"Nov 5, 1986",K. Schmeichel,https://cdn.sofifa.org/1x/18/players/163587.png,Denmark,82.0,82.0,K. Schmeichel,14.0,65.0,10
+25.0,13,"Sep 3, 1991",T. Delaney,https://cdn.sofifa.org/1x/18/players/193283.png,Denmark,81.0,78.0,T. Delaney,13.0,30.0,10
+32.0,13,"Feb 1, 1985",D. Ousted,https://cdn.sofifa.org/1x/18/players/162052.png,Denmark,73.0,73.0,D. Ousted Hansen,2.3,7.0,10
+28.0,13,"Jul 16, 1988",A. Randrup,https://cdn.sofifa.org/1x/18/players/172549.png,Denmark,63.0,63.0,A. Randrup,290.0,1.0,10
+34.0,13,"May 23, 1983",K. Stuhr-Ellegaard,https://cdn.sofifa.org/1x/18/players/138247.png,Denmark,72.0,72.0,K. Stuhr-Ellegaard,1.3,4.0,10
+27.0,13,"Oct 23, 1988",N. Agger,https://cdn.sofifa.org/1x/17/players/172551.png,Denmark,61.0,61.0,N. Agger,240.0,2.0,10
+33.0,13,"Feb 28, 1976",U. Laursen,https://cdn.sofifa.org/1x/11/players/6408.png,Denmark,75.0,66.0,U. Laursen,0.0,0.0,10
+34.0,13,"Jun 6, 1983",M. Krohn-Dehli,https://cdn.sofifa.org/1x/18/players/159240.png,Denmark,77.0,77.0,M. Krohn-Dehli,4.5,27.0,10
+23.0,14,"Jul 28, 1993",H. Kane,https://cdn.sofifa.org/1x/18/players/202126.png,England,91.0,88.0,H. Kane,76.5,210.0,18
+21.0,14,"Apr 11, 1996",D. Alli,https://cdn.sofifa.org/1x/18/players/211117.png,England,90.0,84.0,D. Alli,43.0,115.0,18
+22.0,14,"Dec 8, 1994",R. Sterling,https://cdn.sofifa.org/1x/18/players/202652.png,England,1.0,85.0,R. Sterling,88.0,49.0,18
+19.0,14,"Oct 31, 1997",M. Rashford,https://cdn.sofifa.org/1x/18/players/231677.png,England,90.0,81.0,M. Rashford,26.5,74.0,18
+27.0,14,"May 28, 1990",K. Walker,https://cdn.sofifa.org/1x/18/players/188377.png,England,85.0,84.0,K. Walker,29.0,170.0,18
+27.0,14,"Sep 1, 1989",D. Sturridge,https://cdn.sofifa.org/1x/18/players/171833.png,England,81.0,81.0,D. Sturridge,19.0,130.0,18
+23.0,14,"Jan 15, 1994",E. Dier,https://cdn.sofifa.org/1x/18/players/202335.png,England,85.0,81.0,E. Dier,19.5,79.0,18
+23.0,14,"Dec 5, 1993",R. Barkley,https://cdn.sofifa.org/1x/18/players/199189.png,England,83.0,80.0,R. Barkley,19.0,110.0,18
+25.0,14,"Jan 1, 1992",J. Wilshere,https://cdn.sofifa.org/1x/18/players/189461.png,England,83.0,81.0,J. Wilshere,21.5,115.0,18
+29.0,14,"May 10, 1988",A. Lallana,https://cdn.sofifa.org/1x/18/players/180819.png,England,82.0,82.0,A. Lallana,21.5,135.0,18
+24.0,14,"Jan 11, 1993",M. Keane,https://cdn.sofifa.org/1x/18/players/207599.png,England,83.0,80.0,M. Keane,16.0,91.0,18
+31.0,14,"Oct 24, 1985",W. Rooney,https://cdn.sofifa.org/1x/18/players/54050.png,England,81.0,81.0,W. Rooney,15.5,120.0,14
+25.0,14,"Jan 1, 1992",J. Wilshere,https://cdn.sofifa.org/1x/18/players/189461.png,England,83.0,81.0,J. Wilshere,21.5,115.0,14
+27.0,14,"Sep 1, 1989",D. Sturridge,https://cdn.sofifa.org/1x/18/players/171833.png,England,81.0,81.0,D. Sturridge,19.0,130.0,14
+28.0,14,"Mar 16, 1989",T. Walcott,https://cdn.sofifa.org/1x/18/players/164859.png,England,79.0,79.0,T. Walcott,12.5,125.0,14
+26.0,14,"Nov 26, 1990",D. Welbeck,https://cdn.sofifa.org/1x/18/players/186146.png,England,80.0,79.0,D. Welbeck,15.0,130.0,14
+25.0,14,"Feb 21, 1992",P. Jones,https://cdn.sofifa.org/1x/18/players/194957.png,England,81.0,80.0,P. Jones,14.5,115.0,14
+23.0,14,"Dec 5, 1993",R. Barkley,https://cdn.sofifa.org/1x/18/players/199189.png,England,83.0,80.0,R. Barkley,19.0,110.0,14
+29.0,14,"May 10, 1988",A. Lallana,https://cdn.sofifa.org/1x/18/players/180819.png,England,82.0,82.0,A. Lallana,21.5,135.0,14
+23.0,14,"Aug 15, 1993",A. Oxlade-Chamberlain,https://cdn.sofifa.org/1x/18/players/198784.png,England,85.0,81.0,A. Oxlade-Chamberlain,23.0,105.0,14
+32.0,14,"Dec 11, 1984",L. Baines,https://cdn.sofifa.org/1x/18/players/163631.png,England,80.0,80.0,L. Baines,8.0,110.0,14
+25.0,14,"Jul 16, 1991",A. Townsend,https://cdn.sofifa.org/1x/18/players/194932.png,England,79.0,78.0,A. Townsend,12.5,55.0,14
+35.0,14,"Jan 7, 1982",P. Robinson,https://cdn.sofifa.org/1x/18/players/163584.png,England,64.0,64.0,P. Robinson,110.0,2.0,10
+27.0,14,"Sep 23, 1984",D. Foster,https://cdn.sofifa.org/1x/13/players/181504.png,England,60.0,59.0,D. Foster,0.0,0.0,10
+36.0,14,"Nov 21, 1979",D. Butterfield,https://cdn.sofifa.org/1x/17/players/53504.png,England,61.0,61.0,D. Butterfield,0.0,1.0,10
+27.0,14,"Jul 8, 1989",J. Akinde,https://cdn.sofifa.org/1x/18/players/186112.png,England,64.0,64.0,J. Akinde,475.0,5.0,10
+19.0,14,"Jun 7, 1990",J. Knowles,https://cdn.sofifa.org/1x/11/players/193536.png,England,54.0,49.0,J. Knowles,6.0,0.0,10
+18.0,14,"Dec 18, 1991",D. Purvis,https://cdn.sofifa.org/1x/11/players/197889.png,England,56.0,48.0,D. Purvis,0.0,0.0,10
+28.0,14,"Oct 10, 1986",L. Wilson,https://cdn.sofifa.org/1x/16/players/160769.png,England,61.0,61.0,L. Wilson,170.0,2.0,10
+21.0,14,"Jul 17, 1989",L. Potter,https://cdn.sofifa.org/1x/12/players/173825.png,England,1.0,59.0,L. Potter,66.0,0.0,10
+29.0,14,"Mar 1, 1984",D. Murphy,https://cdn.sofifa.org/1x/14/players/52737.png,England,69.0,69.0,D. Murphy,450.0,10.0,10
+33.0,14,"Oct 12, 1979",D. Cadamarteri,https://cdn.sofifa.org/1x/14/players/53505.png,England,59.0,59.0,D. Cadamarteri,0.0,0.0,10
+24.0,14,"Jul 18, 1988",N. Liversedge,https://cdn.sofifa.org/1x/14/players/188673.png,England,64.0,56.0,N. Liversidge,0.0,0.0,10
+26.0,18,"Mar 21, 1991",A. Griezmann,https://cdn.sofifa.org/1x/18/players/194765.png,France,89.0,88.0,A. Griezmann,71.0,150.0,18
+24.0,18,"Mar 15, 1993",P. Pogba,https://cdn.sofifa.org/1x/18/players/195864.png,France,92.0,88.0,P. Pogba,76.0,250.0,18
+26.0,18,"Mar 29, 1991",N. Kanté,https://cdn.sofifa.org/1x/18/players/215914.png,France,90.0,88.0,N. Kanté,59.5,245.0,18
+26.0,18,"May 28, 1991",A. Lacazette,https://cdn.sofifa.org/1x/18/players/193301.png,France,87.0,84.0,A. Lacazette,39.5,180.0,18
+24.0,18,"Apr 25, 1993",R. Varane,https://cdn.sofifa.org/1x/18/players/201535.png,France,92.0,85.0,R. Varane,46.5,175.0,18
+29.0,18,"Dec 19, 1987",K. Benzema,https://cdn.sofifa.org/1x/18/players/165153.png,France,85.0,85.0,K. Benzema,38.5,250.0,18
+18.0,18,"Dec 20, 1998",K. Mbappé,https://cdn.sofifa.org/1x/18/players/231747.png,France,94.0,84.0,K. Mbappé,47.0,41.0,18
+20.0,18,"May 15, 1997",O. Dembélé,https://cdn.sofifa.org/1x/18/players/231443.png,France,92.0,83.0,O. Dembélé,40.0,150.0,18
+30.0,18,"Dec 26, 1986",H. Lloris,https://cdn.sofifa.org/1x/18/players/167948.png,France,88.0,88.0,H. Lloris,38.0,165.0,18
+21.0,18,"Nov 12, 1995",T. Lemar,https://cdn.sofifa.org/1x/18/players/213565.png,France,1.0,83.0,T. Lemar,89.0,1.0,18
+23.0,18,"Jul 18, 1993",N. Fekir,https://cdn.sofifa.org/1x/18/players/216594.png,France,88.0,84.0,N. Fekir,40.5,92.0,18
+34.0,18,"Apr 7, 1983",F. Ribéry,https://cdn.sofifa.org/1x/18/players/156616.png,France,85.0,85.0,F. Ribéry,19.5,150.0,14
+29.0,18,"Dec 19, 1987",K. Benzema,https://cdn.sofifa.org/1x/18/players/165153.png,France,85.0,85.0,K. Benzema,38.5,250.0,14
+24.0,18,"Mar 15, 1993",P. Pogba,https://cdn.sofifa.org/1x/18/players/195864.png,France,92.0,88.0,P. Pogba,76.0,250.0,14
+30.0,18,"Jun 26, 1987",S. Nasri,https://cdn.sofifa.org/1x/18/players/165239.png,France,80.0,80.0,S. Nasri,14.0,27.0,14
+26.0,18,"Jan 7, 1991",C. Grenier,https://cdn.sofifa.org/1x/18/players/187924.png,France,75.0,74.0,C. Grenier,6.5,23.0,14
+26.0,18,"Mar 21, 1991",A. Griezmann,https://cdn.sofifa.org/1x/18/players/194765.png,France,89.0,88.0,A. Griezmann,71.0,150.0,14
+24.0,18,"Apr 25, 1993",R. Varane,https://cdn.sofifa.org/1x/18/players/201535.png,France,92.0,85.0,R. Varane,46.5,175.0,14
+26.0,18,"Feb 13, 1991",E. Mangala,https://cdn.sofifa.org/1x/18/players/190531.png,France,80.0,78.0,E. Mangala,10.5,100.0,14
+31.0,18,"Jan 14, 1986",Y. Cabaye,https://cdn.sofifa.org/1x/18/players/167943.png,France,78.0,78.0,Y. Cabaye,9.0,58.0,14
+27.0,18,"Mar 8, 1990",R. Cabella,https://cdn.sofifa.org/1x/18/players/193476.png,France,77.0,77.0,R. Cabella,9.5,32.0,14
+29.0,18,"Apr 28, 1988",J. Biabiany,https://cdn.sofifa.org/1x/18/players/184312.png,France,75.0,75.0,J. Biabiany,6.5,1.0,14
+37.0,18,"Jul 13, 1974",R. Le Crom,https://cdn.sofifa.org/1x/13/players/4864.png,France,67.0,67.0,R. Le Crom,0.0,0.0,10
+29.0,18,"Jul 21, 1983",I. Bouzid,https://cdn.sofifa.org/1x/14/players/140544.png,Algeria,62.0,62.0,I. Bouzid,150.0,5.0,10
+33.0,18,"Aug 5, 1983",J. Sorbon,https://cdn.sofifa.org/1x/18/players/167936.png,France,74.0,74.0,J. Sorbon,2.3,21.0,10
+33.0,18,"Sep 29, 1981",J. Cardy,https://cdn.sofifa.org/1x/16/players/112384.png,France,64.0,64.0,J. Cardy,190.0,3.0,10
+35.0,18,"Apr 9, 1979",P. Luccin,https://cdn.sofifa.org/1x/15/players/4353.png,France,63.0,63.0,P. Luccin,0.0,0.0,10
+28.0,18,"May 14, 1983",M. Valverde,https://cdn.sofifa.org/1x/12/players/138753.png,France,72.0,71.0,M. Valverde,0.0,0.0,10
+29.0,18,"Jul 11, 1984",S. Renouard,https://cdn.sofifa.org/1x/15/players/140545.png,France,62.0,62.0,S. Renouard,325.0,5.0,10
+29.0,18,"Apr 16, 1987",H. Habibou,https://cdn.sofifa.org/1x/17/players/178177.png,Central African Rep.,71.0,71.0,M. Habibou,1.6,5.0,10
+30.0,18,"Jul 19, 1986",D. Zurutuza,https://cdn.sofifa.org/1x/18/players/172290.png,France,79.0,79.0,Zurutuza,11.5,37.0,10
+24.0,18,"Jun 18, 1985",B. Ndzomo,https://cdn.sofifa.org/1x/11/players/193026.png,France,71.0,60.0,B. Ndzomo,0.0,0.0,10
+35.0,18,"Jan 17, 1976",Y. Lachor,https://cdn.sofifa.org/1x/12/players/4867.png,France,4.0,66.0,Y. Lachor,66.0,9.0,10
+27.0,21,"Jan 4, 1990",T. Kroos,https://cdn.sofifa.org/1x/18/players/182521.png,Germany,90.0,90.0,T. Kroos,79.0,340.0,18
+31.0,21,"Mar 27, 1986",M. Neuer,https://cdn.sofifa.org/1x/18/players/167495.png,Germany,92.0,92.0,M. Neuer,61.0,230.0,18
+28.0,21,"Oct 15, 1988",M. Özil,https://cdn.sofifa.org/1x/18/players/176635.png,Germany,87.0,87.0,M. Özil,51.0,205.0,18
+28.0,21,"Sep 3, 1988",J. Boateng,https://cdn.sofifa.org/1x/18/players/183907.png,Germany,87.0,87.0,J. Boateng,41.0,165.0,18
+28.0,21,"Dec 16, 1988",M. Hummels,https://cdn.sofifa.org/1x/18/players/178603.png,Germany,90.0,90.0,M. Hummels,62.5,215.0,18
+27.0,21,"Sep 13, 1989",T. Müller,https://cdn.sofifa.org/1x/18/players/189596.png,Germany,86.0,86.0,T. Müller,47.5,190.0,18
+28.0,21,"May 31, 1989",M. Reus,https://cdn.sofifa.org/1x/18/players/188350.png,Germany,85.0,85.0,M. Reus,39.0,98.0,18
+26.0,21,"Oct 24, 1990",I. Gündoğan,https://cdn.sofifa.org/1x/18/players/186942.png,Germany,86.0,85.0,I. Gündoğan,44.5,190.0,18
+25.0,21,"Apr 30, 1992",M. ter Stegen,https://cdn.sofifa.org/1x/18/players/192448.png,Germany,90.0,87.0,M. ter Stegen,44.5,185.0,18
+23.0,21,"Sep 20, 1993",J. Draxler,https://cdn.sofifa.org/1x/18/players/202166.png,Germany,87.0,84.0,J. Draxler,39.5,120.0,18
+21.0,21,"Jan 11, 1996",L. Sané,https://cdn.sofifa.org/1x/18/players/222492.png,Germany,1.0,85.0,L. Sané,92.0,54.5,18
+28.0,21,"Oct 15, 1988",M. Özil,https://cdn.sofifa.org/1x/18/players/176635.png,Germany,87.0,87.0,M. Özil,51.0,205.0,14
+25.0,21,"Jun 3, 1992",M. Götze,https://cdn.sofifa.org/1x/18/players/192318.png,Germany,87.0,83.0,M. Götze,33.0,69.0,14
+27.0,21,"Jan 4, 1990",T. Kroos,https://cdn.sofifa.org/1x/18/players/182521.png,Germany,90.0,90.0,T. Kroos,79.0,340.0,14
+27.0,21,"Sep 13, 1989",T. Müller,https://cdn.sofifa.org/1x/18/players/189596.png,Germany,86.0,86.0,T. Müller,47.5,190.0,14
+28.0,21,"May 31, 1989",M. Reus,https://cdn.sofifa.org/1x/18/players/188350.png,Germany,85.0,85.0,M. Reus,39.0,98.0,14
+32.0,21,"Aug 1, 1984",B. Schweinsteiger,https://cdn.sofifa.org/1x/18/players/121944.png,Germany,81.0,81.0,B. Schweinsteiger,13.5,13.0,14
+26.0,21,"Oct 24, 1990",I. Gündoğan,https://cdn.sofifa.org/1x/18/players/186942.png,Germany,86.0,85.0,I. Gündoğan,44.5,190.0,14
+28.0,21,"Dec 16, 1988",M. Hummels,https://cdn.sofifa.org/1x/18/players/178603.png,Germany,90.0,90.0,M. Hummels,62.5,215.0,14
+31.0,21,"Mar 27, 1986",M. Neuer,https://cdn.sofifa.org/1x/18/players/167495.png,Germany,92.0,92.0,M. Neuer,61.0,230.0,14
+32.0,21,"Nov 11, 1983",P. Lahm,https://cdn.sofifa.org/1x/17/players/121939.png,Germany,88.0,88.0,P. Lahm,29.5,140.0,14
+26.0,21,"Nov 6, 1990",A. Schürrle,https://cdn.sofifa.org/1x/18/players/193130.png,Germany,79.0,79.0,A. Schürrle,13.5,72.0,14
+26.0,21,"Jan 10, 1991",C. Fandrich,https://cdn.sofifa.org/1x/18/players/197376.png,Germany,68.0,67.0,C. Fandrich,900.0,6.0,10
+30.0,21,"Jan 4, 1979",S. Biran,https://cdn.sofifa.org/1x/11/players/191232.png,Germany,2.0,58.0,S. Biran,64.0,0.0,10
+27.0,21,"Sep 2, 1986",H. Ernst,https://cdn.sofifa.org/1x/15/players/196352.png,Germany,61.0,60.0,H. Ernst,190.0,4.0,10
+30.0,21,"Jan 29, 1986",D. Brinkmann,https://cdn.sofifa.org/1x/17/players/177409.png,Germany,65.0,65.0,D. Brinkmann,475.0,1.0,10
+34.0,21,"Feb 22, 1975",T. Meggle,https://cdn.sofifa.org/1x/11/players/46849.png,Germany,1.0,66.0,T. Meggle,73.0,1.0,10
+31.0,21,"Sep 25, 1980",D. Göhlert,https://cdn.sofifa.org/1x/13/players/117249.png,Germany,62.0,62.0,D. Göhlert,0.0,0.0,10
+23.0,21,"Mar 16, 1990",B. Vukcevic,https://cdn.sofifa.org/1x/14/players/193281.png,Germany,76.0,69.0,B. Vukcevic,0.0,0.0,10
+29.0,21,"Jul 31, 1987",A. Fink,https://cdn.sofifa.org/1x/18/players/193537.png,Germany,69.0,69.0,A. Fink,1.1,1.0,10
+32.0,21,"Mar 27, 1981",Cacau,https://cdn.sofifa.org/1x/14/players/101378.png,Germany,75.0,75.0,Cacau,0.0,0.0,10
+33.0,21,"Nov 22, 1983",P. Niemeyer,https://cdn.sofifa.org/1x/18/players/54018.png,Germany,70.0,70.0,P. Niemeyer,725.0,16.0,10
+30.0,21,"Apr 5, 1987",M. Grün,https://cdn.sofifa.org/1x/18/players/194050.png,Germany,68.0,68.0,M. Grün,575.0,22.0,10
+27.0,24,"Sep 8, 1989",G. Sigurðsson,https://cdn.sofifa.org/1x/18/players/184484.png,Iceland,81.0,81.0,G. Sigurðsson,18.5,120.0,18
+28.0,24,"Feb 1, 1989",A. Finnbogason,https://cdn.sofifa.org/1x/18/players/195586.png,Iceland,78.0,78.0,A. Finnbogason,10.5,33.0,18
+26.0,24,"Oct 27, 1990",J. Guðmundsson,https://cdn.sofifa.org/1x/18/players/191076.png,Iceland,78.0,78.0,J. Guðmundsson,11.0,58.0,18
+25.0,24,"Dec 26, 1991",B. Sigurðarson,https://cdn.sofifa.org/1x/18/players/190461.png,Iceland,76.0,73.0,B. Sigurðarson,5.0,34.0,18
+23.0,24,"Aug 5, 1993",S. Ingason,https://cdn.sofifa.org/1x/18/players/221422.png,Iceland,78.0,73.0,S. Ingason,4.5,25.0,18
+33.0,24,"Jun 29, 1984",E. Hallfreðsson,https://cdn.sofifa.org/1x/18/players/133249.png,Iceland,73.0,73.0,E. Hallfreðsson,2.3,26.0,18
+27.0,24,"Mar 14, 1990",K. Sigþórsson,https://cdn.sofifa.org/1x/18/players/184255.png,Iceland,71.0,71.0,K. Sigþórsson,2.5,18.0,18
+28.0,24,"Apr 22, 1989",A. Gunnarsson,https://cdn.sofifa.org/1x/18/players/189167.png,Iceland,72.0,72.0,A. Gunnarsson,2.5,20.0,18
+29.0,24,"May 27, 1988",B. Bjarnason,https://cdn.sofifa.org/1x/18/players/175789.png,Iceland,71.0,71.0,B. Bjarnason,2.3,26.0,18
+31.0,24,"Jun 19, 1986",R. Sigurðsson,https://cdn.sofifa.org/1x/18/players/179897.png,Iceland,72.0,72.0,R. Sigurðsson,2.1,21.0,18
+30.0,24,"Jan 30, 1987",M. Vilhjálmsson,https://cdn.sofifa.org/1x/18/players/202175.png,Iceland,70.0,70.0,M. Vilhjálmsson,1.7,7.0,18
+28.0,24,"Feb 1, 1989",A. Finnbogason,https://cdn.sofifa.org/1x/18/players/195586.png,Iceland,78.0,78.0,A. Finnbogason,10.5,33.0,14
+27.0,24,"Sep 8, 1989",G. Sigurðsson,https://cdn.sofifa.org/1x/18/players/184484.png,Iceland,81.0,81.0,G. Sigurðsson,18.5,120.0,14
+27.0,24,"Mar 14, 1990",K. Sigþórsson,https://cdn.sofifa.org/1x/18/players/184255.png,Iceland,71.0,71.0,K. Sigþórsson,2.5,18.0,14
+26.0,24,"Oct 27, 1990",J. Guðmundsson,https://cdn.sofifa.org/1x/18/players/191076.png,Iceland,78.0,78.0,J. Gudmundsson,11.0,58.0,14
+28.0,24,"Apr 22, 1989",A. Gunnarsson,https://cdn.sofifa.org/1x/18/players/189167.png,Iceland,72.0,72.0,A. Gunnarsson,2.5,20.0,14
+29.0,24,"May 27, 1988",B. Bjarnason,https://cdn.sofifa.org/1x/18/players/175789.png,Iceland,71.0,71.0,B. Bjarnason,2.3,26.0,14
+25.0,24,"Dec 26, 1991",B. Sigurðarson,https://cdn.sofifa.org/1x/18/players/190461.png,Iceland,76.0,73.0,B. Sigurdarson,5.0,34.0,14
+28.0,24,"Sep 7, 1988",A. Smárason,https://cdn.sofifa.org/1x/18/players/189721.png,Iceland,65.0,65.0,A. Smárason,550.0,2.0,14
+29.0,24,"Feb 25, 1988",R. Gíslason,https://cdn.sofifa.org/1x/18/players/173667.png,Iceland,1.0,68.0,R. Gíslason,68.0,1.0,14
+33.0,24,"Jun 29, 1984",E. Hallfreðsson,https://cdn.sofifa.org/1x/18/players/133249.png,Iceland,73.0,73.0,E. Hallfreðsson,2.3,26.0,14
+26.0,24,"Apr 30, 1991",V. Pálsson,https://cdn.sofifa.org/1x/18/players/190640.png,Iceland,66.0,64.0,V. Pálsson,525.0,5.0,14
+34.0,24,"Apr 1, 1983",O. Skúlason,https://cdn.sofifa.org/1x/18/players/160770.png,Iceland,70.0,70.0,O. Skúlason,550.0,10.0,10
+33.0,24,"Oct 12, 1981",I. Sigurdsson,https://cdn.sofifa.org/1x/16/players/34308.png,Iceland,69.0,69.0,I. Sigurdsson,450.0,5.0,10
+20.0,24,"Mar 16, 1991",A. Pétursson,https://cdn.sofifa.org/1x/12/players/187908.png,Iceland,59.0,54.0,A. Pétursson,0.0,0.0,10
+36.0,24,"Jul 11, 1974",H. Hreiðarsson,https://cdn.sofifa.org/1x/12/players/4633.png,Iceland,63.0,63.0,H. Hreiðarsson,0.0,0.0,10
+28.0,24,"Sep 7, 1988",A. Smárason,https://cdn.sofifa.org/1x/18/players/189721.png,Iceland,65.0,65.0,A. Smárason,550.0,2.0,10
+35.0,24,"Mar 15, 1978",A. Viðarsson,https://cdn.sofifa.org/1x/14/players/19260.png,Iceland,60.0,60.0,A. Vidarsson,35.0,3.0,10
+32.0,24,"Jul 13, 1981",H. Daníelsson,https://cdn.sofifa.org/1x/15/players/18766.png,Iceland,67.0,67.0,H. Danielsson,0.0,0.0,10
+32.0,24,"Nov 11, 1984",B. Sævarsson,https://cdn.sofifa.org/1x/18/players/183122.png,Iceland,66.0,66.0,B. Sævarsson,0.0,0.0,10
+29.0,24,"Feb 25, 1988",R. Gíslason,https://cdn.sofifa.org/1x/18/players/173667.png,Iceland,1.0,68.0,R. Gíslason,68.0,1.0,10
+26.0,24,"Oct 27, 1990",J. Guðmundsson,https://cdn.sofifa.org/1x/18/players/191076.png,Iceland,78.0,78.0,J. Gudmundsson,11.0,58.0,10
+35.0,24,"May 7, 1975",A. Arason,https://cdn.sofifa.org/1x/11/players/6251.png,Iceland,74.0,68.0,A. Arason,0.0,0.0,10
+28.0,37,"Aug 21, 1988",R. Lewandowski,https://cdn.sofifa.org/1x/18/players/188545.png,Poland,91.0,91.0,R. Lewandowski,92.0,355.0,18
+29.0,37,"Feb 3, 1988",K. Glik,https://cdn.sofifa.org/1x/18/players/190547.png,Poland,84.0,84.0,K. Glik,24.0,60.0,18
+23.0,37,"May 20, 1994",P. Zieliński,https://cdn.sofifa.org/1x/18/players/210406.png,Poland,87.0,80.0,P. Zieliński,20.5,64.0,18
+27.0,37,"Apr 18, 1990",W. Szczęsny,https://cdn.sofifa.org/1x/18/players/186153.png,Poland,85.0,83.0,W. Szczęsny,21.0,90.0,18
+23.0,37,"Feb 28, 1994",A. Milik,https://cdn.sofifa.org/1x/18/players/205175.png,Poland,86.0,79.0,A. Milik,18.0,71.0,18
+32.0,37,"Jun 3, 1985",L. Piszczek,https://cdn.sofifa.org/1x/18/players/173771.png,Poland,83.0,83.0,L. Piszczek,14.5,66.0,18
+27.0,37,"Jan 29, 1990",G. Krychowiak,https://cdn.sofifa.org/1x/18/players/197242.png,Poland,80.0,79.0,G. Krychowiak,12.0,81.0,18
+22.0,37,"Feb 2, 1995",K. Linetty,https://cdn.sofifa.org/1x/18/players/211408.png,Poland,83.0,76.0,K. Linetty,10.5,34.0,18
+26.0,37,"Jun 3, 1991",L. Teodorczyk,https://cdn.sofifa.org/1x/18/players/201013.png,Poland,78.0,76.0,L. Teodorczyk,9.5,29.0,18
+32.0,37,"Apr 18, 1985",L. Fabiański,https://cdn.sofifa.org/1x/18/players/164835.png,Poland,80.0,80.0,L. Fabiański,8.5,60.0,18
+31.0,37,"Dec 14, 1985",J. Błaszczykowski,https://cdn.sofifa.org/1x/18/players/164994.png,Poland,75.0,75.0,J. Błaszczykowski,6.0,51.0,18
+28.0,37,"Aug 21, 1988",R. Lewandowski,https://cdn.sofifa.org/1x/18/players/188545.png,Poland,91.0,91.0,R. Lewandowski,92.0,355.0,14
+31.0,37,"Dec 14, 1985",J. Błaszczykowski,https://cdn.sofifa.org/1x/18/players/164994.png,Poland,75.0,75.0,J. Błaszczykowski,6.0,51.0,14
+32.0,37,"Jun 3, 1985",L. Piszczek,https://cdn.sofifa.org/1x/18/players/173771.png,Poland,83.0,83.0,L. Piszczek,14.5,66.0,14
+27.0,37,"Apr 18, 1990",W. Szczęsny,https://cdn.sofifa.org/1x/18/players/186153.png,Poland,85.0,83.0,W. Szczęsny,21.0,90.0,14
+27.0,37,"Jan 29, 1990",G. Krychowiak,https://cdn.sofifa.org/1x/18/players/197242.png,Poland,80.0,79.0,G. Krychowiak,12.0,81.0,14
+29.0,37,"Feb 3, 1988",K. Glik,https://cdn.sofifa.org/1x/18/players/190547.png,Poland,84.0,84.0,K. Glik,24.0,60.0,14
+27.0,37,"Jun 12, 1990",A. Sobiech,https://cdn.sofifa.org/1x/18/players/189447.png,Poland,71.0,70.0,A. Sobiech,2.1,19.0,14
+27.0,37,"Aug 19, 1989",M. Rybus,https://cdn.sofifa.org/1x/18/players/186347.png,Poland,71.0,71.0,M. Rybus,2.0,25.0,14
+32.0,37,"Nov 10, 1984",L. Obraniak,https://cdn.sofifa.org/1x/18/players/138066.png,Poland,68.0,68.0,L. Obraniak,700.0,6.0,14
+27.0,37,"Jun 13, 1990",M. Klich,https://cdn.sofifa.org/1x/18/players/192955.png,Poland,73.0,72.0,M. Klich,3.5,24.0,14
+26.0,37,"Aug 29, 1990",J. Kosecki,https://cdn.sofifa.org/1x/18/players/204381.png,Poland,69.0,69.0,J. Kosecki,1.1,5.0,14
+30.0,37,"Jun 6, 1984",B. Telichowski,https://cdn.sofifa.org/1x/15/players/148480.png,Poland,62.0,62.0,B. Telichowski,230.0,1.0,10
+28.0,37,"Sep 27, 1988",M. Gostomski,https://cdn.sofifa.org/1x/18/players/176384.png,Poland,64.0,64.0,M. Gostomski,325.0,2.0,10
+30.0,37,"Sep 29, 1983",P. Stawarczyk,https://cdn.sofifa.org/1x/15/players/177920.png,Poland,64.0,64.0,P. Stawarczyk,375.0,6.0,10
+29.0,37,"Jun 2, 1982",L. Cichos,https://cdn.sofifa.org/1x/12/players/193024.png,Poland,1.0,55.0,L. Cichos,55.0,1.0,10
+29.0,37,"May 2, 1988",M. Korzym,https://cdn.sofifa.org/1x/18/players/157698.png,Poland,63.0,63.0,M. Korzym,375.0,1.0,10
+29.0,37,"Jun 8, 1988",K. Grosicki,https://cdn.sofifa.org/1x/18/players/177922.png,Poland,74.0,74.0,K. Grosicki,5.5,13.0,10
+26.0,37,"Aug 7, 1982",B. Chwalibogowski,https://cdn.sofifa.org/1x/11/players/165636.png,Poland,64.0,57.0,B. Chwalibogowski,0.0,0.0,10
+28.0,37,"Dec 27, 1985",P. Buzała,https://cdn.sofifa.org/1x/15/players/176388.png,Poland,62.0,62.0,P. Buzała,350.0,3.0,10
+36.0,37,"Mar 24, 1973",J. Bąk,https://cdn.sofifa.org/1x/11/players/1541.png,Poland,75.0,65.0,J. Bąk,0.0,0.0,10
+22.0,37,"Jun 23, 1988",A. Chomiuk,https://cdn.sofifa.org/1x/11/players/186629.png,Poland,60.0,52.0,A. Chomiuk,0.0,0.0,10
+32.0,37,"Sep 2, 1981",M. Kuś,https://cdn.sofifa.org/1x/15/players/148486.png,Poland,61.0,61.0,M. Kuś,130.0,4.0,10
+32.0,38,"Feb 5, 1985",Cristiano Ronaldo,https://cdn.sofifa.org/1x/18/players/20801.png,Portugal,94.0,94.0,Cristiano Ronaldo,95.5,565.0,18
+22.0,38,"Aug 10, 1994",Bernardo Silva,https://cdn.sofifa.org/1x/18/players/218667.png,Portugal,90.0,84.0,Bernardo Silva,42.5,180.0,18
+24.0,38,"Jan 19, 1993",João Mário,https://cdn.sofifa.org/1x/18/players/212814.png,Portugal,84.0,81.0,João Mário,22.0,64.0,18
+23.0,38,"Jul 30, 1993",André Gomes,https://cdn.sofifa.org/1x/18/players/211575.png,Portugal,88.0,82.0,André Gomes,30.0,150.0,18
+25.0,38,"Sep 9, 1991",Danilo Pereira,https://cdn.sofifa.org/1x/18/players/200888.png,Portugal,86.0,83.0,Danilo Pereira,27.5,18.0,18
+25.0,38,"Apr 7, 1992",William Carvalho,https://cdn.sofifa.org/1x/18/players/207566.png,Portugal,86.0,83.0,William Carvalho,27.5,21.0,18
+22.0,38,"May 11, 1995",Gelson Martins,https://cdn.sofifa.org/1x/18/players/227055.png,Portugal,88.0,82.0,Gelson Martins,30.5,21.0,18
+30.0,38,"Nov 17, 1986",Nani,https://cdn.sofifa.org/1x/18/players/139068.png,Portugal,1.0,81.0,Nani,81.0,1.0,18
+27.0,38,"Oct 6, 1989",Pizzi,https://cdn.sofifa.org/1x/18/players/197965.png,Portugal,83.0,83.0,Pizzi,26.5,19.0,18
+26.0,38,"Oct 1, 1990",A. Lopes,https://cdn.sofifa.org/1x/18/players/199482.png,Portugal,86.0,84.0,A. Lopes,26.0,78.0,18
+30.0,38,"Sep 8, 1986",João Moutinho,https://cdn.sofifa.org/1x/18/players/162347.png,Portugal,82.0,82.0,João Moutinho,20.5,48.0,18
+32.0,38,"Feb 5, 1985",Cristiano Ronaldo,https://cdn.sofifa.org/1x/18/players/20801.png,Portugal,94.0,94.0,Cristiano Ronaldo,95.5,565.0,14
+30.0,38,"Sep 8, 1986",João Moutinho,https://cdn.sofifa.org/1x/18/players/162347.png,Portugal,82.0,82.0,João Moutinho,20.5,48.0,14
+32.0,38,"Aug 7, 1983",Danny,https://cdn.sofifa.org/1x/17/players/20800.png,Portugal,81.0,81.0,Danny,13.0,70.0,14
+22.0,38,"Oct 24, 1994",Bruma,https://cdn.sofifa.org/1x/18/players/211368.png,Portugal,85.0,80.0,Bruma,20.0,63.0,14
+30.0,38,"Nov 17, 1986",Nani,https://cdn.sofifa.org/1x/18/players/139068.png,Portugal,1.0,81.0,Nani,81.0,1.0,14
+29.0,38,"Mar 11, 1988",Fábio Coentrão,https://cdn.sofifa.org/1x/18/players/171688.png,Portugal,79.0,79.0,Fábio Coentrão,9.5,150.0,14
+26.0,38,"Sep 17, 1990",Josué,https://cdn.sofifa.org/1x/18/players/199739.png,Portugal,76.0,76.0,Josué,8.5,22.0,14
+29.0,38,"Dec 22, 1987",Éder,https://cdn.sofifa.org/1x/18/players/189795.png,Portugal,76.0,76.0,Éder,7.5,51.0,14
+28.0,38,"Sep 8, 1988",Licá,https://cdn.sofifa.org/1x/18/players/184031.png,Portugal,68.0,68.0,Licá,900.0,5.0,14
+27.0,38,"Oct 6, 1989",Pizzi,https://cdn.sofifa.org/1x/18/players/197965.png,Portugal,83.0,83.0,Pizzi,26.5,19.0,14
+28.0,38,"Mar 15, 1989",Adrien Silva,https://cdn.sofifa.org/1x/18/players/184826.png,Portugal,83.0,83.0,Adrien Silva,25.5,92.0,14
+32.0,38,"Mar 17, 1983",Raúl Meireles,https://cdn.sofifa.org/1x/16/players/148224.png,Portugal,76.0,76.0,Raúl Meireles,4.0,50.0,10
+30.0,38,"Mar 17, 1981",Milhazes,https://cdn.sofifa.org/1x/12/players/148225.png,Portugal,1.0,67.0,Milhazes,67.0,5.0,10
+35.0,38,"May 2, 1981",Tiago,https://cdn.sofifa.org/1x/17/players/4098.png,Portugal,81.0,81.0,Tiago,5.5,50.0,10
+32.0,38,"May 5, 1981",Paulo Jorge,https://cdn.sofifa.org/1x/14/players/168962.png,Portugal,64.0,64.0,Paulo Jorge,0.0,0.0,10
+28.0,38,"Sep 4, 1980",Rui Baião,https://cdn.sofifa.org/1x/11/players/163076.png,Portugal,71.0,65.0,Rui Baião,0.0,0.0,10
+30.0,38,"Mar 31, 1987",A. Bischoff,https://cdn.sofifa.org/1x/18/players/177668.png,Portugal,66.0,66.0,A. Bischoff,600.0,1.0,10
+33.0,38,"Oct 18, 1978",José Pedro,https://cdn.sofifa.org/1x/13/players/157957.png,Portugal,67.0,67.0,José Pedro,0.0,0.0,10
+32.0,38,"Mar 6, 1977",Carlitos,https://cdn.sofifa.org/1x/11/players/163077.png,Portugal,71.0,67.0,Carlitos,0.0,0.0,10
+33.0,38,"Jun 10, 1983",Nélson,https://cdn.sofifa.org/1x/17/players/3078.png,Portugal,68.0,68.0,Nélson,375.0,1.0,10
+33.0,38,"Aug 4, 1977",L. Boa Morte,https://cdn.sofifa.org/1x/12/players/2823.png,Portugal,66.0,66.0,L. Boa Morte,0.0,0.0,10
+31.0,38,"Feb 5, 1986",Manuel Fernandes,https://cdn.sofifa.org/1x/18/players/157960.png,Portugal,81.0,81.0,Manuel Fernandes,15.5,54.0,10
+26.0,40,"Mar 19, 1991",A. Kokorin,https://cdn.sofifa.org/1x/18/players/192086.png,Russia,81.0,80.0,A. Kokorin,17.5,80.0,18
+27.0,40,"Feb 9, 1990",F. Smolov,https://cdn.sofifa.org/1x/18/players/187491.png,Russia,81.0,81.0,F. Smolov,19.0,59.0,18
+26.0,40,"Sep 19, 1990",Mário Fernandes,https://cdn.sofifa.org/1x/18/players/193525.png,Russia,81.0,81.0,Mário Fernandes,15.0,52.0,18
+27.0,40,"Jun 17, 1990",A. Dzagoev,https://cdn.sofifa.org/1x/18/players/187735.png,Russia,80.0,80.0,A. Dzagoev,15.0,57.0,18
+26.0,40,"Jul 29, 1990",O. Shatov,https://cdn.sofifa.org/1x/18/players/206273.png,Russia,79.0,79.0,O. Shatov,13.5,74.0,18
+21.0,40,"Oct 17, 1995",A. Miranchuk,https://cdn.sofifa.org/1x/18/players/214092.png,Russia,84.0,77.0,A. Miranchuk,12.5,35.0,18
+23.0,40,"Feb 11, 1994",R. Zobnin,https://cdn.sofifa.org/1x/18/players/213160.png,Russia,85.0,78.0,R. Zobnin,12.5,48.0,18
+21.0,40,"May 30, 1996",A. Golovin,https://cdn.sofifa.org/1x/18/players/225663.png,Russia,85.0,79.0,A. Golovin,17.0,45.0,18
+26.0,40,"Dec 1, 1990",S. Kritsyuk,https://cdn.sofifa.org/1x/18/players/213150.png,Russia,82.0,79.0,S. Kritsyuk,11.0,40.0,18
+28.0,40,"Sep 17, 1988",P. Mamaev,https://cdn.sofifa.org/1x/18/players/187736.png,Russia,78.0,78.0,P. Mamaev,10.5,51.0,18
+28.0,40,"Aug 22, 1988",A. Dzyuba,https://cdn.sofifa.org/1x/18/players/187607.png,Russia,77.0,77.0,A. Dzyuba,9.0,70.0,18
+27.0,40,"Jun 17, 1990",A. Dzagoev,https://cdn.sofifa.org/1x/18/players/187735.png,Russia,80.0,80.0,A. Dzagoev,15.0,57.0,14
+26.0,40,"Mar 19, 1991",A. Kokorin,https://cdn.sofifa.org/1x/18/players/192086.png,Russia,81.0,80.0,A. Kokorin,17.5,80.0,14
+31.0,40,"Apr 8, 1986",I. Akinfeev,https://cdn.sofifa.org/1x/18/players/148119.png,Russia,80.0,80.0,I. Akinfeev,9.0,42.0,14
+28.0,40,"Aug 22, 1988",A. Dzyuba,https://cdn.sofifa.org/1x/18/players/187607.png,Russia,77.0,77.0,A. Dzyuba,9.0,70.0,14
+33.0,40,"May 17, 1984",I. Denisov,https://cdn.sofifa.org/1x/18/players/147782.png,Russia,79.0,79.0,I. Denisov,5.0,50.0,14
+30.0,40,"Jan 27, 1987",D. Glushakov,https://cdn.sofifa.org/1x/18/players/187366.png,Russia,77.0,77.0,D. Glushakov,6.5,56.0,14
+31.0,40,"Apr 8, 1986",A. Kasaev,https://cdn.sofifa.org/1x/18/players/166708.png,Russia,75.0,75.0,A. Kasaev,6.0,38.0,14
+32.0,40,"Jul 19, 1984",A. Samedov,https://cdn.sofifa.org/1x/18/players/147621.png,Russia,79.0,79.0,A. Samedov,10.0,74.0,14
+31.0,40,"Apr 22, 1986",V. Fayzulin,https://cdn.sofifa.org/1x/18/players/167005.png,Russia,69.0,69.0,V. Fayzulin,700.0,28.0,14
+26.0,40,"Apr 7, 1991",P. Yakovlev,https://cdn.sofifa.org/1x/18/players/193895.png,Russia,70.0,70.0,P. Yakovlev,1.9,16.0,14
+33.0,40,"Aug 20, 1983",Y. Zhirkov,https://cdn.sofifa.org/1x/18/players/154950.png,Russia,75.0,75.0,Y. Zhirkov,2.6,47.0,14
+35.0,40,"Oct 5, 1977",K. Zyryanov,https://cdn.sofifa.org/1x/14/players/147712.png,Russia,74.0,74.0,K. Zyryanov,0.0,0.0,10
+28.0,40,"Jun 13, 1985",R. Sabitov,https://cdn.sofifa.org/1x/14/players/147202.png,Russia,62.0,60.0,R. Sabitov,0.0,0.0,10
+34.0,40,"Dec 22, 1975",D. Khokhlov,https://cdn.sofifa.org/1x/11/players/147458.png,Russia,2.0,75.0,D. Khokhlov,77.0,3.0,10
+29.0,40,"Feb 22, 1980",I. Levenets,https://cdn.sofifa.org/1x/11/players/161539.png,Russia,65.0,60.0,I. Levenets,0.0,0.0,10
+31.0,40,"Mar 27, 1986",D. Yurchenko,https://cdn.sofifa.org/1x/18/players/187652.png,Russia,73.0,73.0,D. Yurchenko,2.4,17.0,10
+42.0,40,"Feb 12, 1974",D. Loskov,https://cdn.sofifa.org/1x/17/players/147461.png,Russia,70.0,70.0,D. Loskov,0.0,8.0,10
+21.0,40,"May 7, 1988",A. Moskvin,https://cdn.sofifa.org/1x/11/players/187653.png,Russia,1.0,57.0,A. Moskvin,74.0,1.0,10
+28.0,40,"Dec 17, 1980",A. Shvetsov,https://cdn.sofifa.org/1x/11/players/147206.png,Russia,69.0,58.0,A. Shvetsov,0.0,0.0,10
+27.0,40,"May 12, 1982",E. Zurayev,https://cdn.sofifa.org/1x/11/players/161542.png,Russia,1.0,57.0,E. Zurayev,67.0,1.0,10
+30.0,40,"Jun 13, 1986",G. Dzhioev,https://cdn.sofifa.org/1x/17/players/167174.png,Russia,63.0,63.0,G. Dzhioev,240.0,1.0,10
+19.0,40,"May 1, 1990",A. Zvezincev,https://cdn.sofifa.org/1x/11/players/187654.png,Russia,1.0,51.0,A. Zvezincev,68.0,1.0,10
+26.0,45,"Nov 7, 1990",De Gea,https://cdn.sofifa.org/1x/18/players/193080.png,Spain,93.0,91.0,De Gea,74.5,295.0,18
+26.0,45,"Apr 11, 1991",Thiago,https://cdn.sofifa.org/1x/18/players/189509.png,Spain,89.0,88.0,Thiago,68.5,225.0,18
+31.0,45,"Jan 8, 1986",David Silva,https://cdn.sofifa.org/1x/18/players/168542.png,Spain,89.0,89.0,David Silva,58.5,285.0,18
+25.0,45,"Apr 21, 1992",Isco,https://cdn.sofifa.org/1x/18/players/197781.png,Spain,89.0,86.0,Isco,1.0,55.0,18
+31.0,45,"Mar 30, 1986",Sergio Ramos,https://cdn.sofifa.org/1x/18/players/155862.png,Spain,90.0,90.0,Sergio Ramos,52.0,310.0,18
+24.0,45,"Oct 23, 1992",Morata,https://cdn.sofifa.org/1x/18/players/201153.png,Spain,88.0,84.0,Morata,41.0,170.0,18
+25.0,45,"Jan 8, 1992",Koke,https://cdn.sofifa.org/1x/18/players/193747.png,Spain,88.0,85.0,Koke,47.5,84.0,18
+21.0,45,"Jan 21, 1996",Marco Asensio,https://cdn.sofifa.org/1x/18/players/220834.png,Spain,92.0,84.0,Marco Asensio,46.0,195.0,18
+27.0,45,"Aug 28, 1989",Azpilicueta,https://cdn.sofifa.org/1x/18/players/184432.png,Spain,88.0,86.0,Azpilicueta,43.5,190.0,18
+28.0,45,"Oct 7, 1988",Diego Costa,https://cdn.sofifa.org/1x/18/players/179844.png,Spain,85.0,85.0,Diego Costa,40.0,100.0,18
+30.0,45,"Feb 2, 1987",Piqué,https://cdn.sofifa.org/1x/18/players/152729.png,Spain,87.0,87.0,Piqué,37.5,240.0,18
+29.0,45,"Apr 28, 1988",Juan Mata,https://cdn.sofifa.org/1x/18/players/178088.png,Spain,83.0,83.0,Juan Mata,25.5,150.0,14
+30.0,45,"May 4, 1987",Cesc Fàbregas,https://cdn.sofifa.org/1x/18/players/162895.png,Spain,85.0,85.0,Cesc Fàbregas,35.5,175.0,14
+30.0,45,"Feb 2, 1987",Piqué,https://cdn.sofifa.org/1x/18/players/152729.png,Spain,87.0,87.0,Piqué,37.5,240.0,14
+29.0,45,"Jul 28, 1987",Pedro,https://cdn.sofifa.org/1x/18/players/189505.png,Spain,83.0,83.0,Pedro,25.5,155.0,14
+25.0,45,"Apr 21, 1992",Isco,https://cdn.sofifa.org/1x/18/players/197781.png,Spain,89.0,86.0,Isco,1.0,55.0,14
+33.0,45,"May 11, 1984",Iniesta,https://cdn.sofifa.org/1x/18/players/41.png,Spain,87.0,87.0,Iniesta,29.5,260.0,14
+31.0,45,"Mar 30, 1986",Sergio Ramos,https://cdn.sofifa.org/1x/18/players/155862.png,Spain,90.0,90.0,Sergio Ramos,52.0,310.0,14
+31.0,45,"Jan 8, 1986",David Silva,https://cdn.sofifa.org/1x/18/players/168542.png,Spain,89.0,89.0,David Silva,58.5,285.0,14
+28.0,45,"Oct 7, 1988",Diego Costa,https://cdn.sofifa.org/1x/18/players/179844.png,Spain,85.0,85.0,Diego Costa,40.0,100.0,14
+28.0,45,"Jul 16, 1988",Sergio Busquets,https://cdn.sofifa.org/1x/18/players/189511.png,Spain,87.0,87.0,Sergio Busquets,41.0,250.0,14
+26.0,45,"Apr 11, 1991",Thiago,https://cdn.sofifa.org/1x/18/players/189509.png,Spain,89.0,88.0,Thiago,68.5,225.0,14
+29.0,45,"Feb 18, 1983",Lafuente,https://cdn.sofifa.org/1x/13/players/146944.png,Spain,65.0,65.0,Lafuente,0.0,0.0,10
+31.0,45,"Sep 13, 1981",Antonio López,https://cdn.sofifa.org/1x/14/players/112640.png,Spain,67.0,67.0,Antonio López,0.0,0.0,10
+31.0,45,"Aug 16, 1979",Samuel Baños,https://cdn.sofifa.org/1x/12/players/113408.png,Spain,1.0,63.0,Samuel,63.0,1.0,10
+20.0,45,"Jul 9, 1988",Miguel,https://cdn.sofifa.org/1x/11/players/193792.png,Spain,2.0,49.0,Miguel,57.0,0.0,10
+31.0,45,"Oct 16, 1977",Luque,https://cdn.sofifa.org/1x/11/players/135169.png,Spain,4.0,66.0,Luque,78.0,0.0,10
+34.0,45,"May 31, 1983",Amaya,https://cdn.sofifa.org/1x/18/players/138497.png,Spain,71.0,71.0,Amaya,725.0,8.0,10
+32.0,45,"May 21, 1977",Gabarain,https://cdn.sofifa.org/1x/11/players/146177.png,Spain,3.0,58.0,Gabarain,62.0,0.0,10
+29.0,45,"Jun 14, 1982",Tuni,https://cdn.sofifa.org/1x/12/players/146689.png,Spain,1.0,65.0,Tuni,65.0,1.0,10
+30.0,45,"Jun 20, 1981",Del Olmo,https://cdn.sofifa.org/1x/12/players/153857.png,Spain,2.0,62.0,Del Olmo,62.0,10.0,10
+30.0,45,"Feb 24, 1987",Agirretxe,https://cdn.sofifa.org/1x/18/players/161793.png,Spain,74.0,74.0,Agirretxe,5.5,28.0,10
+35.0,45,"Feb 8, 1979",Antonio Hidalgo,https://cdn.sofifa.org/1x/15/players/111105.png,Spain,69.0,69.0,Antonio Hidalgo,270.0,4.0,10
+25.0,46,"Oct 23, 1991",E. Forsberg,https://cdn.sofifa.org/1x/18/players/208448.png,Sweden,84.0,82.0,E. Forsberg,27.0,75.0,18
+35.0,46,"Oct 3, 1981",Z. Ibrahimović,https://cdn.sofifa.org/1x/18/players/41236.png,Sweden,87.0,87.0,Z. Ibrahimović,23.0,18.0,18
+25.0,46,"Apr 15, 1992",J. Guidetti,https://cdn.sofifa.org/1x/18/players/199602.png,Sweden,80.0,78.0,J. Guidetti,13.0,28.0,18
+22.0,46,"Jul 17, 1994",V. Lindelöf,https://cdn.sofifa.org/1x/18/players/221660.png,Sweden,85.0,78.0,V. Lindelöf,12.5,86.0,18
+31.0,46,"Jun 25, 1986",P. Wernbloom,https://cdn.sofifa.org/1x/18/players/176731.png,Sweden,80.0,80.0,P. Wernbloom,10.0,52.0,18
+24.0,46,"Apr 10, 1993",S. Larsson,https://cdn.sofifa.org/1x/18/players/209782.png,Sweden,79.0,76.0,S. Larsson,10.0,18.0,18
+26.0,46,"Feb 13, 1991",P. Jansson,https://cdn.sofifa.org/1x/18/players/194201.png,Sweden,78.0,76.0,P. Jansson,7.5,37.0,18
+32.0,46,"Apr 16, 1985",A. Granqvist,https://cdn.sofifa.org/1x/18/players/156713.png,Sweden,80.0,80.0,A. Granqvist,8.5,50.0,18
+27.0,46,"Jul 28, 1989",A. Ekdal,https://cdn.sofifa.org/1x/18/players/181318.png,Sweden,76.0,76.0,A. Ekdal,8.0,38.0,18
+23.0,46,"Oct 9, 1993",R. Quaison,https://cdn.sofifa.org/1x/18/players/208451.png,Sweden,77.0,72.0,R. Quaison,4.2,18.0,18
+23.0,46,"Apr 21, 1994",L. Augustinsson,https://cdn.sofifa.org/1x/18/players/212678.png,Sweden,81.0,75.0,L. Augustinsson,2.0,7.5,18
+35.0,46,"Oct 3, 1981",Z. Ibrahimović,https://cdn.sofifa.org/1x/18/players/41236.png,Sweden,87.0,87.0,Z. Ibrahimović,23.0,18.0,14
+29.0,46,"Mar 17, 1988",R. Elm,https://cdn.sofifa.org/1x/18/players/167599.png,Sweden,75.0,75.0,R. Elm,6.5,7.0,14
+27.0,46,"Jul 28, 1989",A. Ekdal,https://cdn.sofifa.org/1x/18/players/181318.png,Sweden,76.0,76.0,A. Ekdal,8.0,38.0,14
+25.0,46,"Aug 13, 1991",A. Kačaniklić,https://cdn.sofifa.org/1x/18/players/198394.png,Sweden,72.0,71.0,A. Kačaniklić,2.8,16.0,14
+30.0,46,"Jul 3, 1986",O. Toivonen,https://cdn.sofifa.org/1x/18/players/176794.png,Sweden,74.0,74.0,O. Toivonen,5.5,28.0,14
+25.0,46,"Apr 15, 1992",J. Guidetti,https://cdn.sofifa.org/1x/18/players/199602.png,Sweden,80.0,78.0,J. Guidetti,13.0,28.0,14
+29.0,46,"May 17, 1988",M. Olsson,https://cdn.sofifa.org/1x/18/players/184472.png,Sweden,75.0,75.0,M. Olsson,5.0,55.0,14
+32.0,46,"Apr 16, 1985",A. Granqvist,https://cdn.sofifa.org/1x/18/players/156713.png,Sweden,80.0,80.0,A. Granqvist,8.5,50.0,14
+31.0,46,"Jun 25, 1986",P. Wernbloom,https://cdn.sofifa.org/1x/18/players/176731.png,Sweden,80.0,80.0,P. Wernbloom,10.0,52.0,14
+24.0,46,"Jan 12, 1993",B. Hrgota,https://cdn.sofifa.org/1x/18/players/209504.png,Sweden,76.0,72.0,B. Hrgota,4.1,18.0,14
+25.0,46,"Jun 28, 1992",O. Hiljemark,https://cdn.sofifa.org/1x/18/players/202944.png,Sweden,78.0,73.0,O. Hiljemark,5.0,28.0,14
+28.0,46,"Jan 4, 1988",D. Nordmark,https://cdn.sofifa.org/1x/17/players/189185.png,Sweden,63.0,63.0,D. Nordmark,325.0,2.0,10
+30.0,46,"Jun 16, 1987",J. Hopf,https://cdn.sofifa.org/1x/18/players/190209.png,Sweden,75.0,75.0,J. Hopf,4.3,14.0,10
+36.0,46,"Jan 30, 1973",F. Söderström,https://cdn.sofifa.org/1x/11/players/148227.png,Sweden,71.0,61.0,F. Söderström,0.0,0.0,10
+32.0,46,"Mar 5, 1980",T. Grahn,https://cdn.sofifa.org/1x/13/players/148739.png,Sweden,64.0,64.0,T. Grahn,0.0,0.0,10
+26.0,46,"Jul 20, 1990",O. Söderberg,https://cdn.sofifa.org/1x/18/players/189955.png,Sweden,66.0,64.0,O. Söderberg,375.0,1.0,10
+31.0,46,"Jun 3, 1982",C. Järdler,https://cdn.sofifa.org/1x/14/players/47108.png,Sweden,60.0,60.0,C. Järdler,0.0,0.0,10
+19.0,46,"Apr 23, 1990",M. Mårtensson,https://cdn.sofifa.org/1x/11/players/192260.png,Sweden,64.0,58.0,M. Mårtensson,0.0,0.0,10
+29.0,46,"Feb 28, 1984",F. Stoor,https://cdn.sofifa.org/1x/14/players/52229.png,Sweden,54.0,54.0,F. Stoor,45.0,1.0,10
+26.0,46,"Apr 20, 1990",A. Wede,https://cdn.sofifa.org/1x/17/players/192261.png,Sweden,67.0,66.0,A. Wede,700.0,2.0,10
+27.0,46,"Apr 17, 1990",A. Ajdarević,https://cdn.sofifa.org/1x/18/players/193029.png,Albania,72.0,72.0,A. Ajdarević,3.2,1.0,10
+21.0,46,"May 19, 1988",H. Svedberg,https://cdn.sofifa.org/1x/11/players/189191.png,Sweden,68.0,47.0,H. Svedberg,0.0,0.0,10
+24.0,47,"Sep 27, 1992",G. Xhaka,https://cdn.sofifa.org/1x/18/players/199503.png,Switzerland,85.0,82.0,G. Xhaka,27.5,110.0,18
+25.0,47,"Oct 10, 1991",X. Shaqiri,https://cdn.sofifa.org/1x/18/players/193348.png,Switzerland,83.0,82.0,X. Shaqiri,26.5,92.0,18
+28.0,47,"Dec 17, 1988",Y. Sommer,https://cdn.sofifa.org/1x/18/players/177683.png,Switzerland,83.0,82.0,Y. Sommer,18.0,39.0,18
+26.0,47,"Nov 14, 1990",R. Bürki,https://cdn.sofifa.org/1x/18/players/189117.png,Switzerland,84.0,81.0,R. Bürki,15.5,49.0,18
+24.0,47,"Aug 25, 1992",R. Rodríguez,https://cdn.sofifa.org/1x/18/players/193352.png,Switzerland,83.0,80.0,R. Rodríguez,15.5,83.0,18
+20.0,47,"Nov 20, 1996",D. Zakaria,https://cdn.sofifa.org/1x/18/players/229261.png,Switzerland,86.0,77.0,D. Zakaria,13.5,30.0,18
+20.0,47,"Feb 14, 1997",B. Embolo,https://cdn.sofifa.org/1x/18/players/222357.png,Switzerland,86.0,76.0,B. Embolo,12.5,35.0,18
+25.0,47,"Nov 3, 1991",R. Steffen,https://cdn.sofifa.org/1x/18/players/210537.png,Switzerland,77.0,76.0,R. Steffen,9.0,58.0,18
+25.0,47,"Dec 20, 1991",F. Schär,https://cdn.sofifa.org/1x/18/players/210047.png,Switzerland,81.0,77.0,F. Schär,9.5,23.0,18
+20.0,47,"Sep 30, 1996",N. Elvedi,https://cdn.sofifa.org/1x/18/players/221491.png,Switzerland,83.0,76.0,N. Elvedi,9.0,26.0,18
+26.0,47,"Mar 16, 1991",A. Mehmedi,https://cdn.sofifa.org/1x/18/players/188770.png,Switzerland,76.0,76.0,A. Mehmedi,8.5,60.0,18
+25.0,47,"Oct 10, 1991",X. Shaqiri,https://cdn.sofifa.org/1x/18/players/193348.png,Switzerland,83.0,82.0,X. Shaqiri,26.5,92.0,14
+24.0,47,"Sep 27, 1992",G. Xhaka,https://cdn.sofifa.org/1x/18/players/199503.png,Switzerland,85.0,82.0,G. Xhaka,27.5,110.0,14
+28.0,47,"Apr 12, 1989",V. Stocker,https://cdn.sofifa.org/1x/18/players/183187.png,Switzerland,74.0,74.0,V. Stocker,5.5,36.0,14
+24.0,47,"Aug 25, 1992",R. Rodríguez,https://cdn.sofifa.org/1x/18/players/193352.png,Switzerland,83.0,80.0,R. Rodriguez,15.5,83.0,14
+25.0,47,"Feb 22, 1992",H. Seferović,https://cdn.sofifa.org/1x/18/players/193408.png,Switzerland,78.0,75.0,H. Seferovic,8.5,13.0,14
+29.0,47,"May 2, 1988",F. Lustenberger,https://cdn.sofifa.org/1x/18/players/177019.png,Switzerland,76.0,76.0,F. Lustenberger,6.0,30.0,14
+28.0,47,"Dec 17, 1988",Y. Sommer,https://cdn.sofifa.org/1x/18/players/177683.png,Switzerland,83.0,82.0,Y. Sommer,18.0,39.0,14
+29.0,47,"May 9, 1988",T. Klose,https://cdn.sofifa.org/1x/18/players/199383.png,Switzerland,74.0,74.0,T. Klose,4.4,34.0,14
+27.0,47,"May 27, 1989",I. Emeghara,https://cdn.sofifa.org/1x/17/players/186852.png,Switzerland,73.0,72.0,I. Emeghara,2.4,15.0,14
+25.0,47,"Jun 2, 1992",P. Kasami,https://cdn.sofifa.org/1x/18/players/197900.png,Switzerland,75.0,73.0,P. Kasami,4.8,19.0,14
+29.0,47,"Jun 12, 1988",E. Derdiyok,https://cdn.sofifa.org/1x/18/players/179972.png,Switzerland,75.0,75.0,E. Derdiyok,6.5,56.0,14
+20.0,47,"May 7, 1989",T. Müller,https://cdn.sofifa.org/1x/11/players/179969.png,Switzerland,1.0,40.0,T. Müller,59.0,1.0,10
+27.0,47,"Feb 3, 1982",R. Schwegler,https://cdn.sofifa.org/1x/11/players/108034.png,Switzerland,1.0,67.0,R. Schwegler,72.0,1.0,10
+29.0,47,"Jun 12, 1988",E. Derdiyok,https://cdn.sofifa.org/1x/18/players/179972.png,Switzerland,75.0,75.0,E. Derdiyok,6.5,56.0,10
+28.0,47,"May 17, 1989",M. Morganella,https://cdn.sofifa.org/1x/18/players/179973.png,Switzerland,68.0,68.0,M. Morganella,900.0,3.0,10
+20.0,47,"Jun 12, 1989",S. Imbach,https://cdn.sofifa.org/1x/11/players/189957.png,Switzerland,63.0,51.0,S. Imbach,0.0,0.0,10
+31.0,47,"Jul 5, 1983",R. Nuzzolo,https://cdn.sofifa.org/1x/16/players/19975.png,Switzerland,71.0,71.0,R. Nuzzolo,1.3,20.0,10
+34.0,47,"Feb 22, 1977",H. Yakin,https://cdn.sofifa.org/1x/12/players/4105.png,Switzerland,1.0,73.0,H. Yakin,73.0,5.0,10
+28.0,47,"Jul 15, 1988",S. Gashi,https://cdn.sofifa.org/1x/18/players/177673.png,Albania,72.0,72.0,S. Gashi,3.1,7.0,10
+25.0,47,"Jan 15, 1985",Henri Siqueira,https://cdn.sofifa.org/1x/11/players/188426.png,Switzerland,64.0,57.0,Siqueira Barras,0.0,0.0,10
+26.0,47,"Oct 6, 1990",R. Feltscher,https://cdn.sofifa.org/1x/18/players/183819.png,Venezuela,69.0,68.0,R. Feltscher,850.0,5.0,10
+33.0,47,"Mar 19, 1980",M. Renggli,https://cdn.sofifa.org/1x/14/players/112396.png,Switzerland,63.0,63.0,M. Renggli,0.0,0.0,10
+28.0,51,"Aug 1, 1988",N. Matić,https://cdn.sofifa.org/1x/18/players/191202.png,Serbia,85.0,85.0,N. Matić,31.0,180.0,18
+22.0,51,"Feb 27, 1995",S. Milinković-Savić,https://cdn.sofifa.org/1x/18/players/223848.png,Serbia,89.0,83.0,S. Milinković-Savić,35.0,56.0,18
+28.0,51,"Aug 14, 1988",L. Fejsa,https://cdn.sofifa.org/1x/18/players/183376.png,Serbia,82.0,82.0,L. Fejsa,18.0,18.0,18
+25.0,51,"Sep 29, 1991",A. Ljajić,https://cdn.sofifa.org/1x/18/players/190544.png,Serbia,82.0,80.0,A. Ljajić,18.0,54.0,18
+24.0,51,"Mar 28, 1993",M. Nastasić,https://cdn.sofifa.org/1x/18/players/205362.png,Serbia,84.0,81.0,M. Nastasić,19.0,38.0,18
+20.0,51,"Jul 11, 1996",A. Živković,https://cdn.sofifa.org/1x/18/players/220746.png,Serbia,86.0,78.0,A. Živković,15.5,11.0,18
+28.0,51,"Nov 20, 1988",D. Tadić,https://cdn.sofifa.org/1x/18/players/199434.png,Serbia,79.0,79.0,D. Tadić,12.5,98.0,18
+24.0,51,"Feb 6, 1993",N. Radoja,https://cdn.sofifa.org/1x/18/players/225028.png,Serbia,83.0,78.0,N. Radoja,13.5,23.0,18
+24.0,51,"Nov 1, 1992",F. Kostić,https://cdn.sofifa.org/1x/18/players/208574.png,Serbia,81.0,78.0,F. Kostić,13.0,33.0,18
+25.0,51,"Nov 25, 1991",N. Maksimović,https://cdn.sofifa.org/1x/18/players/215466.png,Serbia,81.0,78.0,N. Maksimović,11.0,54.0,18
+31.0,51,"Nov 10, 1985",A. Kolarov,https://cdn.sofifa.org/1x/18/players/185103.png,Serbia,81.0,81.0,A. Kolarov,11.5,68.0,18
+25.0,51,"Sep 29, 1991",A. Ljajić,https://cdn.sofifa.org/1x/18/players/190544.png,Serbia,82.0,80.0,A. Ljajić,18.0,54.0,14
+28.0,51,"Nov 20, 1988",D. Tadić,https://cdn.sofifa.org/1x/18/players/199434.png,Serbia,79.0,79.0,D. Tadić,12.5,98.0,14
+33.0,51,"Oct 21, 1981",N. Vidić,https://cdn.sofifa.org/1x/16/players/140601.png,Serbia,1.0,81.0,N. Vidić,81.0,1.0,14
+28.0,51,"Aug 1, 1988",N. Matić,https://cdn.sofifa.org/1x/18/players/191202.png,Serbia,85.0,85.0,N. Matić,31.0,180.0,14
+28.0,51,"Dec 10, 1988",N. Subotić,https://cdn.sofifa.org/1x/18/players/183556.png,Serbia,78.0,78.0,N. Subotić,8.5,37.0,14
+23.0,51,"Mar 2, 1994",L. Marković,https://cdn.sofifa.org/1x/18/players/212125.png,Serbia,1.0,75.0,L. Marković,79.0,8.5,14
+25.0,51,"Jan 30, 1992",F. Đuričić,https://cdn.sofifa.org/1x/18/players/193881.png,Serbia,77.0,74.0,F. Đuričić,7.0,31.0,14
+24.0,51,"Mar 28, 1993",M. Nastasić,https://cdn.sofifa.org/1x/18/players/205362.png,Serbia,84.0,81.0,M. Nastasić,19.0,38.0,14
+29.0,51,"Aug 30, 1987",N. Tomović,https://cdn.sofifa.org/1x/18/players/194203.png,Serbia,76.0,76.0,N. Tomović,6.0,59.0,14
+31.0,51,"Nov 10, 1985",A. Kolarov,https://cdn.sofifa.org/1x/18/players/185103.png,Serbia,81.0,81.0,A. Kolarov,11.5,68.0,14
+22.0,51,"Sep 16, 1994",A. Mitrović,https://cdn.sofifa.org/1x/18/players/215716.png,Serbia,1.0,76.0,A. Mitrović,81.0,1.0,14
+27.0,51,"Jan 10, 1990",S. Šćepović,https://cdn.sofifa.org/1x/18/players/198146.png,Serbia,72.0,72.0,S. Šćepović,3.3,17.0,10
+26.0,51,"Aug 28, 1982",P. Sikimic,https://cdn.sofifa.org/1x/11/players/187650.png,Serbia,2.0,61.0,P. Sikimic,68.0,4.0,10
+29.0,51,"Aug 25, 1983",S. Ubiparipović,https://cdn.sofifa.org/1x/14/players/179715.png,Serbia,59.0,59.0,S. Ubiparipovic,0.0,0.0,10
+33.0,51,"Nov 25, 1978",S. Baljak,https://cdn.sofifa.org/1x/13/players/183555.png,Serbia,66.0,66.0,S. Baljak,0.0,0.0,10
+28.0,51,"Dec 10, 1988",N. Subotić,https://cdn.sofifa.org/1x/18/players/183556.png,Serbia,78.0,78.0,N. Subotic,8.5,37.0,10
+27.0,51,"Nov 4, 1989",M. Marković,https://cdn.sofifa.org/1x/18/players/189445.png,Serbia,68.0,68.0,M. Marković,950.0,14.0,10
+31.0,51,"Oct 4, 1985",M. Lukač,https://cdn.sofifa.org/1x/18/players/193030.png,Serbia,69.0,69.0,M. Lukac,650.0,8.0,10
+21.0,51,"Jan 1, 1988",A. Ignjatovic,https://cdn.sofifa.org/1x/11/players/193287.png,Serbia,3.0,65.0,A. Ignjatovic,72.0,0.0,10
+24.0,51,"Jun 10, 1985",M. Bogunovic,https://cdn.sofifa.org/1x/11/players/197898.png,Serbia,70.0,63.0,M. Bogunovic,0.0,0.0,10
+25.0,51,"Jan 16, 1984",M. Lazarević,https://cdn.sofifa.org/1x/11/players/190731.png,Serbia,66.0,61.0,M. Lazarević,0.0,0.0,10
+28.0,51,"Feb 12, 1981",I. Cvetković,https://cdn.sofifa.org/1x/11/players/193037.png,Serbia,79.0,70.0,I. Cvetković,0.0,0.0,10
+30.0,52,"Jun 24, 1987",L. Messi,https://cdn.sofifa.org/1x/18/players/158023.png,Argentina,94.0,94.0,L. Messi,118.5,565.0,18
+23.0,52,"Nov 15, 1993",P. Dybala,https://cdn.sofifa.org/1x/18/players/211110.png,Argentina,94.0,89.0,P. Dybala,89.0,215.0,18
+29.0,52,"Dec 10, 1987",G. Higuaín,https://cdn.sofifa.org/1x/18/players/167664.png,Argentina,90.0,90.0,G. Higuaín,77.0,275.0,18
+29.0,52,"Jun 2, 1988",S. Agüero,https://cdn.sofifa.org/1x/18/players/153079.png,Argentina,89.0,89.0,S. Agüero,66.5,325.0,18
+24.0,52,"Feb 19, 1993",M. Icardi,https://cdn.sofifa.org/1x/18/players/201399.png,Argentina,90.0,86.0,M. Icardi,59.0,120.0,18
+29.0,52,"Feb 15, 1988",A. Gómez,https://cdn.sofifa.org/1x/18/players/143076.png,Argentina,84.0,84.0,A. Gómez,31.0,60.0,18
+29.0,52,"Feb 14, 1988",A. Di María,https://cdn.sofifa.org/1x/18/players/183898.png,Argentina,84.0,84.0,A. Di María,30.5,145.0,18
+29.0,52,"Feb 12, 1988",N. Otamendi,https://cdn.sofifa.org/1x/18/players/192366.png,Argentina,85.0,85.0,N. Otamendi,30.0,180.0,18
+25.0,52,"May 20, 1992",G. Rulli,https://cdn.sofifa.org/1x/18/players/215316.png,Argentina,87.0,82.0,G. Rulli,21.0,28.0,18
+29.0,52,"Feb 23, 1988",N. Gaitán,https://cdn.sofifa.org/1x/18/players/184144.png,Argentina,82.0,82.0,N. Gaitán,21.5,70.0,18
+29.0,52,"Jun 29, 1988",E. Banega,https://cdn.sofifa.org/1x/18/players/178562.png,Argentina,83.0,83.0,E. Banega,25.0,27.0,18
+30.0,52,"Jun 24, 1987",L. Messi,https://cdn.sofifa.org/1x/18/players/158023.png,Argentina,94.0,94.0,L. Messi,118.5,565.0,14
+29.0,52,"Jun 2, 1988",S. Agüero,https://cdn.sofifa.org/1x/18/players/153079.png,Argentina,89.0,89.0,S. Agüero,66.5,325.0,14
+29.0,52,"Feb 14, 1988",A. Di María,https://cdn.sofifa.org/1x/18/players/183898.png,Argentina,84.0,84.0,A. Di María,30.5,145.0,14
+29.0,52,"Dec 10, 1987",G. Higuaín,https://cdn.sofifa.org/1x/18/players/167664.png,Argentina,90.0,90.0,G. Higuaín,77.0,275.0,14
+33.0,52,"Feb 5, 1984",C. Tévez,https://cdn.sofifa.org/1x/18/players/143001.png,Argentina,78.0,78.0,C. Tévez,6.5,27.0,14
+31.0,52,"May 3, 1985",E. Lavezzi,https://cdn.sofifa.org/1x/17/players/159065.png,Argentina,76.0,76.0,E. Lavezzi,0.0,0.0,14
+25.0,52,"Mar 4, 1992",E. Lamela,https://cdn.sofifa.org/1x/18/players/170368.png,Argentina,81.0,80.0,E. Lamela,17.5,96.0,14
+29.0,52,"Jun 29, 1988",E. Banega,https://cdn.sofifa.org/1x/18/players/178562.png,Argentina,83.0,83.0,E. Banega,25.0,27.0,14
+33.0,52,"Jun 8, 1984",J. Mascherano,https://cdn.sofifa.org/1x/18/players/142754.png,Argentina,83.0,83.0,J. Mascherano,0.0,0.0,14
+29.0,52,"Feb 23, 1988",N. Gaitán,https://cdn.sofifa.org/1x/18/players/184144.png,Argentina,82.0,82.0,N. Gaitán,21.5,70.0,14
+30.0,52,"Oct 10, 1986",E. Garay,https://cdn.sofifa.org/1x/18/players/170481.png,Argentina,83.0,83.0,E. Garay,19.0,40.0,14
+28.0,52,"Feb 3, 1989",L. Orbán,https://cdn.sofifa.org/1x/18/players/191488.png,Argentina,74.0,74.0,L. Orban,4.6,18.0,10
+25.0,52,"Jan 28, 1992",S. Araujo,https://cdn.sofifa.org/1x/18/players/198145.png,Argentina,77.0,74.0,S. Araujo,7.0,1.0,10
+33.0,52,"May 29, 1980",E. Farías,https://cdn.sofifa.org/1x/14/players/143106.png,Argentina,68.0,68.0,E. Farías,0.0,0.0,10
+32.0,52,"May 24, 1984",N. Benítez,https://cdn.sofifa.org/1x/17/players/142595.png,Argentina,69.0,69.0,N. Benítez,575.0,1.0,10
+35.0,52,"Sep 19, 1981",M. Gelabert,https://cdn.sofifa.org/1x/18/players/143107.png,Argentina,67.0,67.0,M. Gelabert,325.0,5.0,10
+33.0,52,"Feb 16, 1978",H. Bracamonte,https://cdn.sofifa.org/1x/12/players/147715.png,Argentina,72.0,72.0,H. Bracamonte,0.0,0.0,10
+26.0,52,"Jun 30, 1989",D. Lizio,https://cdn.sofifa.org/1x/16/players/193027.png,Bolivia,68.0,66.0,D. Lizio,0.0,0.0,10
+22.0,52,"Jan 29, 1987",N. Arce,https://cdn.sofifa.org/1x/11/players/195075.png,Argentina,76.0,70.0,N. Arce,0.0,0.0,10
+25.0,52,"Mar 20, 1986",J. Magallanes,https://cdn.sofifa.org/1x/12/players/190980.png,Argentina,73.0,66.0,J. Magallanes,0.0,0.0,10
+30.0,52,"Apr 16, 1979",J. Krupoviesa,https://cdn.sofifa.org/1x/11/players/143110.png,Argentina,3.0,69.0,J. Krupoviesa,78.0,0.0,10
+30.0,52,"May 23, 1979",L. Iglesias,https://cdn.sofifa.org/1x/11/players/177670.png,Argentina,71.0,67.0,L. Iglesias,0.0,0.0,10
+25.0,54,"Feb 5, 1992",Neymar,https://cdn.sofifa.org/1x/18/players/190871.png,Brazil,93.0,92.0,Neymar,119.5,280.0,18
+25.0,54,"Jun 12, 1992",Coutinho,https://cdn.sofifa.org/1x/18/players/189242.png,Brazil,90.0,87.0,Coutinho,63.0,275.0,18
+26.0,54,"Jan 26, 1991",Alex Sandro,https://cdn.sofifa.org/1x/18/players/191043.png,Brazil,87.0,86.0,Alex Sandro,42.5,175.0,18
+25.0,54,"Feb 23, 1992",Casemiro,https://cdn.sofifa.org/1x/18/players/200145.png,Brazil,89.0,86.0,Casemiro,47.0,230.0,18
+29.0,54,"May 12, 1988",Marcelo,https://cdn.sofifa.org/1x/18/players/176676.png,Brazil,87.0,87.0,Marcelo,38.0,250.0,18
+20.0,54,"Apr 3, 1997",Gabriel Jesus,https://cdn.sofifa.org/1x/18/players/230666.png,Brazil,92.0,83.0,Gabriel Jesus,41.0,125.0,18
+23.0,54,"May 14, 1994",Marquinhos,https://cdn.sofifa.org/1x/18/players/207865.png,Brazil,89.0,84.0,Marquinhos,35.5,98.0,18
+25.0,54,"Oct 2, 1991",Roberto Firmino,https://cdn.sofifa.org/1x/18/players/201942.png,Brazil,87.0,85.0,Roberto Firmino,48.0,175.0,18
+23.0,54,"Aug 17, 1993",Ederson,https://cdn.sofifa.org/1x/18/players/210257.png,Brazil,89.0,85.0,Ederson,36.0,115.0,18
+23.0,54,"Oct 23, 1993",Fabinho,https://cdn.sofifa.org/1x/18/players/209499.png,Brazil,89.0,84.0,Fabinho,35.5,49.0,18
+32.0,54,"Sep 22, 1984",Thiago Silva,https://cdn.sofifa.org/1x/18/players/164240.png,Brazil,87.0,87.0,Thiago Silva,29.0,135.0,18
+25.0,54,"Feb 5, 1992",Neymar,https://cdn.sofifa.org/1x/18/players/190871.png,Brazil,93.0,92.0,Neymar,119.5,280.0,14
+32.0,54,"Sep 22, 1984",Thiago Silva,https://cdn.sofifa.org/1x/18/players/164240.png,Brazil,87.0,87.0,Thiago Silva,29.0,135.0,14
+25.0,54,"Sep 9, 1991",Oscar,https://cdn.sofifa.org/1x/18/players/188152.png,Brazil,85.0,83.0,Oscar,0.0,0.0,14
+24.0,54,"Aug 13, 1992",Lucas,https://cdn.sofifa.org/1x/18/players/200949.png,Brazil,84.0,82.0,Lucas,27.5,105.0,14
+29.0,54,"Jul 25, 1986",Hulk,https://cdn.sofifa.org/1x/17/players/189362.png,Brazil,86.0,86.0,Hulk,0.0,0.0,14
+25.0,54,"Jun 12, 1992",Coutinho,https://cdn.sofifa.org/1x/18/players/189242.png,Brazil,90.0,87.0,Coutinho,63.0,275.0,14
+24.0,54,"Sep 8, 1992",Bernard,https://cdn.sofifa.org/1x/18/players/205525.png,Brazil,83.0,80.0,Bernard,19.0,1.0,14
+28.0,54,"Aug 9, 1988",Willian,https://cdn.sofifa.org/1x/18/players/180403.png,Brazil,84.0,84.0,Willian,31.5,200.0,14
+25.0,54,"Jul 22, 1989",Leandro Damião,https://cdn.sofifa.org/1x/16/players/198213.png,Brazil,74.0,74.0,Leandro Damião,3.7,40.0,14
+26.0,54,"Apr 10, 1989",Éverton Ribeiro,https://cdn.sofifa.org/1x/16/players/181019.png,Brazil,83.0,81.0,Éverton Ribeiro,0.0,0.0,14
+30.0,54,"Feb 28, 1985",Diego,https://cdn.sofifa.org/1x/16/players/136138.png,Brazil,79.0,79.0,Diego,9.5,70.0,14
+32.0,54,"Jul 31, 1984",Felipe,https://cdn.sofifa.org/1x/18/players/768.png,Brazil,75.0,75.0,Felipe,3.8,14.0,10
+32.0,54,"Jul 17, 1978",Roger,https://cdn.sofifa.org/1x/12/players/4096.png,Brazil,1.0,74.0,Roger,74.0,1.0,10
+25.0,54,"May 12, 1986",Fernando,https://cdn.sofifa.org/1x/12/players/168448.png,Brazil,73.0,68.0,Fernando,0.0,0.0,10
+37.0,54,"Jan 11, 1974",André Luiz,https://cdn.sofifa.org/1x/12/players/40960.png,Brazil,5.0,64.0,André Luiz,64.0,10.0,10
+25.0,54,"May 18, 1985",Douglas,https://cdn.sofifa.org/1x/11/players/180736.png,Brazil,70.0,66.0,Douglas,0.0,0.0,10
+26.0,54,"Aug 1, 1986",Carlão,https://cdn.sofifa.org/1x/14/players/192512.png,Brazil,71.0,68.0,Carlão,0.0,0.0,10
+29.0,54,"Jun 12, 1980",Rogerio,https://cdn.sofifa.org/1x/11/players/139265.png,Brazil,1.0,66.0,Rogerio,75.0,1.0,10
+32.0,54,"Aug 27, 1980",Rodrigo,https://cdn.sofifa.org/1x/14/players/156161.png,Brazil,71.0,71.0,Rodrigo,0.0,0.0,10
+34.0,54,"Nov 8, 1980",Luís Fabiano,https://cdn.sofifa.org/1x/16/players/136194.png,Brazil,77.0,77.0,Luís Fabiano,3.7,50.0,10
+32.0,54,"Nov 11, 1983",Dinei,https://cdn.sofifa.org/1x/17/players/180738.png,Brazil,70.0,70.0,Dinei,1.1,5.0,10
+22.0,54,"Sep 14, 1986",Luís,https://cdn.sofifa.org/1x/11/players/183810.png,Brazil,73.0,66.0,Luís,0.0,0.0,10
+25.0,56,"Jul 12, 1991",J. Rodríguez,https://cdn.sofifa.org/1x/18/players/198710.png,Colombia,90.0,87.0,J. Rodríguez,63.0,250.0,18
+31.0,56,"Feb 10, 1986",Falcao,https://cdn.sofifa.org/1x/18/players/167397.png,Colombia,85.0,85.0,Falcao,34.5,68.0,18
+30.0,56,"Sep 8, 1986",C. Bacca,https://cdn.sofifa.org/1x/18/players/207664.png,Colombia,82.0,82.0,C. Bacca,21.5,125.0,18
+29.0,56,"May 26, 1988",J. Cuadrado,https://cdn.sofifa.org/1x/18/players/193082.png,Colombia,83.0,83.0,J. Cuadrado,25.5,130.0,18
+21.0,56,"Jun 12, 1996",D. Sánchez,https://cdn.sofifa.org/1x/18/players/220793.png,Colombia,88.0,82.0,D. Sánchez,26.0,76.0,18
+26.0,56,"Apr 18, 1991",L. Muriel,https://cdn.sofifa.org/1x/18/players/199110.png,Colombia,81.0,80.0,L. Muriel,17.5,26.0,18
+25.0,56,"May 27, 1992",J. Murillo,https://cdn.sofifa.org/1x/18/players/201377.png,Colombia,84.0,80.0,J. Murillo,16.0,64.0,18
+24.0,56,"Jul 7, 1992",J. Izquierdo,https://cdn.sofifa.org/1x/18/players/219411.png,Colombia,80.0,78.0,J. Izquierdo,13.0,46.0,18
+26.0,56,"Apr 1, 1991",D. Zapata,https://cdn.sofifa.org/1x/18/players/215333.png,Colombia,79.0,78.0,D. Zapata,12.5,67.0,18
+24.0,56,"Jan 18, 1993",J. Quintero,https://cdn.sofifa.org/1x/18/players/210513.png,Colombia,82.0,77.0,J. Quintero,12.0,14.0,18
+26.0,56,"Apr 2, 1991",Y. Chará,https://cdn.sofifa.org/1x/18/players/214132.png,Colombia,78.0,78.0,Y. Chará,11.0,6.0,18
+31.0,56,"Feb 10, 1986",Falcao,https://cdn.sofifa.org/1x/18/players/167397.png,Colombia,85.0,85.0,Falcao,34.5,68.0,14
+25.0,56,"Jul 12, 1991",J. Rodríguez,https://cdn.sofifa.org/1x/18/players/198710.png,Colombia,90.0,87.0,J. Rodríguez,63.0,250.0,14
+29.0,56,"May 26, 1988",J. Cuadrado,https://cdn.sofifa.org/1x/18/players/193082.png,Colombia,83.0,83.0,J. Cuadrado,25.5,130.0,14
+27.0,56,"May 19, 1990",V. Ibarbo,https://cdn.sofifa.org/1x/18/players/204550.png,Colombia,72.0,72.0,V. Ibarbo,3.3,5.0,14
+24.0,56,"Jan 18, 1993",J. Quintero,https://cdn.sofifa.org/1x/18/players/210513.png,Colombia,82.0,77.0,J. Quintero,12.0,14.0,14
+26.0,56,"Apr 18, 1991",L. Muriel,https://cdn.sofifa.org/1x/18/players/199110.png,Colombia,81.0,80.0,L. Muriel,17.5,26.0,14
+28.0,56,"Oct 3, 1986",J. Martínez,https://cdn.sofifa.org/1x/16/players/196144.png,Colombia,83.0,83.0,J. Martínez,0.0,0.0,14
+29.0,56,"Jun 30, 1986",F. Guarín,https://cdn.sofifa.org/1x/16/players/169051.png,Colombia,80.0,80.0,F. Guarín,0.0,0.0,14
+29.0,56,"Jul 26, 1987",F. Montero,https://cdn.sofifa.org/1x/18/players/190919.png,Colombia,76.0,76.0,F. Montero,7.5,21.0,14
+31.0,56,"Jan 22, 1986",A. Ramos,https://cdn.sofifa.org/1x/18/players/176619.png,Colombia,76.0,76.0,A. Ramos,7.0,15.0,14
+26.0,56,"Apr 1, 1991",D. Zapata,https://cdn.sofifa.org/1x/18/players/215333.png,Colombia,79.0,78.0,D. Zapata,12.5,67.0,14
+27.0,56,"Mar 30, 1987",J. Pino,https://cdn.sofifa.org/1x/15/players/179713.png,Colombia,70.0,68.0,J. Pino,0.0,0.0,10
+32.0,56,"Apr 28, 1977",J. Bolaño,https://cdn.sofifa.org/1x/11/players/103699.png,Colombia,72.0,64.0,J. Bolaño,0.0,0.0,10
+20.0,56,"Jan 12, 1989",M. Arroyo,https://cdn.sofifa.org/1x/11/players/197410.png,Colombia,73.0,59.0,M. Arroyo,0.0,0.0,10
+37.0,56,"Sep 8, 1976",S. Vanegas,https://cdn.sofifa.org/1x/15/players/174375.png,Colombia,66.0,66.0,S. Vanegas,0.0,750.0,10
+26.0,56,"Jan 15, 1988",J. Mosquera,https://cdn.sofifa.org/1x/15/players/176430.png,Colombia,67.0,63.0,J. Mosquera,400.0,4.0,10
+28.0,56,"Oct 3, 1986",J. Martínez,https://cdn.sofifa.org/1x/16/players/196144.png,Colombia,83.0,83.0,J. Martínez,0.0,0.0,10
+32.0,56,"Jan 6, 1985",A. Aguilar,https://cdn.sofifa.org/1x/18/players/177974.png,Colombia,73.0,73.0,A. Aguilar,2.3,4.0,10
+32.0,56,"May 17, 1985",T. Gutiérrez,https://cdn.sofifa.org/1x/18/players/196150.png,Colombia,78.0,78.0,T. Gutiérrez,8.5,6.0,10
+29.0,56,"May 26, 1988",J. Cuadrado,https://cdn.sofifa.org/1x/18/players/193082.png,Colombia,83.0,83.0,Cuadrado,25.5,130.0,10
+34.0,56,"Jan 27, 1983",J. Estrada,https://cdn.sofifa.org/1x/18/players/193339.png,Colombia,66.0,66.0,J. Estrada,325.0,1.0,10
+27.0,56,"Aug 17, 1986",L. Mosquera,https://cdn.sofifa.org/1x/15/players/197950.png,Colombia,64.0,64.0,L. Mosquera,600.0,8.0,10
+26.0,59,"Jun 14, 1991",A. Carrillo,https://cdn.sofifa.org/1x/18/players/203299.png,Peru,79.0,78.0,A. Carrillo,12.0,15.0,18
+32.0,59,"Oct 26, 1984",J. Farfán,https://cdn.sofifa.org/1x/18/players/158133.png,Peru,79.0,79.0,J. Farfán,10.0,54.0,18
+26.0,59,"Jul 25, 1990",R. Ruidíaz,https://cdn.sofifa.org/1x/18/players/204538.png,Peru,77.0,76.0,R. Ruidíaz,9.0,16.0,18
+26.0,59,"Jul 27, 1990",P. Hurtado,https://cdn.sofifa.org/1x/18/players/211124.png,Peru,76.0,75.0,P. Hurtado,8.0,11.0,18
+27.0,59,"Jul 10, 1989",C. Zambrano,https://cdn.sofifa.org/1x/18/players/187132.png,Peru,76.0,75.0,C. Zambrano,6.5,1.0,18
+21.0,59,"Jul 28, 1995",R. Tapia,https://cdn.sofifa.org/1x/18/players/220673.png,Peru,78.0,73.0,R. Tapia,4.6,11.0,18
+25.0,59,"May 4, 1992",A. Callens,https://cdn.sofifa.org/1x/18/players/211522.png,Peru,78.0,72.0,A. Callens,3.6,6.0,18
+27.0,59,"Mar 2, 1990",L. Advíncula,https://cdn.sofifa.org/1x/18/players/204539.png,Peru,73.0,73.0,L. Advíncula,3.3,50.0,18
+27.0,59,"Apr 7, 1990",Y. Yotún,https://cdn.sofifa.org/1x/18/players/204542.png,Peru,71.0,71.0,Y. Yotún,2.4,7.0,18
+23.0,59,"Sep 17, 1993",Y. Reyna,https://cdn.sofifa.org/1x/18/players/214000.png,Peru,75.0,70.0,Y. Reyna,2.4,6.0,18
+38.0,59,"Oct 3, 1978",C. Pizarro,https://cdn.sofifa.org/1x/18/players/25420.png,Peru,75.0,75.0,C. Pizarro,2.4,26.0,18
+26.0,59,"Jun 14, 1991",A. Carrillo,https://cdn.sofifa.org/1x/18/players/203299.png,Peru,79.0,78.0,A. Carrillo,12.0,15.0,14
+32.0,59,"Oct 26, 1984",J. Farfán,https://cdn.sofifa.org/1x/18/players/158133.png,Peru,79.0,79.0,J. Farfán,10.0,54.0,14
+27.0,59,"Jul 10, 1989",C. Zambrano,https://cdn.sofifa.org/1x/18/players/187132.png,Peru,76.0,75.0,C. Zambrano,6.5,1.0,14
+30.0,59,"Jan 1, 1984",P. Guerrero,https://cdn.sofifa.org/1x/15/players/150525.png,Peru,78.0,78.0,P. Guerrero,0.0,0.0,14
+38.0,59,"Oct 3, 1978",C. Pizarro,https://cdn.sofifa.org/1x/18/players/25420.png,Peru,75.0,75.0,C. Pizarro,2.4,26.0,14
+32.0,59,"Oct 5, 1983",J. Vargas,https://cdn.sofifa.org/1x/17/players/167305.png,Peru,75.0,75.0,J. Vargas,2.3,8.0,14
+26.0,59,"Jul 27, 1990",P. Hurtado,https://cdn.sofifa.org/1x/18/players/211124.png,Peru,76.0,75.0,P. Hurtado,8.0,11.0,14
+30.0,59,"Sep 21, 1984",R. Cruzado,https://cdn.sofifa.org/1x/16/players/179695.png,Peru,72.0,72.0,R. Cruzado,0.0,0.0,14
+23.0,59,"May 14, 1994",E. Flores,https://cdn.sofifa.org/1x/18/players/210951.png,Peru,74.0,66.0,E. Flores,950.0,4.0,14
+23.0,59,"Nov 23, 1991",C. Cueva,https://cdn.sofifa.org/1x/16/players/214692.png,Peru,75.0,71.0,C. Cueva,2.1,25.0,14
+22.0,59,"Jun 9, 1993",J. Deza,https://cdn.sofifa.org/1x/16/players/220150.png,Peru,75.0,68.0,J. Deza,1.2,8.0,14
+20.0,59,"May 24, 1989",A. Cueto,https://cdn.sofifa.org/1x/11/players/186626.png,Peru,67.0,65.0,A. Cueto,0.0,0.0,10
+36.0,59,"Dec 12, 1974",N. Solano,https://cdn.sofifa.org/1x/12/players/3366.png,Peru,1.0,62.0,N. Solano,62.0,1.0,10
+36.0,59,"Aug 9, 1978",J. Fano,https://cdn.sofifa.org/1x/16/players/195890.png,Peru,65.0,65.0,J. Fano,70.0,1.0,10
+28.0,59,"Apr 18, 1983",H. Rengifo,https://cdn.sofifa.org/1x/12/players/183093.png,Peru,70.0,70.0,H. Rengifo,0.0,0.0,10
+19.0,59,"Aug 23, 1990",R. Manco,https://cdn.sofifa.org/1x/11/players/186940.png,Peru,77.0,68.0,R. Manco,0.0,0.0,10
+38.0,59,"Oct 3, 1978",C. Pizarro,https://cdn.sofifa.org/1x/18/players/25420.png,Peru,75.0,75.0,C. Pizarro,2.4,26.0,10
+27.0,59,"Jan 8, 1988",D. Chávez,https://cdn.sofifa.org/1x/16/players/176736.png,Peru,66.0,65.0,D. Chávez,0.0,0.0,10
+29.0,59,"May 10, 1983",W. Aguirre,https://cdn.sofifa.org/1x/13/players/177763.png,Peru,1.0,68.0,W. Aguirre,68.0,1.0,10
+24.0,59,"Feb 18, 1985",J. González-Vigil,https://cdn.sofifa.org/1x/11/players/173180.png,Peru,74.0,64.0,J. González-Vigil,0.0,0.0,10
+26.0,59,"Feb 19, 1986",J. Ross,https://cdn.sofifa.org/1x/13/players/191103.png,Peru,62.0,59.0,J. Ross,0.0,0.0,10
+33.0,59,"Mar 31, 1984",A. Rodríguez,https://cdn.sofifa.org/1x/18/players/168580.png,Peru,73.0,73.0,A. Rodríguez,1.6,4.0,10
+30.0,60,"Jan 24, 1987",L. Suárez,https://cdn.sofifa.org/1x/18/players/176580.png,Uruguay,92.0,92.0,L. Suárez,97.0,510.0,18
+30.0,60,"Feb 14, 1987",E. Cavani,https://cdn.sofifa.org/1x/18/players/179813.png,Uruguay,88.0,88.0,E. Cavani,57.0,210.0,18
+31.0,60,"Feb 16, 1986",D. Godín,https://cdn.sofifa.org/1x/18/players/182493.png,Uruguay,88.0,88.0,D. Godín,40.0,125.0,18
+22.0,60,"Jan 20, 1995",J. Giménez,https://cdn.sofifa.org/1x/18/players/216460.png,Uruguay,87.0,83.0,J. Giménez,28.5,53.0,18
+26.0,60,"Oct 7, 1990",S. Coates,https://cdn.sofifa.org/1x/18/players/197655.png,Uruguay,82.0,81.0,S. Coates,17.5,21.0,18
+25.0,60,"Aug 24, 1991",M. Vecino,https://cdn.sofifa.org/1x/18/players/219985.png,Uruguay,82.0,79.0,M. Vecino,13.5,64.0,18
+24.0,60,"Mar 24, 1993",D. Rolán,https://cdn.sofifa.org/1x/18/players/213114.png,Uruguay,81.0,78.0,D. Rolán,13.5,43.0,18
+24.0,60,"Feb 7, 1993",D. Laxalt,https://cdn.sofifa.org/1x/18/players/213400.png,Uruguay,81.0,78.0,D. Laxalt,13.0,30.0,18
+21.0,60,"Feb 11, 1996",L. Torreira,https://cdn.sofifa.org/1x/18/players/223959.png,Uruguay,86.0,78.0,L. Torreira,15.0,30.0,18
+22.0,60,"Jun 11, 1995",G. Pereiro,https://cdn.sofifa.org/1x/18/players/229636.png,Uruguay,81.0,76.0,G. Pereiro,10.5,17.0,18
+26.0,60,"Dec 2, 1990",G. Ramírez,https://cdn.sofifa.org/1x/18/players/201508.png,Uruguay,80.0,79.0,G. Ramírez,15.0,47.0,18
+30.0,60,"Feb 14, 1987",E. Cavani,https://cdn.sofifa.org/1x/18/players/179813.png,Uruguay,88.0,88.0,E. Cavani,57.0,210.0,14
+30.0,60,"Jan 24, 1987",L. Suárez,https://cdn.sofifa.org/1x/18/players/176580.png,Uruguay,92.0,92.0,L. Suárez,97.0,510.0,14
+26.0,60,"Dec 2, 1990",G. Ramírez,https://cdn.sofifa.org/1x/18/players/201508.png,Uruguay,80.0,79.0,G. Ramirez,15.0,47.0,14
+31.0,60,"Feb 16, 1986",D. Godín,https://cdn.sofifa.org/1x/18/players/182493.png,Uruguay,88.0,88.0,D. Godín,40.0,125.0,14
+31.0,60,"Jun 16, 1986",F. Muslera,https://cdn.sofifa.org/1x/18/players/182494.png,Uruguay,81.0,81.0,F. Muslera,11.0,52.0,14
+31.0,60,"Sep 30, 1985",C. Rodríguez,https://cdn.sofifa.org/1x/18/players/170664.png,Uruguay,75.0,75.0,C. Rodríguez,0.0,0.0,14
+30.0,60,"Apr 14, 1987",M. Cauteruccio,https://cdn.sofifa.org/1x/18/players/215292.png,Uruguay,72.0,72.0,M. Cauteruccio,3.0,23.0,14
+30.0,60,"Apr 7, 1987",M. Cáceres,https://cdn.sofifa.org/1x/18/players/182495.png,Uruguay,2.0,78.0,M. Cáceres,78.0,2.0,14
+32.0,60,"Sep 14, 1984",G. Castro,https://cdn.sofifa.org/1x/18/players/174379.png,Uruguay,75.0,75.0,G. Castro,5.0,22.0,14
+26.0,60,"Aug 8, 1990",A. Hernández,https://cdn.sofifa.org/1x/18/players/188484.png,Uruguay,75.0,75.0,A. Hernández,7.5,14.0,14
+21.0,60,"Oct 1, 1993",N. López,https://cdn.sofifa.org/1x/16/players/207715.png,Uruguay,1.0,74.0,N. López,81.0,4.8,14
+31.0,60,"Oct 11, 1985",A. Fernández,https://cdn.sofifa.org/1x/18/players/188417.png,Uruguay,65.0,65.0,A. Fernández,475.0,3.0,10
+31.0,60,"Nov 19, 1984",J. Fucile,https://cdn.sofifa.org/1x/17/players/178691.png,Uruguay,74.0,74.0,J. Fucile,0.0,0.0,10
+27.0,60,"May 2, 1983",C. Valdez,https://cdn.sofifa.org/1x/11/players/173832.png,Uruguay,70.0,65.0,C. Valdez,0.0,0.0,10
+31.0,60,"Jun 2, 1980",M. Bogliacino,https://cdn.sofifa.org/1x/12/players/158217.png,Uruguay,73.0,73.0,M. Bogliacino,0.0,0.0,10
+24.0,60,"Dec 28, 1984",M. Amado,https://cdn.sofifa.org/1x/11/players/193292.png,Uruguay,70.0,55.0,M. Amado,0.0,0.0,10
+31.0,60,"Oct 9, 1979",G. Sorondo,https://cdn.sofifa.org/1x/12/players/24589.png,Uruguay,71.0,71.0,G. Sorondo,0.0,0.0,10
+31.0,60,"Jan 13, 1985",J. Rodríguez,https://cdn.sofifa.org/1x/17/players/193293.png,Uruguay,73.0,73.0,J. Rodríguez,2.4,30.0,10
+32.0,60,"Jan 13, 1977",M. Acosta,https://cdn.sofifa.org/1x/11/players/176656.png,Uruguay,78.0,70.0,M. Acosta,0.0,0.0,10
+27.0,60,"Mar 6, 1982",W. Peralta,https://cdn.sofifa.org/1x/11/players/164369.png,Uruguay,76.0,69.0,W. Peralta,0.0,0.0,10
+28.0,60,"Apr 16, 1985",M. Alonso,https://cdn.sofifa.org/1x/14/players/176657.png,Uruguay,61.0,61.0,Matías Alonso,0.0,0.0,10
+36.0,60,"Dec 9, 1980",S. Silva,https://cdn.sofifa.org/1x/18/players/139799.png,Uruguay,72.0,72.0,M. Silva,1.1,9.0,10
+30.0,72,"Dec 15, 1986",K. Navas,https://cdn.sofifa.org/1x/18/players/193041.png,Costa Rica,85.0,85.0,K. Navas,24.5,165.0,18
+25.0,72,"Jun 26, 1992",J. Campbell,https://cdn.sofifa.org/1x/18/players/204713.png,Costa Rica,80.0,77.0,J. Campbell,11.0,92.0,18
+29.0,72,"May 27, 1988",C. Borges,https://cdn.sofifa.org/1x/18/players/190799.png,Costa Rica,78.0,78.0,C. Borges,8.0,26.0,18
+31.0,72,"Aug 18, 1985",B. Ruíz,https://cdn.sofifa.org/1x/18/players/176949.png,Costa Rica,76.0,76.0,B. Ruíz,7.0,19.0,18
+28.0,72,"Jun 3, 1989",O. Duarte,https://cdn.sofifa.org/1x/18/players/212772.png,Costa Rica,76.0,76.0,O. Duarte,6.0,30.0,18
+29.0,72,"Feb 8, 1988",G. González,https://cdn.sofifa.org/1x/18/players/208379.png,Costa Rica,76.0,76.0,G. González,6.0,52.0,18
+29.0,72,"Jan 1, 1988",K. Waston,https://cdn.sofifa.org/1x/18/players/216811.png,Costa Rica,74.0,74.0,K. Waston,4.4,9.0,18
+27.0,72,"Feb 18, 1990",D. Guzman,https://cdn.sofifa.org/1x/18/players/236999.png,Costa Rica,73.0,72.0,D. Guzman,2.9,6.0,18
+22.0,72,"Jul 9, 1994",R. Matarrita,https://cdn.sofifa.org/1x/18/players/232230.png,Costa Rica,78.0,71.0,R. Matarrita,2.8,5.0,18
+27.0,72,"Oct 24, 1989",C. Gamboa,https://cdn.sofifa.org/1x/18/players/198553.png,Costa Rica,71.0,71.0,C. Gamboa,2.0,32.0,18
+27.0,72,"Feb 18, 1990",B. Oviedo,https://cdn.sofifa.org/1x/18/players/198335.png,Costa Rica,72.0,72.0,B. Oviedo,2.6,8.0,18
+25.0,72,"Jun 26, 1992",J. Campbell,https://cdn.sofifa.org/1x/18/players/204713.png,Costa Rica,80.0,77.0,J. Campbell,11.0,92.0,14
+31.0,72,"Aug 18, 1985",B. Ruíz,https://cdn.sofifa.org/1x/18/players/176949.png,Costa Rica,76.0,76.0,B. Ruíz,7.0,19.0,14
+29.0,72,"May 27, 1988",C. Borges,https://cdn.sofifa.org/1x/18/players/190799.png,Costa Rica,78.0,78.0,C. Borges,8.0,26.0,14
+30.0,72,"Dec 15, 1986",K. Navas,https://cdn.sofifa.org/1x/18/players/193041.png,Costa Rica,85.0,85.0,K. Navas,24.5,165.0,14
+30.0,72,"Oct 4, 1983",M. Barrantes,https://cdn.sofifa.org/1x/15/players/193053.png,Costa Rica,72.0,72.0,M. Barrantes,2.4,25.0,14
+28.0,72,"Apr 28, 1989",E. Alvarado,https://cdn.sofifa.org/1x/18/players/198040.png,Costa Rica,67.0,67.0,E. Alvarado,525.0,14.0,14
+34.0,72,"Mar 25, 1982",A. Saborío,https://cdn.sofifa.org/1x/17/players/155827.png,Costa Rica,70.0,70.0,A. Saborío,725.0,4.0,14
+27.0,72,"Oct 24, 1989",C. Gamboa,https://cdn.sofifa.org/1x/18/players/198553.png,Costa Rica,71.0,71.0,C. Gamboa,2.0,32.0,14
+28.0,72,"Jun 3, 1989",O. Duarte,https://cdn.sofifa.org/1x/18/players/212772.png,Costa Rica,76.0,76.0,O. Duarte,6.0,30.0,14
+27.0,72,"Feb 18, 1990",B. Oviedo,https://cdn.sofifa.org/1x/18/players/198335.png,Costa Rica,72.0,72.0,B. Oviedo,2.6,8.0,14
+23.0,72,"Mar 25, 1991",D. Calvo,https://cdn.sofifa.org/1x/15/players/213706.png,Costa Rica,70.0,64.0,D. Calvo,475.0,7.0,14
+23.0,72,"Jun 1, 1988",D. Myrie,https://cdn.sofifa.org/1x/12/players/195328.png,Costa Rica,71.0,61.0,D. Myrie,0.0,0.0,10
+27.0,72,"Jun 27, 1984",K. Morsink,https://cdn.sofifa.org/1x/12/players/180997.png,Costa Rica,61.0,59.0,K. Morsink,0.0,0.0,10
+24.0,72,"Aug 9, 1985",D. Marshall,https://cdn.sofifa.org/1x/11/players/193043.png,Costa Rica,71.0,63.0,D. Marshall,0.0,0.0,10
+23.0,72,"Sep 30, 1986",M. Angulo,https://cdn.sofifa.org/1x/11/players/195364.png,Costa Rica,69.0,61.0,M. Angulo,0.0,0.0,10
+24.0,72,"Jul 10, 1984",C. Johnson,https://cdn.sofifa.org/1x/11/players/176947.png,Costa Rica,63.0,58.0,C. Johnson,2.0,0.0,10
+31.0,72,"Apr 9, 1982",C. Hernández,https://cdn.sofifa.org/1x/14/players/176948.png,Costa Rica,69.0,69.0,C. Hernández,0.0,0.0,10
+31.0,72,"Aug 18, 1985",B. Ruíz,https://cdn.sofifa.org/1x/18/players/176949.png,Costa Rica,76.0,76.0,B. Ruíz,7.0,19.0,10
+25.0,72,"Jun 30, 1984",G. Badilla,https://cdn.sofifa.org/1x/11/players/176952.png,Costa Rica,64.0,62.0,G. Badilla,2.0,0.0,10
+24.0,72,"Feb 14, 1987",P. Herrera,https://cdn.sofifa.org/1x/12/players/194628.png,Costa Rica,1.0,68.0,P. Herrera,72.0,5.0,10
+31.0,72,"Oct 1, 1979",G. Martínez,https://cdn.sofifa.org/1x/12/players/50247.png,Costa Rica,66.0,66.0,G. Martínez,0.0,0.0,10
+29.0,72,"May 27, 1988",C. Borges,https://cdn.sofifa.org/1x/18/players/190799.png,Costa Rica,78.0,78.0,C. Borges,8.0,26.0,10
+24.0,83,"Jan 6, 1993",J. Corona,https://cdn.sofifa.org/1x/18/players/193165.png,Mexico,84.0,81.0,J. Corona,22.5,17.0,18
+29.0,83,"Jun 1, 1988",J. Hernández,https://cdn.sofifa.org/1x/18/players/178224.png,Mexico,79.0,79.0,J. Hernández,12.5,125.0,18
+28.0,83,"Mar 1, 1989",C. Vela,https://cdn.sofifa.org/1x/18/players/169416.png,Mexico,81.0,81.0,C. Vela,0.0,0.0,18
+21.0,83,"Jul 30, 1995",H. Lozano,https://cdn.sofifa.org/1x/18/players/221992.png,Mexico,85.0,79.0,H. Lozano,17.5,20.0,18
+30.0,83,"Sep 28, 1986",A. Guardado,https://cdn.sofifa.org/1x/18/players/171897.png,Mexico,81.0,81.0,A. Guardado,16.5,32.0,18
+27.0,83,"Apr 26, 1990",J. dos Santos,https://cdn.sofifa.org/1x/18/players/170370.png,Mexico,79.0,79.0,J. dos Santos,13.0,13.0,18
+27.0,83,"Apr 19, 1990",H. Herrera,https://cdn.sofifa.org/1x/18/players/156519.png,Mexico,80.0,80.0,H. Herrera,15.0,19.0,18
+27.0,83,"Jul 21, 1989",M. Fabián,https://cdn.sofifa.org/1x/18/players/186307.png,Mexico,79.0,79.0,M. Fabián,13.0,38.0,18
+26.0,83,"May 5, 1991",R. Jiménez,https://cdn.sofifa.org/1x/18/players/204838.png,Mexico,79.0,77.0,R. Jiménez,11.0,16.0,18
+29.0,83,"Jan 17, 1988",H. Moreno,https://cdn.sofifa.org/1x/18/players/173432.png,Mexico,79.0,79.0,H. Moreno,10.0,36.0,18
+22.0,83,"Jun 15, 1995",E. Gutiérrez,https://cdn.sofifa.org/1x/18/players/220854.png,Mexico,84.0,76.0,E. Gutiérrez,11.0,30.0,18
+29.0,83,"Jun 1, 1988",J. Hernández,https://cdn.sofifa.org/1x/18/players/178224.png,Mexico,79.0,79.0,J. Hernández,12.5,125.0,14
+28.0,83,"Mar 1, 1989",C. Vela,https://cdn.sofifa.org/1x/18/players/169416.png,Mexico,81.0,81.0,C. Vela,0.0,0.0,14
+28.0,83,"May 11, 1989",G. dos Santos,https://cdn.sofifa.org/1x/18/players/170369.png,Mexico,78.0,78.0,G. dos Santos,10.5,12.0,14
+30.0,83,"Sep 28, 1986",A. Guardado,https://cdn.sofifa.org/1x/18/players/171897.png,Mexico,81.0,81.0,A. Guardado,16.5,32.0,14
+29.0,83,"Jan 17, 1988",H. Moreno,https://cdn.sofifa.org/1x/18/players/173432.png,Mexico,79.0,79.0,H. Moreno,10.0,36.0,14
+27.0,83,"Apr 19, 1990",H. Herrera,https://cdn.sofifa.org/1x/18/players/156519.png,Mexico,80.0,80.0,H. Herrera,15.0,19.0,14
+33.0,83,"Jan 12, 1984",O. Peralta,https://cdn.sofifa.org/1x/18/players/158543.png,Mexico,1.0,75.0,O. Peralta,75.0,1.0,14
+26.0,83,"May 5, 1991",R. Jiménez,https://cdn.sofifa.org/1x/18/players/204838.png,Mexico,79.0,77.0,R. Jiménez,11.0,16.0,14
+27.0,83,"Apr 26, 1990",J. dos Santos,https://cdn.sofifa.org/1x/18/players/170370.png,Mexico,79.0,79.0,J. Dos Santos,13.0,13.0,14
+27.0,83,"Feb 11, 1990",J. Aquino,https://cdn.sofifa.org/1x/18/players/192350.png,Mexico,77.0,77.0,J. Aquino,9.5,65.0,14
+27.0,83,"Mar 29, 1990",C. Peña,https://cdn.sofifa.org/1x/18/players/186999.png,Mexico,69.0,69.0,C. Peña,1.1,29.0,14
+33.0,83,"Apr 29, 1977",J. Beltrán,https://cdn.sofifa.org/1x/11/players/139009.png,Mexico,1.0,68.0,J. Beltrán,75.0,0.0,10
+32.0,83,"May 18, 1982",O. Razo,https://cdn.sofifa.org/1x/15/players/177153.png,Mexico,58.0,58.0,O. Razo,0.0,0.0,10
+22.0,83,"Nov 29, 1986",V. Estrada,https://cdn.sofifa.org/1x/11/players/192513.png,Mexico,72.0,55.0,V. Estrada,0.0,0.0,10
+21.0,83,"Feb 8, 1992",B. Leyva,https://cdn.sofifa.org/1x/14/players/195329.png,Mexico,71.0,60.0,B. Leyva,0.0,0.0,10
+33.0,83,"Jun 13, 1980",M. de la Torre,https://cdn.sofifa.org/1x/14/players/139010.png,Mexico,63.0,63.0,M. De la Torre,0.0,0.0,10
+32.0,83,"Jan 28, 1979",M. Brown,https://cdn.sofifa.org/1x/12/players/140034.png,Mexico,2.0,64.0,M. Brown,64.0,10.0,10
+22.0,83,"Apr 19, 1987",M. Pacchiano,https://cdn.sofifa.org/1x/11/players/193538.png,Mexico,1.0,63.0,M. Pacchiano,70.0,1.0,10
+36.0,83,"Apr 30, 1979",G. Torrado,https://cdn.sofifa.org/1x/16/players/2819.png,Mexico,67.0,67.0,G. Torrado,0.0,6.0,10
+35.0,83,"Mar 30, 1980",R. Osorio,https://cdn.sofifa.org/1x/16/players/140035.png,Mexico,69.0,69.0,R. Osorio,150.0,6.0,10
+25.0,83,"Jul 3, 1991",D. de Buen,https://cdn.sofifa.org/1x/18/players/190467.png,Mexico,73.0,70.0,D. De Buen,1.9,14.0,10
+18.0,83,"Jun 24, 1991",J. Tapia,https://cdn.sofifa.org/1x/11/players/193539.png,Mexico,68.0,42.0,J. Tapia,0.0,0.0,10
+27.0,87,"Feb 10, 1990",A. Godoy,https://cdn.sofifa.org/1x/18/players/217047.png,Panama,70.0,70.0,A. Godoy,1.8,7.0,18
+31.0,87,"Mar 20, 1986",R. Torres,https://cdn.sofifa.org/1x/18/players/214506.png,Panama,72.0,72.0,R. Torres,2.1,6.0,18
+32.0,87,"Feb 14, 1985",A. Machado,https://cdn.sofifa.org/1x/18/players/197154.png,Panama,71.0,71.0,A. Machado,1.4,6.0,18
+23.0,87,"Jun 25, 1994",J. Cox,https://cdn.sofifa.org/1x/18/players/237403.png,Panama,73.0,66.0,J. Cox,925.0,1.0,18
+28.0,87,"Oct 31, 1988",G. Torres,https://cdn.sofifa.org/1x/18/players/174754.png,Panama,68.0,68.0,G. Torres,925.0,9.0,18
+29.0,87,"Nov 26, 1987",A. Cooper,https://cdn.sofifa.org/1x/18/players/215163.png,Panama,68.0,68.0,A. Cooper,850.0,8.0,18
+22.0,87,"Sep 11, 1994",J. Aguilar,https://cdn.sofifa.org/1x/18/players/239187.png,Panama,70.0,65.0,J. Aguilar,725.0,3.0,18
+33.0,87,"May 29, 1984",G. Gómez,https://cdn.sofifa.org/1x/18/players/174732.png,Panama,70.0,70.0,G. Gómez,725.0,2.0,18
+25.0,87,"Mar 1, 1992",H. Cummings,https://cdn.sofifa.org/1x/18/players/217054.png,Panama,71.0,66.0,H. Cummings,725.0,2.0,18
+22.0,87,"Jan 9, 1995",F. Escobar,https://cdn.sofifa.org/1x/18/players/240196.png,Panama,72.0,66.0,F. Escobar,750.0,2.0,18
+20.0,87,"Feb 6, 1997",C. Martinez,https://cdn.sofifa.org/1x/18/players/234154.png,Panama,71.0,66.0,C. Martinez,875.0,2.0,18
+28.0,87,"Oct 31, 1988",G. Torres,https://cdn.sofifa.org/1x/18/players/174754.png,Panama,68.0,68.0,G. Torres,925.0,9.0,14
+35.0,87,"Feb 24, 1981",F. Baloy,https://cdn.sofifa.org/1x/17/players/139882.png,Panama,70.0,70.0,F. Baloy,230.0,1.0,14
+22.0,87,"May 24, 1994",R. Chen,https://cdn.sofifa.org/1x/17/players/217077.png,Panama,73.0,65.0,R. Chen,675.0,1.0,14
+28.0,87,"Nov 22, 1987",N. Barahona,https://cdn.sofifa.org/1x/17/players/214498.png,Panama,72.0,72.0,N. Barahona,2.1,15.0,14
+35.0,87,"Mar 14, 1981",B. Pérez,https://cdn.sofifa.org/1x/17/players/174746.png,Panama,66.0,66.0,B. Pérez,250.0,1.0,14
+32.0,87,"Sep 26, 1981",J. Penedo,https://cdn.sofifa.org/1x/15/players/174745.png,Panama,72.0,72.0,J. Penedo,2.0,20.0,14
+31.0,87,"Mar 20, 1986",R. Torres,https://cdn.sofifa.org/1x/18/players/214506.png,Panama,72.0,72.0,R. Torres,2.1,6.0,14
+32.0,87,"Nov 23, 1981",L. Henríquez,https://cdn.sofifa.org/1x/15/players/174737.png,Panama,65.0,65.0,L. Henríquez,300.0,6.0,14
+21.0,87,"Feb 16, 1992",E. Herrera,https://cdn.sofifa.org/1x/14/players/216144.png,Panama,63.0,60.0,E. Herrera,0.0,0.0,14
+29.0,87,"Aug 2, 1983",A. Henríquez,https://cdn.sofifa.org/1x/14/players/174736.png,Panama,68.0,68.0,A. Henríquez,0.0,0.0,14
+23.0,87,"Sep 7, 1989",Y. Yau,https://cdn.sofifa.org/1x/14/players/210340.png,Panama,65.0,60.0,Y. Yau,0.0,0.0,14
+35.0,87,"Feb 24, 1981",F. Baloy,https://cdn.sofifa.org/1x/17/players/139882.png,Panama,70.0,70.0,F. Baloy,230.0,1.0,10
+29.0,87,"Dec 18, 1987",A. Quintero,https://cdn.sofifa.org/1x/18/players/194415.png,Panama,69.0,69.0,Quintero,1.0,6.0,10
+33.0,87,"May 29, 1984",G. Gómez,https://cdn.sofifa.org/1x/18/players/174732.png,Panama,70.0,70.0,G. Goméz,725.0,2.0,10
+32.0,87,"Nov 23, 1981",L. Henríquez,https://cdn.sofifa.org/1x/15/players/174737.png,Panama,65.0,65.0,L. Henríquez,300.0,6.0,10
+35.0,87,"Mar 14, 1981",B. Pérez,https://cdn.sofifa.org/1x/17/players/174746.png,Panama,66.0,66.0,B. Pérez,250.0,1.0,10
+25.0,111,"Jun 15, 1992",M. Salah,https://cdn.sofifa.org/1x/18/players/209331.png,Egypt,90.0,87.0,M. Salah,63.0,205.0,18
+24.0,111,"Jul 11, 1992",M. Elneny,https://cdn.sofifa.org/1x/18/players/213051.png,Egypt,81.0,77.0,M. Elneny,10.0,76.0,18
+23.0,111,"Apr 13, 1994",Kahraba,https://cdn.sofifa.org/1x/18/players/219740.png,Egypt,81.0,75.0,Kahraba,9.0,32.0,18
+20.0,111,"Jan 23, 1997",R. Sobhi,https://cdn.sofifa.org/1x/18/players/233601.png,Egypt,84.0,75.0,R. Sobhi,10.5,45.0,18
+24.0,111,"Mar 5, 1993",A. Hassan,https://cdn.sofifa.org/1x/18/players/210259.png,Egypt,78.0,74.0,A. Hassan,7.5,12.0,18
+26.0,111,"Jan 25, 1991",A. Hegazi,https://cdn.sofifa.org/1x/18/players/210648.png,Egypt,77.0,75.0,A. Hegazi,6.5,52.0,18
+25.0,111,"Feb 1, 1992",A. Ghazal,https://cdn.sofifa.org/1x/18/players/212469.png,Egypt,75.0,73.0,A. Ghazal,4.1,8.0,18
+22.0,111,"Oct 1, 1994",Trezeguet,https://cdn.sofifa.org/1x/18/players/226078.png,Egypt,77.0,74.0,Trezeguet,7.0,19.0,18
+29.0,111,"Sep 9, 1987",A. Elmohamady,https://cdn.sofifa.org/1x/18/players/191005.png,Egypt,72.0,72.0,A. Elmohamady,2.4,24.0,18
+31.0,111,"Mar 5, 1986",Shikabala,https://cdn.sofifa.org/1x/18/players/170828.png,Egypt,71.0,71.0,Shikabala,2.1,17.0,18
+23.0,111,"May 12, 1994",M. Fathi,https://cdn.sofifa.org/1x/18/players/239652.png,Egypt,70.0,67.0,M. Fathi,975.0,11.0,18
+25.0,111,"Jun 15, 1992",M. Salah,https://cdn.sofifa.org/1x/18/players/209331.png,Egypt,90.0,87.0,M. Salah,63.0,205.0,14
+29.0,111,"Sep 9, 1987",A. Elmohamady,https://cdn.sofifa.org/1x/18/players/191005.png,Egypt,72.0,72.0,A. Elmohamady,2.4,24.0,14
+24.0,111,"Mar 5, 1993",A. Hassan,https://cdn.sofifa.org/1x/18/players/210259.png,Egypt,78.0,74.0,Hassan,7.5,12.0,14
+26.0,111,"Jan 25, 1991",A. Hegazi,https://cdn.sofifa.org/1x/18/players/210648.png,Egypt,77.0,75.0,A. Hegazy,6.5,52.0,14
+24.0,111,"Jul 11, 1992",M. Elneny,https://cdn.sofifa.org/1x/18/players/213051.png,Egypt,81.0,77.0,M. Elneny,10.0,76.0,14
+23.0,111,"Apr 13, 1994",Kahraba,https://cdn.sofifa.org/1x/18/players/219740.png,Egypt,81.0,75.0,M. Kahraba,9.0,32.0,14
+25.0,111,"Feb 1, 1992",A. Ghazal,https://cdn.sofifa.org/1x/18/players/212469.png,Egypt,75.0,73.0,Ali Ghazal,4.1,8.0,14
+32.0,111,"Sep 11, 1984",A. El-Abd,https://cdn.sofifa.org/1x/18/players/156313.png,Egypt,66.0,66.0,A. El-Abd,375.0,5.0,14
+35.0,111,"Dec 15, 1981",H. Ghaly,https://cdn.sofifa.org/1x/18/players/139974.png,Egypt,70.0,70.0,H. Ghaly,425.0,17.0,14
+25.0,111,"Sep 10, 1991",S. Morsy,https://cdn.sofifa.org/1x/18/players/197975.png,Egypt,70.0,68.0,S. Morsy,925.0,8.0,14
+30.0,111,"Apr 1, 1987",I. Salah,https://cdn.sofifa.org/1x/18/players/203704.png,Egypt,66.0,66.0,Ibrahim Salah,0.0,0.0,14
+29.0,111,"Oct 5, 1981",Mohamed Shawky,https://cdn.sofifa.org/1x/12/players/169765.png,Egypt,73.0,67.0,M. Shawky,0.0,0.0,10
+31.0,111,"Apr 1, 1983",A. Zaki,https://cdn.sofifa.org/1x/15/players/169770.png,Egypt,71.0,71.0,A. Zaki,0.0,0.0,10
+33.0,111,"Nov 20, 1978",Ayman,https://cdn.sofifa.org/1x/13/players/143918.png,Egypt,61.0,61.0,Ayman,0.0,0.0,10
+26.0,111,"Feb 14, 1983",A. Megahed,https://cdn.sofifa.org/1x/11/players/172890.png,Egypt,65.0,61.0,A. Megahed,0.0,0.0,10
+29.0,111,"Feb 23, 1983",Mido,https://cdn.sofifa.org/1x/13/players/2141.png,Egypt,69.0,69.0,Mido,0.0,0.0,10
+27.0,111,"Dec 5, 1981",G. Hamza,https://cdn.sofifa.org/1x/11/players/161904.png,Egypt,72.0,65.0,G. Hamza,0.0,0.0,10
+29.0,111,"Dec 11, 1981",M. Zidan,https://cdn.sofifa.org/1x/12/players/45707.png,Egypt,75.0,75.0,M. Zidan,0.0,0.0,10
+20.0,111,"Sep 29, 1988",O. Elsamni,https://cdn.sofifa.org/1x/11/players/193935.png,Egypt,64.0,54.0,O. Elsamni,0.0,0.0,10
+35.0,111,"Jan 30, 1974",El Saka,https://cdn.sofifa.org/1x/11/players/125082.png,Egypt,71.0,70.0,El Saka,0.0,0.0,10
+24.0,129,"Mar 19, 1993",H. Ziyech,https://cdn.sofifa.org/1x/18/players/208670.png,Morocco,85.0,81.0,H. Ziyech,23.0,16.0,18
+30.0,129,"Apr 17, 1987",M. Benatia,https://cdn.sofifa.org/1x/18/players/177509.png,Morocco,85.0,85.0,M. Benatia,28.5,145.0,18
+27.0,129,"Feb 25, 1990",Y. Belhanda,https://cdn.sofifa.org/1x/18/players/193738.png,Morocco,81.0,81.0,Y. Belhanda,18.5,71.0,18
+23.0,129,"Sep 17, 1993",S. Boufal,https://cdn.sofifa.org/1x/18/players/211381.png,Morocco,81.0,78.0,S. Boufal,13.0,75.0,18
+30.0,129,"Mar 31, 1987",N. Amrabat,https://cdn.sofifa.org/1x/18/players/183108.png,Morocco,79.0,79.0,N. Amrabat,12.0,69.0,18
+32.0,129,"Jan 27, 1985",K. El Ahmadi,https://cdn.sofifa.org/1x/18/players/162329.png,Morocco,79.0,79.0,K. El Ahmadi,9.5,23.0,18
+20.0,129,"Jun 18, 1997",A. Harit,https://cdn.sofifa.org/1x/18/players/232097.png,Morocco,86.0,78.0,A. Harit,15.5,35.0,18
+26.0,129,"Aug 21, 1990",O. El Kaddouri,https://cdn.sofifa.org/1x/18/players/187702.png,Morocco,77.0,76.0,O. El Kaddouri,9.0,1.0,18
+23.0,129,"Mar 6, 1994",Y. Ayoub,https://cdn.sofifa.org/1x/18/players/204102.png,Morocco,80.0,76.0,Y. Ayoub,10.0,13.0,18
+28.0,129,"Jul 1, 1989",M. Carcela-González,https://cdn.sofifa.org/1x/18/players/184089.png,Morocco,77.0,77.0,M. Carcela-González,9.0,14.0,18
+20.0,129,"Aug 21, 1996",S. Amrabat,https://cdn.sofifa.org/1x/18/players/224158.png,Morocco,80.0,75.0,S. Amrabat,9.0,13.0,18
+30.0,129,"Apr 17, 1987",M. Benatia,https://cdn.sofifa.org/1x/18/players/177509.png,Morocco,85.0,85.0,M. Benatia,28.5,145.0,14
+28.0,129,"May 24, 1989",A. Taarabt,https://cdn.sofifa.org/1x/18/players/179605.png,Morocco,72.0,72.0,A. Taarabt,3.1,9.0,14
+30.0,129,"Aug 15, 1984",M. Boussoufa,https://cdn.sofifa.org/1x/16/players/164435.png,Morocco,79.0,79.0,M. Boussoufa,9.5,70.0,14
+24.0,129,"Mar 9, 1993",Z. Labyad,https://cdn.sofifa.org/1x/18/players/198640.png,Morocco,79.0,75.0,Z. Labyad,9.0,12.0,14
+30.0,129,"Mar 31, 1987",N. Amrabat,https://cdn.sofifa.org/1x/18/players/183108.png,Morocco,79.0,79.0,N. Amrabat,12.0,69.0,14
+28.0,129,"Feb 3, 1987",Y. El Arabi,https://cdn.sofifa.org/1x/16/players/194209.png,Morocco,75.0,75.0,Y. El Arabi,4.1,50.0,14
+26.0,129,"Aug 21, 1990",O. El Kaddouri,https://cdn.sofifa.org/1x/18/players/187702.png,Morocco,77.0,76.0,O. El Kaddouri,9.0,1.0,14
+25.0,129,"Aug 29, 1991",Y. Mokhtar,https://cdn.sofifa.org/1x/18/players/200275.png,Morocco,74.0,73.0,Y. Mokhtar,4.8,11.0,14
+27.0,129,"Feb 25, 1989",K. Aït-Fana,https://cdn.sofifa.org/1x/17/players/181557.png,Morocco,70.0,70.0,K. Aït-Fana,1.4,15.0,14
+28.0,129,"Jul 1, 1989",M. Carcela-González,https://cdn.sofifa.org/1x/18/players/184089.png,Morocco,77.0,77.0,M. Carcela-Gonzalez,9.0,14.0,14
+26.0,129,"Mar 17, 1990",A. El Kaoutari,https://cdn.sofifa.org/1x/17/players/188145.png,Morocco,76.0,74.0,A. El Kaoutari,3.4,15.0,14
+24.0,129,"Mar 26, 1986",B. El Bahri,https://cdn.sofifa.org/1x/11/players/183814.png,Morocco,73.0,64.0,B. El Bahri,0.0,0.0,10
+28.0,129,"Aug 15, 1988",O. Assaidi,https://cdn.sofifa.org/1x/18/players/188935.png,Morocco,75.0,75.0,O. Assaidi,6.5,12.0,10
+31.0,129,"Nov 9, 1982",H. Kharja,https://cdn.sofifa.org/1x/15/players/137241.png,Morocco,69.0,69.0,H. Kharja,750.0,10.0,10
+32.0,129,"Jan 27, 1985",K. El Ahmadi,https://cdn.sofifa.org/1x/18/players/162329.png,Morocco,79.0,79.0,K. El Ahmadi,9.5,23.0,10
+24.0,129,"Dec 8, 1984",S. Aït Bahi,https://cdn.sofifa.org/1x/11/players/197920.png,Morocco,67.0,61.0,S. Aït Bahi,0.0,0.0,10
+31.0,129,"Jan 19, 1981",A. Ammi,https://cdn.sofifa.org/1x/13/players/138539.png,Morocco,63.0,63.0,A. Ammi,0.0,0.0,10
+27.0,129,"Dec 9, 1986",I. El Adoua,https://cdn.sofifa.org/1x/15/players/192555.png,Morocco,72.0,69.0,I. El Adoua,900.0,10.0,10
+30.0,129,"Sep 12, 1978",A. Oulmers,https://cdn.sofifa.org/1x/11/players/52782.png,Morocco,70.0,68.0,A. Oulmers,0.0,0.0,10
+29.0,129,"Jun 27, 1986",A. Hermach,https://cdn.sofifa.org/1x/16/players/177713.png,Morocco,71.0,71.0,A. Hermach,1.5,8.0,10
+22.0,129,"Sep 30, 1989",D. Fettouhi,https://cdn.sofifa.org/1x/13/players/188721.png,Morocco,1.0,68.0,D. Fettouhi,76.0,5.0,10
+26.0,129,"Jul 12, 1990",Y. El Ghanassy,https://cdn.sofifa.org/1x/18/players/190516.png,Belgium,71.0,71.0,Y. El Ghanassy,2.5,17.0,10
+26.0,133,"Dec 12, 1990",V. Moses,https://cdn.sofifa.org/1x/18/players/172962.png,Nigeria,81.0,80.0,V. Moses,14.0,115.0,18
+20.0,133,"Dec 16, 1996",O. Ndidi,https://cdn.sofifa.org/1x/18/players/226790.png,Nigeria,1.0,80.0,O. Ndidi,86.0,17.5,18
+20.0,133,"Jun 5, 1997",H. Onyekuru,https://cdn.sofifa.org/1x/18/players/234045.png,Nigeria,86.0,76.0,H. Onyekuru,12.5,76.0,18
+21.0,133,"May 3, 1996",A. Iwobi,https://cdn.sofifa.org/1x/18/players/213655.png,Nigeria,85.0,76.0,A. Iwobi,12.0,76.0,18
+20.0,133,"Oct 3, 1996",K. Iheanacho,https://cdn.sofifa.org/1x/18/players/225719.png,Nigeria,84.0,75.0,K. Iheanacho,10.5,50.0,18
+24.0,133,"Oct 14, 1992",A. Musa,https://cdn.sofifa.org/1x/18/players/201818.png,Nigeria,77.0,74.0,A. Musa,7.5,55.0,18
+22.0,133,"Mar 6, 1995",A. Umar,https://cdn.sofifa.org/1x/18/players/229092.png,Nigeria,81.0,76.0,A. Umar,10.5,19.0,18
+21.0,133,"Jul 12, 1995",M. Simon,https://cdn.sofifa.org/1x/18/players/216820.png,Nigeria,81.0,74.0,M. Simon,8.0,17.0,18
+24.0,133,"May 27, 1993",M. Agu,https://cdn.sofifa.org/1x/18/players/209984.png,Nigeria,80.0,75.0,M. Agu,7.5,11.0,18
+24.0,133,"May 8, 1993",O. Kayode,https://cdn.sofifa.org/1x/18/players/211048.png,Nigeria,78.0,74.0,O. Kayode,7.5,1.0,18
+23.0,133,"Oct 24, 1993",I. Ezekiel,https://cdn.sofifa.org/1x/18/players/208022.png,Nigeria,78.0,74.0,I. Ezekiel,7.5,19.0,18
+24.0,133,"Oct 14, 1992",A. Musa,https://cdn.sofifa.org/1x/18/players/201818.png,Nigeria,77.0,74.0,A. Musa,7.5,55.0,14
+24.0,133,"Dec 25, 1992",O. Onazi,https://cdn.sofifa.org/1x/18/players/202934.png,Nigeria,77.0,74.0,O. Onazi,6.0,23.0,14
+26.0,133,"Dec 12, 1990",V. Moses,https://cdn.sofifa.org/1x/18/players/172962.png,Nigeria,81.0,80.0,V. Moses,14.0,115.0,14
+29.0,133,"Apr 22, 1987",J. Mikel,https://cdn.sofifa.org/1x/17/players/164477.png,Nigeria,78.0,78.0,J. Mikel,6.5,60.0,14
+23.0,133,"Oct 24, 1993",I. Ezekiel,https://cdn.sofifa.org/1x/18/players/208022.png,Nigeria,78.0,74.0,I. Ezekiel,7.5,19.0,14
+26.0,133,"Oct 14, 1990",A. Ujah,https://cdn.sofifa.org/1x/18/players/198554.png,Nigeria,75.0,74.0,A. Ujah,6.5,29.0,14
+28.0,133,"Apr 23, 1988",V. Anichebe,https://cdn.sofifa.org/1x/17/players/169527.png,Nigeria,74.0,74.0,V. Anichebe,3.4,30.0,14
+28.0,133,"Feb 19, 1989",S. Aluko,https://cdn.sofifa.org/1x/18/players/173530.png,Nigeria,70.0,70.0,S. Aluko,1.8,27.0,14
+27.0,133,"Jun 16, 1989",O. Ighalo,https://cdn.sofifa.org/1x/17/players/185195.png,Nigeria,78.0,77.0,O. Ighalo,8.0,25.0,14
+26.0,133,"May 22, 1991",J. Obi,https://cdn.sofifa.org/1x/18/players/193337.png,Nigeria,77.0,74.0,J. Obi,7.0,39.0,14
+30.0,133,"Oct 28, 1984",O. Martins,https://cdn.sofifa.org/1x/16/players/137494.png,Nigeria,80.0,80.0,O. Martins,0.0,0.0,14
+25.0,133,"Apr 18, 1984",I. Kalu,https://cdn.sofifa.org/1x/11/players/170752.png,Nigeria,69.0,53.0,I. Kalu,0.0,0.0,10
+29.0,133,"Jan 20, 1988",E. Echiéjilé,https://cdn.sofifa.org/1x/18/players/185089.png,Nigeria,71.0,71.0,U. Echiejile,1.8,11.0,10
+27.0,133,"Mar 2, 1987",S. Okoronkwo,https://cdn.sofifa.org/1x/15/players/167432.png,Nigeria,64.0,64.0,S. Okoronkwo,600.0,3.0,10
+25.0,133,"Oct 25, 1985",I. Eliakwu,https://cdn.sofifa.org/1x/12/players/149260.png,Nigeria,2.0,62.0,I. Eliakwu,68.0,9.0,10
+18.0,133,"Dec 31, 1990",Y. Alfa,https://cdn.sofifa.org/1x/11/players/190737.png,Nigeria,74.0,60.0,Y. Alfa,0.0,0.0,10
+30.0,133,"Oct 28, 1984",O. Martins,https://cdn.sofifa.org/1x/16/players/137494.png,Nigeria,80.0,80.0,O. Martins,0.0,0.0,10
+27.0,133,"Mar 10, 1988",A. Agbetu,https://cdn.sofifa.org/1x/16/players/177688.png,Nigeria,61.0,61.0,A. Agbetu,230.0,5.0,10
+20.0,133,"Jan 2, 1989",Sunny,https://cdn.sofifa.org/1x/11/players/198172.png,Nigeria,65.0,53.0,Sunny,0.0,0.0,10
+27.0,133,"Apr 4, 1983",S. Adeshina,https://cdn.sofifa.org/1x/11/players/137245.png,Nigeria,1.0,59.0,S. Adeshina,67.0,1.0,10
+27.0,133,"Oct 10, 1988",J. Chibuike,https://cdn.sofifa.org/1x/17/players/192285.png,Nigeria,72.0,72.0,J. Chibuike,2.2,15.0,10
+24.0,133,"May 10, 1986",K. Amuneke,https://cdn.sofifa.org/1x/11/players/159010.png,Nigeria,73.0,68.0,K. Amuneke,0.0,0.0,10
+25.0,136,"Apr 10, 1992",S. Mané,https://cdn.sofifa.org/1x/18/players/208722.png,Senegal,85.0,84.0,S. Mané,37.0,175.0,18
+26.0,136,"Jun 20, 1991",K. Koulibaly,https://cdn.sofifa.org/1x/18/players/201024.png,Senegal,87.0,84.0,K. Koulibaly,32.5,96.0,18
+22.0,136,"Mar 8, 1995",K. Baldé,https://cdn.sofifa.org/1x/18/players/215785.png,Senegal,88.0,81.0,K. Baldé Diao,25.0,38.0,18
+27.0,136,"Sep 26, 1989",I. Gueye,https://cdn.sofifa.org/1x/18/players/193474.png,Senegal,82.0,82.0,I. Gueye,18.5,115.0,18
+22.0,136,"Dec 19, 1994",M. Niang,https://cdn.sofifa.org/1x/18/players/204077.png,Senegal,83.0,77.0,M. Niang,12.0,84.0,18
+26.0,136,"Aug 25, 1990",S. Sané,https://cdn.sofifa.org/1x/18/players/201956.png,Senegal,81.0,80.0,S. Sané,14.5,47.0,18
+20.0,136,"Jul 16, 1996",A. Ndiaye Diedhiou,https://cdn.sofifa.org/1x/18/players/233631.png,Senegal,87.0,74.0,A. Ndiaye Diedhiou,11.0,20.0,18
+24.0,136,"Mar 17, 1993",K. Babacar,https://cdn.sofifa.org/1x/18/players/197231.png,Senegal,80.0,76.0,K. Babacar,10.0,59.0,18
+27.0,136,"Nov 11, 1989",K. Mbodji,https://cdn.sofifa.org/1x/18/players/198584.png,Senegal,79.0,78.0,K. Mbodji,10.0,24.0,18
+26.0,136,"Oct 27, 1990",B. Ndiaye,https://cdn.sofifa.org/1x/18/players/221000.png,Senegal,77.0,76.0,Badou Ndiaye,9.0,68.0,18
+29.0,136,"Dec 16, 1987",M. Diouf,https://cdn.sofifa.org/1x/18/players/187084.png,Senegal,77.0,77.0,M. Diouf,9.0,77.0,18
+29.0,136,"Dec 16, 1987",M. Diouf,https://cdn.sofifa.org/1x/18/players/187084.png,Senegal,77.0,77.0,M. Diouf,9.0,77.0,14
+32.0,136,"May 25, 1985",D. Ba,https://cdn.sofifa.org/1x/18/players/177134.png,Senegal,77.0,77.0,D. Ba,7.0,24.0,14
+28.0,136,"Dec 1, 1988",P. Djilobodji,https://cdn.sofifa.org/1x/18/players/197937.png,Senegal,77.0,76.0,P. Djilobodji,7.0,13.0,14
+27.0,136,"Apr 4, 1989",I. Baldé,https://cdn.sofifa.org/1x/17/players/197238.png,Senegal,73.0,73.0,I. Baldé,3.0,20.0,14
+29.0,136,"Jan 5, 1988",B. Diawara,https://cdn.sofifa.org/1x/18/players/192337.png,Senegal,71.0,71.0,P. Diawara,2.4,7.0,14
+27.0,136,"Sep 26, 1989",I. Gueye,https://cdn.sofifa.org/1x/18/players/193474.png,Senegal,82.0,82.0,I. Gueye,18.5,115.0,14
+26.0,136,"Oct 26, 1990",H. Saivet,https://cdn.sofifa.org/1x/18/players/183256.png,Senegal,74.0,74.0,H. Saivet,6.0,58.0,14
+22.0,136,"Dec 19, 1994",M. Niang,https://cdn.sofifa.org/1x/18/players/204077.png,Senegal,83.0,77.0,M. Niang,12.0,84.0,14
+30.0,136,"Jun 3, 1985",P. Cissé,https://cdn.sofifa.org/1x/16/players/177765.png,Senegal,77.0,77.0,P. Cissé,6.5,70.0,14
+32.0,136,"Feb 21, 1985",D. N'Doye,https://cdn.sofifa.org/1x/18/players/179875.png,Senegal,71.0,71.0,D. N'Doye,1.9,23.0,14
+27.0,136,"Aug 14, 1989",F. Diagne,https://cdn.sofifa.org/1x/18/players/194196.png,Senegal,73.0,73.0,F. Diagne,3.4,24.0,14
+29.0,136,"Nov 8, 1980",D. Kamara,https://cdn.sofifa.org/1x/11/players/149249.png,Senegal,78.0,73.0,D. Kamará,0.0,0.0,10
+31.0,136,"Dec 18, 1984",M. Sougou,https://cdn.sofifa.org/1x/17/players/168961.png,Senegal,69.0,69.0,M. Sougou,875.0,2.0,10
+24.0,136,"May 22, 1988",P. M'Bow,https://cdn.sofifa.org/1x/13/players/183553.png,Senegal,72.0,60.0,P. M'Bow,0.0,0.0,10
+29.0,136,"Jul 14, 1985",M. Gomis,https://cdn.sofifa.org/1x/16/players/171783.png,Senegal,64.0,64.0,M. Gomis,400.0,5.0,10
+31.0,136,"Apr 4, 1986",P. Diouf,https://cdn.sofifa.org/1x/18/players/177160.png,Senegal,62.0,62.0,P. Diouf,270.0,1.0,10
+27.0,136,"Dec 24, 1989",D. Sakho,https://cdn.sofifa.org/1x/18/players/193554.png,Senegal,75.0,75.0,D. Sakho,7.0,25.0,10
+21.0,136,"Dec 13, 1987",M. Faye,https://cdn.sofifa.org/1x/11/players/183317.png,Senegal,79.0,52.0,M. Faye,0.0,0.0,10
+32.0,136,"Mar 18, 1982",M. Fall,https://cdn.sofifa.org/1x/15/players/183069.png,Senegal,61.0,61.0,M. Fall,130.0,750.0,10
+22.0,136,"Mar 7, 1987",I. Gueye,https://cdn.sofifa.org/1x/11/players/197919.png,Senegal,59.0,51.0,I. Gueye,0.0,0.0,10
+32.0,136,"Feb 25, 1984",J. Faty,https://cdn.sofifa.org/1x/17/players/134688.png,Senegal,64.0,64.0,J. Faty,250.0,2.0,10
+23.0,136,"Feb 27, 1986",M. Dabo,https://cdn.sofifa.org/1x/11/players/177703.png,Senegal,4.0,56.0,M. Dabo,65.0,6.0,10
+26.0,145,"Feb 8, 1991",W. Khazri,https://cdn.sofifa.org/1x/18/players/194845.png,Tunisia,78.0,78.0,W. Khazri,11.0,14.0,18
+27.0,145,"Aug 6, 1989",A. Abdennour,https://cdn.sofifa.org/1x/18/players/198076.png,Tunisia,77.0,76.0,A. Abdennour,7.5,31.0,18
+24.0,145,"Jul 27, 1992",N. Sliti,https://cdn.sofifa.org/1x/18/players/205257.png,Tunisia,76.0,74.0,N. Sliti,7.0,33.0,18
+22.0,145,"May 10, 1995",E. Skhiri,https://cdn.sofifa.org/1x/18/players/225126.png,Tunisia,80.0,75.0,E. Skhiri,7.5,20.0,18
+30.0,145,"Mar 28, 1987",Y. Benalouane,https://cdn.sofifa.org/1x/18/players/183288.png,Tunisia,74.0,74.0,Y. Benalouane,4.2,52.0,18
+31.0,145,"May 28, 1986",S. Allagui,https://cdn.sofifa.org/1x/18/players/168950.png,Tunisia,1.0,71.0,S. Allagui,71.0,1.0,18
+28.0,145,"Mar 31, 1989",S. Ben Youssef,https://cdn.sofifa.org/1x/18/players/207788.png,Tunisia,72.0,71.0,S. Ben Youssef,2.2,11.0,18
+32.0,145,"Jan 5, 1985",H. Harbaoui,https://cdn.sofifa.org/1x/18/players/186444.png,Tunisia,73.0,73.0,H. Harbaoui,3.2,18.0,18
+28.0,145,"Feb 23, 1989",A. Akaichi,https://cdn.sofifa.org/1x/18/players/205234.png,Tunisia,69.0,69.0,A. Akaichi,1.1,24.0,18
+20.0,145,"Jun 25, 1997",B. Srarfi,https://cdn.sofifa.org/1x/18/players/237600.png,Tunisia,79.0,70.0,B. Srarfi,2.8,19.0,18
+30.0,145,"Nov 29, 1986",Y. Touzghar,https://cdn.sofifa.org/1x/18/players/203889.png,Tunisia,70.0,70.0,Y. Touzghar,1.7,8.0,18
+27.0,145,"Aug 6, 1989",A. Abdennour,https://cdn.sofifa.org/1x/18/players/198076.png,Tunisia,77.0,76.0,A. Abdennour,7.5,31.0,14
+26.0,145,"Feb 8, 1991",W. Khazri,https://cdn.sofifa.org/1x/18/players/194845.png,Tunisia,78.0,78.0,W. Khazri,11.0,14.0,14
+27.0,145,"Jul 18, 1988",A. Ben-Hatira,https://cdn.sofifa.org/1x/17/players/176627.png,Tunisia,74.0,74.0,A. Ben-Hatira,3.4,25.0,14
+29.0,145,"Jan 27, 1987",J. Saihi,https://cdn.sofifa.org/1x/17/players/182887.png,Tunisia,71.0,71.0,J. Saihi,1.2,2.0,14
+32.0,145,"Feb 28, 1985",F. Camus,https://cdn.sofifa.org/1x/18/players/165240.png,Tunisia,68.0,68.0,F. Camus,700.0,9.0,14
+27.0,145,"Sep 22, 1986",Y. Chikhaoui,https://cdn.sofifa.org/1x/15/players/177022.png,Tunisia,78.0,78.0,Y. Chikhaoui,9.0,65.0,14
+26.0,145,"Apr 20, 1991",K. Laribi,https://cdn.sofifa.org/1x/18/players/190499.png,Tunisia,70.0,69.0,K. Laribi,2.0,1.2,14
+31.0,145,"May 28, 1986",S. Allagui,https://cdn.sofifa.org/1x/18/players/168950.png,Tunisia,1.0,71.0,S. Allagui,71.0,1.0,14
+26.0,145,"Jan 17, 1990",K. Ayari,https://cdn.sofifa.org/1x/17/players/213028.png,Tunisia,67.0,66.0,K. Ayari,725.0,3.0,14
+33.0,145,"Jan 20, 1984",K. Haggui,https://cdn.sofifa.org/1x/18/players/156256.png,Tunisia,69.0,69.0,K. Haggui,425.0,9.0,14
+27.0,145,"Dec 26, 1987",A. Chermiti,https://cdn.sofifa.org/1x/16/players/189432.png,Tunisia,69.0,69.0,A. Chermiti,1.1,15.0,14
+29.0,145,"Feb 13, 1981",K. Mouelhi,https://cdn.sofifa.org/1x/11/players/170755.png,Tunisia,1.0,59.0,K. Mouelhi,70.0,0.0,10
+21.0,145,"Mar 6, 1990",A. Guilouzi,https://cdn.sofifa.org/1x/12/players/190743.png,Tunisia,76.0,58.0,A. Guilouzi,0.0,0.0,10
+25.0,145,"Dec 13, 1983",M. Traoui,https://cdn.sofifa.org/1x/11/players/175644.png,Tunisia,77.0,59.0,M. Traoui,0.0,0.0,10
+35.0,145,"Sep 26, 1981",A. Yahia,https://cdn.sofifa.org/1x/18/players/53027.png,Tunisia,68.0,68.0,A. Yahia,210.0,3.0,10
+26.0,145,"Apr 20, 1991",K. Laribi,https://cdn.sofifa.org/1x/18/players/190499.png,Tunisia,70.0,69.0,K. Laribi,2.0,1.2,10
+30.0,145,"Jun 11, 1983",M. Gherieni,https://cdn.sofifa.org/1x/14/players/194855.png,Tunisia,59.0,59.0,M. Ghariani,0.0,0.0,10
+31.0,145,"Jul 29, 1979",K. Essediri,https://cdn.sofifa.org/1x/12/players/152617.png,Tunisia,1.0,67.0,K. Essediri,67.0,7.0,10
+25.0,145,"Jan 29, 1989",S. Ben Djemia,https://cdn.sofifa.org/1x/15/players/193321.png,Tunisia,67.0,61.0,S. Ben Djemia,210.0,4.0,10
+29.0,145,"Sep 8, 1981",S. Benachour,https://cdn.sofifa.org/1x/12/players/50222.png,Tunisia,2.0,72.0,S. Benachour,72.0,2.0,10
+30.0,145,"Mar 20, 1979",Santos,https://cdn.sofifa.org/1x/11/players/116539.png,Tunisia,72.0,63.0,Santos,0.0,0.0,10
+26.0,145,"Feb 14, 1984",H. Namouchi,https://cdn.sofifa.org/1x/11/players/155973.png,Tunisia,72.0,63.0,H. Namouchi,0.0,0.0,10
+22.0,161,"Jan 1, 1995",S. Azmoun,https://cdn.sofifa.org/1x/18/players/213955.png,Iran,84.0,76.0,S. Azmoun,11.5,46.0,18
+23.0,161,"Oct 8, 1993",A. Jahanbakhsh,https://cdn.sofifa.org/1x/18/players/215871.png,Iran,80.0,77.0,A. Jahanbakhsh,11.5,13.0,18
+27.0,161,"Apr 3, 1990",K. Ansarifard,https://cdn.sofifa.org/1x/18/players/197136.png,Iran,75.0,75.0,K. Ansarifard,7.0,1.0,18
+23.0,161,"Sep 29, 1993",M. Mohammadi,https://cdn.sofifa.org/1x/18/players/233218.png,Iran,80.0,73.0,M. Mohammadi,4.7,25.0,18
+23.0,161,"Sep 6, 1993",S. Ghoddos,https://cdn.sofifa.org/1x/18/players/231949.png,Iran,77.0,72.0,S. Ghoddos,4.2,4.0,18
+25.0,161,"Apr 5, 1992",K. Rezaei,https://cdn.sofifa.org/1x/18/players/239593.png,Iran,75.0,73.0,K. Rezaei,5.0,16.0,18
+29.0,161,"Sep 20, 1987",R. Ghoochannejhad,https://cdn.sofifa.org/1x/18/players/189717.png,Iran,70.0,70.0,R. Ghoochannejhad,1.8,9.0,18
+27.0,161,"Mar 21, 1990",R. Rezaeian,https://cdn.sofifa.org/1x/18/players/239675.png,Iran,69.0,69.0,R. Rezaeian,875.0,9.0,18
+29.0,161,"May 2, 1988",A. Haghighi,https://cdn.sofifa.org/1x/18/players/191589.png,Iran,71.0,71.0,A. Haghighi,1.6,3.0,18
+20.0,161,"Oct 1, 1996",S. Ezatolahi,https://cdn.sofifa.org/1x/18/players/233241.png,Iran,79.0,68.0,S. Ezatolahi,1.5,15.0,18
+25.0,161,"Feb 29, 1992",P. Sadeghian,https://cdn.sofifa.org/1x/18/players/241069.png,Iran,72.0,71.0,P. Sadeghian,2.8,13.0,18
+29.0,161,"Sep 20, 1987",R. Ghoochannejhad,https://cdn.sofifa.org/1x/18/players/189717.png,Iran,70.0,70.0,R. Ghoochannejhad,1.8,9.0,14
+23.0,161,"Oct 8, 1993",A. Jahanbakhsh,https://cdn.sofifa.org/1x/18/players/215871.png,Iran,80.0,77.0,A. Jahanbakhsh,11.5,13.0,14
+29.0,161,"Jan 6, 1988",D. Davari,https://cdn.sofifa.org/1x/18/players/203440.png,Iran,64.0,64.0,D. Davari,300.0,2.0,14
+30.0,161,"Feb 1, 1987",S. Beitashour,https://cdn.sofifa.org/1x/18/players/198288.png,Iran,69.0,69.0,S. Beitashour,750.0,5.0,14
+22.0,161,"Jan 1, 1995",S. Azmoun,https://cdn.sofifa.org/1x/18/players/213955.png,Iran,84.0,76.0,S. Azmoun,11.5,46.0,14
+33.0,161,"Jun 9, 1984",M. Shojaei,https://cdn.sofifa.org/1x/18/players/188877.png,Iran,72.0,72.0,M. Shojaei,1.9,1.0,14
+30.0,161,"Jul 5, 1986",A. Dejagah,https://cdn.sofifa.org/1x/18/players/157427.png,Iran,72.0,72.0,A. Dejagah,2.9,21.0,14
+26.0,161,"Mar 6, 1983",A. Teymourian,https://cdn.sofifa.org/1x/11/players/175667.png,Iran,76.0,68.0,A. Teymourian,0.0,0.0,10
+31.0,161,"Jul 24, 1977",M. Mahdavikia,https://cdn.sofifa.org/1x/11/players/28271.png,Iran,74.0,72.0,M. Mahdavikia,0.0,0.0,10
+33.0,161,"Oct 7, 1980",J. Nekounam,https://cdn.sofifa.org/1x/15/players/168838.png,Iran,75.0,75.0,J. Nekounam,2.0,25.0,10
+32.0,161,"Jul 21, 1976",V. Hashemian,https://cdn.sofifa.org/1x/11/players/29831.png,Iran,74.0,70.0,V. Hashemian,0.0,0.0,10
+33.0,161,"Jun 9, 1984",M. Shojaei,https://cdn.sofifa.org/1x/18/players/188877.png,Iran,72.0,72.0,Masoud,1.9,1.0,10
+28.0,163,"Mar 17, 1989",S. Kagawa,https://cdn.sofifa.org/1x/18/players/189358.png,Japan,83.0,83.0,S. Kagawa,26.0,75.0,18
+24.0,163,"Jul 15, 1992",Y. Mutō,https://cdn.sofifa.org/1x/18/players/228717.png,Japan,81.0,76.0,Y. Mutō,10.5,30.0,18
+29.0,163,"Jun 4, 1988",T. Inui,https://cdn.sofifa.org/1x/18/players/205114.png,Japan,78.0,78.0,T. Inui,10.0,25.0,18
+27.0,163,"May 18, 1990",Y. Ōsako,https://cdn.sofifa.org/1x/18/players/191565.png,Japan,76.0,75.0,Y. Ōsako,8.0,35.0,18
+31.0,163,"Jun 13, 1986",K. Honda,https://cdn.sofifa.org/1x/18/players/186581.png,Japan,79.0,79.0,K. Honda,11.0,41.0,18
+31.0,163,"Apr 16, 1986",S. Okazaki,https://cdn.sofifa.org/1x/18/players/194365.png,Japan,77.0,77.0,S. Okazaki,8.0,74.0,18
+23.0,163,"Dec 24, 1993",Y. Kubo,https://cdn.sofifa.org/1x/18/players/217242.png,Japan,77.0,73.0,Y. Kubo,5.0,19.0,18
+25.0,163,"May 28, 1992",G. Shibasaki,https://cdn.sofifa.org/1x/18/players/232883.png,Japan,81.0,75.0,G. Shibasaki,7.5,20.0,18
+27.0,163,"Apr 12, 1990",H. Sakai,https://cdn.sofifa.org/1x/18/players/208520.png,Japan,76.0,76.0,H. Sakai,6.5,29.0,18
+25.0,163,"May 6, 1992",T. Usami,https://cdn.sofifa.org/1x/18/players/191388.png,Japan,76.0,74.0,T. Usami,7.0,23.0,18
+27.0,163,"Nov 12, 1989",H. Kiyotake,https://cdn.sofifa.org/1x/18/players/210126.png,Japan,73.0,73.0,H. Kiyotake,4.2,8.0,18
+28.0,163,"Mar 17, 1989",S. Kagawa,https://cdn.sofifa.org/1x/18/players/189358.png,Japan,83.0,83.0,S. Kagawa,26.0,75.0,14
+31.0,163,"Jun 13, 1986",K. Honda,https://cdn.sofifa.org/1x/18/players/186581.png,Japan,79.0,79.0,K. Honda,11.0,41.0,14
+27.0,163,"Nov 12, 1989",H. Kiyotake,https://cdn.sofifa.org/1x/18/players/210126.png,Japan,73.0,73.0,H. Kiyotake,4.2,8.0,14
+30.0,163,"Sep 12, 1986",Y. Nagatomo,https://cdn.sofifa.org/1x/18/players/194359.png,Japan,1.0,74.0,Y. Nagatomo,74.0,1.0,14
+29.0,163,"Jun 4, 1988",T. Inui,https://cdn.sofifa.org/1x/18/players/205114.png,Japan,78.0,78.0,T. Inui,10.0,25.0,14
+26.0,163,"Mar 14, 1991",G. Sakai,https://cdn.sofifa.org/1x/18/players/207472.png,Japan,74.0,74.0,G. Sakai,4.8,29.0,14
+31.0,163,"Apr 16, 1986",S. Okazaki,https://cdn.sofifa.org/1x/18/players/194365.png,Japan,77.0,77.0,S. Okazaki,8.0,74.0,14
+24.0,163,"Dec 14, 1992",R. Miyaichi,https://cdn.sofifa.org/1x/18/players/202053.png,Japan,70.0,67.0,R. Miyaichi,975.0,10.0,14
+29.0,163,"Mar 27, 1988",A. Uchida,https://cdn.sofifa.org/1x/18/players/191541.png,Japan,71.0,71.0,A. Uchida,1.8,9.0,14
+31.0,163,"Jun 10, 1986",H. Hosogai,https://cdn.sofifa.org/1x/18/players/181106.png,Japan,64.0,64.0,H. Hosogai,300.0,4.0,14
+23.0,163,"Dec 24, 1993",Y. Kubo,https://cdn.sofifa.org/1x/18/players/217242.png,Japan,77.0,73.0,Y. Kubo,5.0,19.0,14
+34.0,163,"Feb 19, 1983",D. Kobayashi,https://cdn.sofifa.org/1x/18/players/190976.png,Japan,64.0,64.0,D. Kobayashi,220.0,3.0,10
+28.0,163,"Jul 24, 1988",S. Ito,https://cdn.sofifa.org/1x/18/players/179742.png,Japan,62.0,62.0,S. Ito,325.0,2.0,10
+26.0,163,"Feb 12, 1983",H. Wakui,https://cdn.sofifa.org/1x/11/players/194897.png,Japan,4.0,60.0,H. Wakui,65.0,0.0,10
+37.0,163,"Sep 18, 1979",J. Inamoto,https://cdn.sofifa.org/1x/18/players/48722.png,Japan,61.0,61.0,J. Inamoto,30.0,1.0,10
+33.0,163,"Jan 18, 1984",M. Hasebe,https://cdn.sofifa.org/1x/18/players/181098.png,Japan,77.0,77.0,M. Hasebe,3.6,29.0,10
+32.0,163,"Apr 24, 1978",K. Okayama,https://cdn.sofifa.org/1x/11/players/194154.png,Japan,61.0,60.0,K. Okayama,0.0,0.0,10
+39.0,163,"Jun 24, 1978",S. Nakamura,https://cdn.sofifa.org/1x/18/players/29552.png,Japan,72.0,72.0,S. Nakamura,850.0,4.0,10
+34.0,163,"Dec 10, 1981",T. Soma,https://cdn.sofifa.org/1x/17/players/181115.png,Japan,62.0,62.0,T. Soma,80.0,1.0,10
+28.0,163,"Jun 23, 1981",M. Ohashi,https://cdn.sofifa.org/1x/11/players/181121.png,Japan,65.0,51.0,M. Ohashi,0.0,0.0,10
+31.0,163,"Sep 6, 1985",K. Mizuno,https://cdn.sofifa.org/1x/18/players/186761.png,Japan,64.0,64.0,K. Mizuno,400.0,2.0,10
+29.0,163,"May 7, 1988",T. Morimoto,https://cdn.sofifa.org/1x/18/players/178315.png,Japan,66.0,66.0,T. Morimoto,650.0,3.0,10
+24.0,167,"Jul 8, 1992",H. Son,https://cdn.sofifa.org/1x/18/players/200104.png,Korea Republic,87.0,84.0,H. Son,39.5,125.0,18
+28.0,167,"Jan 24, 1989",Ki Sung Yueng,https://cdn.sofifa.org/1x/18/players/180283.png,Korea Republic,76.0,76.0,Ki Sung Yueng,7.5,71.0,18
+28.0,167,"Feb 27, 1989",Koo Ja Cheol,https://cdn.sofifa.org/1x/18/players/182152.png,Korea Republic,76.0,76.0,Koo Ja Cheol,8.0,30.0,18
+22.0,167,"Sep 11, 1994",Kim Seung Joon,https://cdn.sofifa.org/1x/18/players/227789.png,Korea Republic,78.0,73.0,Kim Seung Joon,5.5,9.0,18
+24.0,167,"Aug 10, 1992",Lee Jae Sung,https://cdn.sofifa.org/1x/18/players/221671.png,Korea Republic,80.0,76.0,Lee Jae Sung,10.0,13.0,18
+20.0,167,"Mar 17, 1997",Han Chan Hee,https://cdn.sofifa.org/1x/18/players/231942.png,Korea Republic,83.0,72.0,Han Chan Hee,5.5,5.0,18
+26.0,167,"Jun 29, 1991",Suk Hyun Jun,https://cdn.sofifa.org/1x/18/players/195912.png,Korea Republic,76.0,74.0,Suk Hyun Jun,7.0,15.0,18
+25.0,167,"Feb 24, 1992",Lee Jong Ho,https://cdn.sofifa.org/1x/18/players/202989.png,Korea Republic,75.0,73.0,Lee Jong Ho,5.0,10.0,18
+26.0,167,"Apr 29, 1991",Kim Young Uk,https://cdn.sofifa.org/1x/18/players/199262.png,Korea Republic,2.0,72.0,Kim Young Wook,73.0,2.0,18
+25.0,167,"Jun 13, 1992",Kim Jin Su,https://cdn.sofifa.org/1x/18/players/213317.png,Korea Republic,80.0,75.0,Kim Jin Su,7.5,11.0,18
+23.0,167,"Sep 9, 1993",Yoon Bo Sang,https://cdn.sofifa.org/1x/18/players/233282.png,Korea Republic,79.0,73.0,Yoon Bo Sang,4.0,3.0,18
+24.0,167,"Jul 8, 1992",H. Son,https://cdn.sofifa.org/1x/18/players/200104.png,Korea Republic,87.0,84.0,H. Son,39.5,125.0,14
+28.0,167,"Feb 27, 1989",Koo Ja Cheol,https://cdn.sofifa.org/1x/18/players/182152.png,Korea Republic,76.0,76.0,J. Koo,8.0,30.0,14
+29.0,167,"Apr 14, 1988",Kim Shin Wook,https://cdn.sofifa.org/1x/18/players/191910.png,Korea Republic,74.0,74.0,Kim Shin Wook,5.5,14.0,14
+27.0,167,"Oct 6, 1989",Kim Bo Kyung,https://cdn.sofifa.org/1x/18/players/199183.png,Korea Republic,71.0,71.0,B. Kim,2.4,10.0,14
+28.0,167,"Jan 24, 1989",Ki Sung Yueng,https://cdn.sofifa.org/1x/18/players/180283.png,Korea Republic,76.0,76.0,S. Ki,7.5,71.0,14
+28.0,167,"Jul 2, 1988",Lee Chung Yong,https://cdn.sofifa.org/1x/18/players/155355.png,Korea Republic,70.0,70.0,C. Lee,1.8,36.0,14
+29.0,167,"Jun 2, 1988",Lee Seung Gi,https://cdn.sofifa.org/1x/18/players/202305.png,Korea Republic,71.0,71.0,Lee Seung Gi,2.3,9.0,14
+26.0,167,"May 28, 1991",Ji Dong Won,https://cdn.sofifa.org/1x/18/players/199266.png,Korea Republic,74.0,71.0,D. Ji,3.0,19.0,14
+27.0,167,"Aug 12, 1989",Hong Jeong Ho,https://cdn.sofifa.org/1x/18/players/200588.png,Korea Republic,72.0,72.0,J. Hong,2.6,8.0,14
+38.0,167,"Apr 29, 1979",Lee Dong Gook,https://cdn.sofifa.org/1x/18/players/136553.png,Korea Republic,70.0,70.0,Lee Dong Gook,625.0,7.0,14
+26.0,167,"Sep 30, 1990",Kim Seung Gyu,https://cdn.sofifa.org/1x/18/players/191655.png,Korea Republic,72.0,70.0,Kim Seung Gyu,1.5,4.0,14
+35.0,167,"Jul 8, 1981",Kwak Tae Hwi,https://cdn.sofifa.org/1x/18/players/165888.png,Korea Republic,64.0,64.0,Kwak Tae Whi,110.0,2.0,10
+31.0,167,"Jul 10, 1985",Park Chu Young,https://cdn.sofifa.org/1x/18/players/165889.png,Korea Republic,67.0,67.0,J. Park Chu Young,675.0,6.0,10
+31.0,167,"Feb 28, 1985",Baek Ji Hoon,https://cdn.sofifa.org/1x/17/players/165890.png,Korea Republic,61.0,61.0,Baek Ji-Hoon,150.0,2.0,10
+33.0,167,"Nov 7, 1978",Choi Hyun,https://cdn.sofifa.org/1x/13/players/136451.png,Korea Republic,59.0,59.0,Choi Hyun,1.0,0.0,10
+29.0,167,"Jan 1, 1984",Kim Hyeung Bum,https://cdn.sofifa.org/1x/14/players/165891.png,Korea Republic,64.0,64.0,Kim Hyeung Bum,0.0,0.0,10
+26.0,167,"Sep 2, 1983",Cho Jin Soo,https://cdn.sofifa.org/1x/11/players/155396.png,Korea Republic,1.0,58.0,Cho Jin-Soo,64.0,0.0,10
+28.0,167,"Mar 1, 1982",Park Byung Gyu,https://cdn.sofifa.org/1x/11/players/165892.png,Korea Republic,65.0,61.0,Park Byung Gyu,0.0,0.0,10
+32.0,167,"Jan 4, 1985",Jung Sung Ryong,https://cdn.sofifa.org/1x/18/players/176389.png,Korea Republic,71.0,71.0,Jung Sung Ryong,1.4,5.0,10
+32.0,167,"Mar 13, 1981",Choi Tae Uk,https://cdn.sofifa.org/1x/14/players/136454.png,Korea Republic,62.0,62.0,Choi Tae Uk,0.0,0.0,10
+31.0,167,"Mar 28, 1986",Yang Dong Hyen,https://cdn.sofifa.org/1x/18/players/165894.png,Korea Republic,69.0,69.0,Yang Dong Hyun,950.0,5.0,10
+27.0,167,"Feb 7, 1985",Kim Myung Jung,https://cdn.sofifa.org/1x/13/players/176390.png,Korea Republic,3.0,60.0,Kim Myung Jung,61.0,3.0,10
+22.0,183,"Sep 14, 1994",F. Al Muwallad,https://cdn.sofifa.org/1x/18/players/208977.png,Saudi Arabia,82.0,74.0,F. Al Muwallad,8.5,32.0,18
+27.0,183,"Jan 26, 1990",N. Al Abed,https://cdn.sofifa.org/1x/18/players/208949.png,Saudi Arabia,76.0,76.0,N. Al Abed,8.0,43.0,18
+27.0,183,"Aug 1, 1989",S. Al Faraj,https://cdn.sofifa.org/1x/18/players/191269.png,Saudi Arabia,75.0,75.0,S. Al Faraj,7.0,36.0,18
+25.0,183,"Feb 17, 1992",M. Hawsawi,https://cdn.sofifa.org/1x/18/players/225060.png,Saudi Arabia,79.0,74.0,M. Hawsawi,6.5,32.0,18
+25.0,183,"Aug 19, 1991",S. Al Dawsari,https://cdn.sofifa.org/1x/18/players/210602.png,Saudi Arabia,75.0,74.0,S. Al Dawsari,6.5,35.0,18
+25.0,183,"May 25, 1992",Y. Al Shahrani,https://cdn.sofifa.org/1x/18/players/210603.png,Saudi Arabia,76.0,74.0,Y. Al Shahrani,5.5,32.0,18
+23.0,183,"Feb 26, 1994",A. Aseri,https://cdn.sofifa.org/1x/18/players/213007.png,Saudi Arabia,78.0,72.0,A. Aseri,4.3,23.0,18
+28.0,183,"Oct 5, 1988",S. Muwashar,https://cdn.sofifa.org/1x/18/players/210202.png,Saudi Arabia,73.0,73.0,S. Muwashar,4.0,38.0,18
+26.0,183,"Oct 24, 1990",M. Jahfali,https://cdn.sofifa.org/1x/18/players/210182.png,Saudi Arabia,75.0,74.0,M. Jahfali,5.5,33.0,18
+30.0,183,"Jan 10, 1987",M. Al Sahlawi,https://cdn.sofifa.org/1x/18/players/208916.png,Saudi Arabia,73.0,73.0,M. Al Sahlawi,3.9,39.0,18
+31.0,183,"Sep 27, 1985",O. Hawsawi,https://cdn.sofifa.org/1x/18/players/208914.png,Saudi Arabia,74.0,74.0,O. Othman,3.8,33.0,18
+32.0,183,"Jul 25, 1984",T. Al Jassam,https://cdn.sofifa.org/1x/18/players/168883.png,Saudi Arabia,74.0,74.0,T. Al Jassim,3.2,33.0,14
+33.0,183,"Nov 23, 1983",N. Al Shamrani,https://cdn.sofifa.org/1x/18/players/191834.png,Saudi Arabia,70.0,70.0,N. Al Shamrani,1.1,25.0,14
+27.0,183,"Jun 26, 1990",Y. Al Shehri,https://cdn.sofifa.org/1x/18/players/209281.png,Saudi Arabia,71.0,71.0,Y. Al Shehri,2.5,26.0,14
+34.0,183,"Oct 10, 1982",Y. Al Qahtani,https://cdn.sofifa.org/1x/18/players/168888.png,Saudi Arabia,60.0,60.0,Y. Al Qahtani,110.0,6.0,14
+25.0,183,"Aug 19, 1991",S. Al Dawsari,https://cdn.sofifa.org/1x/18/players/210602.png,Saudi Arabia,75.0,74.0,S. Al Dossari,6.5,35.0,14
+28.0,183,"Nov 10, 1988",A. Al Dawsari,https://cdn.sofifa.org/1x/18/players/191262.png,Saudi Arabia,63.0,63.0,A. Al Dosari,375.0,7.0,14
+22.0,183,"Sep 14, 1994",F. Al Muwallad,https://cdn.sofifa.org/1x/18/players/208977.png,Saudi Arabia,82.0,74.0,F. Al Muwallad,8.5,32.0,14
+28.0,183,"Jul 27, 1988",N. Hazazi,https://cdn.sofifa.org/1x/18/players/191409.png,Saudi Arabia,69.0,69.0,N. Hazazi,1.1,15.0,14
+26.0,183,"Sep 28, 1990",I. Ghaleb,https://cdn.sofifa.org/1x/18/players/208923.png,Saudi Arabia,72.0,72.0,I. Ghaleb,2.7,24.0,14
+27.0,183,"Jan 26, 1990",N. Al Abed,https://cdn.sofifa.org/1x/18/players/208949.png,Saudi Arabia,76.0,76.0,N. Al Abed,8.0,43.0,14
+34.0,183,"Apr 14, 1983",A. Ateef,https://cdn.sofifa.org/1x/18/players/180690.png,Saudi Arabia,65.0,65.0,A. Ateef,160.0,9.0,14
+26.0,195,"Sep 15, 1990",A. Mooy,https://cdn.sofifa.org/1x/18/players/194958.png,Australia,79.0,78.0,A. Mooy,12.0,52.0,18
+24.0,195,"Dec 16, 1992",T. Rogić,https://cdn.sofifa.org/1x/18/players/207928.png,Australia,78.0,75.0,T. Rogić,8.5,42.0,18
+25.0,195,"Apr 8, 1992",M. Ryan,https://cdn.sofifa.org/1x/18/players/199005.png,Australia,81.0,78.0,M. Ryan,9.0,36.0,18
+23.0,195,"Jul 29, 1993",J. Maclaren,https://cdn.sofifa.org/1x/18/players/212232.png,Australia,73.0,70.0,J. Maclaren,2.3,17.0,18
+26.0,195,"Feb 4, 1991",M. Leckie,https://cdn.sofifa.org/1x/18/players/195033.png,Australia,74.0,74.0,M. Leckie,6.0,27.0,18
+28.0,195,"Aug 22, 1988",M. Langerak,https://cdn.sofifa.org/1x/18/players/182435.png,Australia,75.0,74.0,M. Langerak,0.0,0.0,18
+28.0,195,"Jul 3, 1988",J. Troisi,https://cdn.sofifa.org/1x/18/players/172208.png,Australia,71.0,71.0,J. Troisi,2.4,8.0,18
+24.0,195,"Sep 25, 1992",M. Luongo,https://cdn.sofifa.org/1x/18/players/205347.png,Australia,76.0,73.0,M. Luongo,5.0,25.0,18
+26.0,195,"Dec 16, 1990",A. Behich,https://cdn.sofifa.org/1x/18/players/202157.png,Australia,75.0,74.0,A. Behich,5.5,17.0,18
+31.0,195,"Aug 4, 1985",M. Milligan,https://cdn.sofifa.org/1x/18/players/176992.png,Australia,73.0,73.0,M. Milligan,2.7,33.0,18
+24.0,195,"Jul 28, 1992",B. Wright,https://cdn.sofifa.org/1x/18/players/198810.png,Australia,78.0,72.0,B. Wright,3.6,23.0,18
+28.0,195,"Oct 5, 1988",R. Kruse,https://cdn.sofifa.org/1x/18/players/182440.png,Australia,73.0,73.0,R. Kruse,4.0,20.0,14
+28.0,195,"Jul 14, 1988",R. Williams,https://cdn.sofifa.org/1x/18/players/173703.png,Australia,72.0,72.0,R. Williams,2.5,7.0,14
+24.0,195,"Dec 10, 1991",T. Oar,https://cdn.sofifa.org/1x/17/players/188071.png,Australia,74.0,71.0,T. Oar,2.1,15.0,14
+25.0,195,"Apr 8, 1992",M. Ryan,https://cdn.sofifa.org/1x/18/players/199005.png,Australia,81.0,78.0,M. Ryan,9.0,36.0,14
+37.0,195,"Dec 6, 1979",T. Cahill,https://cdn.sofifa.org/1x/18/players/51412.png,Australia,70.0,70.0,T. Cahill,600.0,19.0,14
+26.0,195,"Feb 4, 1991",M. Leckie,https://cdn.sofifa.org/1x/18/players/195033.png,Australia,74.0,74.0,M. Leckie,6.0,27.0,14
+24.0,195,"Dec 16, 1992",T. Rogić,https://cdn.sofifa.org/1x/18/players/207928.png,Australia,78.0,75.0,T. Rogić,8.5,42.0,14
+32.0,195,"Aug 3, 1984",M. Jedinák,https://cdn.sofifa.org/1x/18/players/181483.png,Australia,73.0,73.0,M. Jedinák,2.3,32.0,14
+25.0,195,"Jan 5, 1992",T. Sainsbury,https://cdn.sofifa.org/1x/18/players/199000.png,Australia,77.0,74.0,T. Sainsbury,6.0,18.0,14
+28.0,195,"Aug 22, 1988",M. Langerak,https://cdn.sofifa.org/1x/18/players/182435.png,Australia,75.0,74.0,M. Langerak,0.0,0.0,14
+30.0,195,"Apr 8, 1987",D. Vidošić,https://cdn.sofifa.org/1x/18/players/183471.png,Australia,68.0,68.0,D. Vidosic,850.0,8.0,14
+28.0,195,"May 15, 1989",J. Holland,https://cdn.sofifa.org/1x/18/players/186881.png,Australia,67.0,67.0,J. Holland,625.0,10.0,10
+31.0,195,"Aug 5, 1980",J. Čulina,https://cdn.sofifa.org/1x/13/players/159234.png,Australia,66.0,66.0,J. Čulina,0.0,0.0,10
+28.0,195,"Jul 14, 1982",A. Hughes,https://cdn.sofifa.org/1x/12/players/172803.png,Australia,62.0,59.0,A. Hughes,3.0,0.0,10
+29.0,195,"Mar 24, 1985",N. Ward,https://cdn.sofifa.org/1x/15/players/177411.png,Australia,58.0,58.0,N. Ward,140.0,750.0,10
+32.0,195,"Mar 11, 1985",N. Topor-Stanley,https://cdn.sofifa.org/1x/18/players/180740.png,Australia,65.0,65.0,N. Topor-Stanley,300.0,2.0,10
+25.0,195,"Jan 20, 1992",B. Kantarovski,https://cdn.sofifa.org/1x/18/players/186884.png,Australia,63.0,61.0,B. Kantarovski,260.0,1.0,10
+25.0,195,"Jan 5, 1986",D. Leach,https://cdn.sofifa.org/1x/12/players/193540.png,Australia,3.0,56.0,D. Leach,58.0,6.0,10
+32.0,195,"Dec 20, 1978",C. Coyne,https://cdn.sofifa.org/1x/12/players/19206.png,Australia,62.0,62.0,C. Coyne,0.0,0.0,10
+31.0,195,"Oct 5, 1979",V. Grella,https://cdn.sofifa.org/1x/12/players/23814.png,Australia,3.0,69.0,V. Grella,69.0,3.0,10
+27.0,195,"Jan 10, 1982",A. Caceres,https://cdn.sofifa.org/1x/11/players/11783.png,Australia,65.0,58.0,A. Caceres,0.0,0.0,10
+28.0,195,"Mar 10, 1988",R. Griffiths,https://cdn.sofifa.org/1x/17/players/169479.png,Australia,69.0,69.0,R. Griffiths,800.0,3.0,10
