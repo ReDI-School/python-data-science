@@ -1,0 +1,98 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8"/>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/semantic-ui/1.11.8/semantic.min.css"/>
+    <title>World Cup 2018</title>
+    <style>
+
+    body{
+        background-image: url("static/football.png"), url("static/background.jpg");
+        background-repeat: no-repeat, no-repeat;
+        background-attachment:inherit, inherit;
+        background-position:right bottom, center;
+        background-size: 30%, auto; 
+    }
+    h1 { 
+        color: white;
+        text-shadow:3px 2px black;
+        font-style:normal;
+        font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+        position: relative;
+        bottom: -30px;
+    }
+    p {
+        color: white;
+        position: relative;
+        left: 30px;
+        
+    } 
+  input {
+      border-radius: 10%;
+      position: relative;
+      left: 30px;
+      bottom: 5px;
+  }
+  div {
+      position: relative;
+      left: 30px;
+  }
+
+    </style>
+
+</head>
+<body>
+<h1><center>Fifa World Cup 2018 <br>Prediction Model</center></b></h1>
+<br></br>
+<p>Team 1</p>
+<form action="#">
+<div id="ddFirstCountry" class="ui selection dropdown">
+        <input type="hidden" name="country">
+        <i class="dropdown icon"></i>
+        <div class="default text">Select Country</div>
+        <div class="menu">
+            {% for countryName in countries %}
+                <div class="item" data-value="{{countryName}}"><i class="{{country_codes[countryName]}} flag"></i>{{countryName}}</div>
+            {% endfor %}
+        </div>
+    </div><br>
+    <br></br>
+<p>Team 2</p>
+    <div id="ddSecondCountry" class="ui selection dropdown">
+            <input type="hidden" name="country2">
+            <i class="dropdown icon"></i>
+            <div class="default text">Select Country</div>
+            <div class="menu">
+                {% for countryName in countries %}
+                    <div class="item" data-value="{{countryName}}"><i class="{{country_codes[countryName]}} flag"></i>{{countryName}}</div>
+                {% endfor %}
+            </div>
+        </div></br>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/2.1.3/jquery.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/semantic-ui/1.11.8/semantic.min.js"></script>
+    <script>
+            function setSelectedItem(tgtDropDown, selectedItemValue) {
+                tgtDropDown.dropdown('set selected', selectedItemValue);
+            }
+
+            $('.ui.dropdown').dropdown();
+
+            // if there's a country1, select it in the first dropdown
+            var selectedCountry1 = '{{country1}}';
+            if (selectedCountry1) {
+                setSelectedItem($('#ddFirstCountry'), selectedCountry1);
+            }
+
+            // if there's a country2, select it in the second dropdown
+            var selectedCountry2 = '{{country2}}';
+            if (selectedCountry2) {
+                setSelectedItem($('#ddSecondCountry'), selectedCountry2);
+            }
+    </script>
+    <br></br>
+    <input type="submit" value="Predict" class="ui button">
+</form>
+<h1>{% if result %}And the winner will be: {{result}}{% else %}Choose two countries{% endif %}</h1>
+</body>
+      
+</html>

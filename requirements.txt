@@ -7,3 +7,9 @@ seaborn
 scikit-learn
 ipython
 xgboost
+pandas-datareader
+statsmodels
+beautifulsoup4
+requests
+lxml
+
