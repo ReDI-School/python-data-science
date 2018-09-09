@@ -1,9 +1,9 @@
 from setuptools import find_packages, setup
 
 # configure these
-PACKAGE_NAME = 'redi-datascience-ws18'
+PACKAGE_NAME = 'redi-datascience-course'
 MODULE_NAME = 'redi'
-VERSION = '0.0.5'
+VERSION = '0.0.6'
 
 setup(
     name=PACKAGE_NAME,
