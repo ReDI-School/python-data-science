@@ -1,101 +1,101 @@
-,product_id,product_name,product_brand
-0,6198,T-shirt,Puma
-1,7761,Jacket,Puma
-2,5860,Shoes,Puma
-3,7060,Shoes,Puma
-4,7060,Shoes,Puma
-5,5860,Shoes,Puma
-6,4187,T-shirt,Adidas
-7,4076,Socks,Lonsdale
-8,3771,Shoes,Converse
-9,8718,Socks,Puma
-10,9493,Shoes,Nike
-11,5165,Bag,Nike
-12,8995,Shoes,Jack Wolfskin
-13,1254,T-shirt,Jack Wolfskin
-14,7761,Jacket,Puma
-15,5769,Hat,Adidas
-16,2448,T-shirt,Reebok
-17,1425,Shoes,Adidas
-18,5425,Shoes,Adidas
-19,1425,Shoes,Adidas
-20,2958,Hat,Jack Wolfskin
-21,5190,Bag,Nike
-22,1228,T-shirt,Puma
-23,4076,Socks,Lonsdale
-24,2577,Trousers,Puma
-25,7787,T-shirt,Adidas
-26,1425,Shoes,Adidas
-27,5387,T-shirt,Adidas
-28,1837,Socks,Converse
-29,3617,Socks,Reebok
-30,5860,Shoes,Puma
-31,3771,Shoes,Converse
-32,7060,Shoes,Puma
-33,9493,Shoes,Nike
-34,5157,Jacket,Reebok
-35,5860,Shoes,Puma
-36,2920,Shoes,Jack Wolfskin
-37,7787,T-shirt,Adidas
-38,2958,Hat,Jack Wolfskin
-39,8088,Trousers,Reebok
-40,6272,Bag,Converse
-41,2920,Shoes,Jack Wolfskin
-42,3484,Jacket,Adidas
-43,933,Bag,Jack Wolfskin
-44,6198,T-shirt,Puma
-45,492,Trousers,Jack Wolfskin
-46,6902,Socks,Adidas
-47,3771,Shoes,Converse
-48,5860,Shoes,Puma
-49,4187,T-shirt,Adidas
-50,1228,T-shirt,Puma
-51,7787,T-shirt,Adidas
-52,2958,Hat,Jack Wolfskin
-53,5860,Shoes,Puma
-54,2577,Trousers,Puma
-55,6902,Socks,Adidas
-56,933,Bag,Jack Wolfskin
-57,1254,T-shirt,Jack Wolfskin
-58,7060,Shoes,Puma
-59,774,T-shirt,Lonsdale
-60,5425,Shoes,Adidas
-61,37,Jacket,Jack Wolfskin
-62,3771,Shoes,Converse
-63,6272,Bag,Converse
-64,3484,Jacket,Adidas
-65,492,Trousers,Jack Wolfskin
-66,5165,Bag,Nike
-67,5387,T-shirt,Adidas
-68,1254,T-shirt,Jack Wolfskin
-69,6272,Bag,Converse
-70,37,Jacket,Jack Wolfskin
-71,5190,Bag,Nike
-72,9493,Shoes,Nike
-73,5425,Shoes,Adidas
-74,2419,Trousers,Adidas
-75,5769,Hat,Adidas
-76,4187,T-shirt,Adidas
-77,3617,Socks,Reebok
-78,1228,T-shirt,Puma
-79,6198,T-shirt,Puma
-80,9493,Shoes,Nike
-81,5340,Jacket,Nike
-82,933,Bag,Jack Wolfskin
-83,5425,Shoes,Adidas
-84,5387,T-shirt,Adidas
-85,1254,T-shirt,Jack Wolfskin
-86,6272,Bag,Converse
-87,2920,Shoes,Jack Wolfskin
-88,2448,T-shirt,Reebok
-89,221,Shoes,Reebok
-90,2419,Trousers,Adidas
-91,8141,Hat,Reebok
-92,1425,Shoes,Adidas
-93,2419,Trousers,Adidas
-94,37,Jacket,Jack Wolfskin
-95,8718,Socks,Puma
-96,8718,Socks,Puma
-97,37,Jacket,Jack Wolfskin
-98,5860,Shoes,Puma
-99,5860,Shoes,Puma
+product_id,product_name,product_brand
+2448,T-shirt,Reebok
+5425,Shoes,Adidas
+1254,T-shirt,Jack Wolfskin
+1254,T-shirt,Jack Wolfskin
+7787,T-shirt,Adidas
+3617,Socks,Reebok
+7761,Jacket,Puma
+3771,Shoes,Converse
+6198,T-shirt,Puma
+5860,Shoes,Puma
+1425,Shoes,Adidas
+2958,Hat,Jack Wolfskin
+1425,Shoes,Adidas
+2419,Trousers,Adidas
+2920,Shoes,Jack Wolfskin
+5340,Jacket,Nike
+5190,Bag,Nike
+9493,Shoes,Nike
+6198,T-shirt,Puma
+774,T-shirt,Lonsdale
+5387,T-shirt,Adidas
+6902,Socks,Adidas
+2577,Trousers,Puma
+933,Bag,Jack Wolfskin
+9493,Shoes,Nike
+2419,Trousers,Adidas
+7060,Shoes,Puma
+4187,T-shirt,Adidas
+6272,Bag,Converse
+1228,T-shirt,Puma
+5157,Jacket,Reebok
+5165,Bag,Nike
+5860,Shoes,Puma
+4187,T-shirt,Adidas
+5860,Shoes,Puma
+1425,Shoes,Adidas
+5769,Hat,Adidas
+2958,Hat,Jack Wolfskin
+8718,Socks,Puma
+37,Jacket,Jack Wolfskin
+492,Trousers,Jack Wolfskin
+3771,Shoes,Converse
+5860,Shoes,Puma
+1254,T-shirt,Jack Wolfskin
+4187,T-shirt,Adidas
+7787,T-shirt,Adidas
+37,Jacket,Jack Wolfskin
+2958,Hat,Jack Wolfskin
+7060,Shoes,Puma
+8718,Socks,Puma
+5425,Shoes,Adidas
+6272,Bag,Converse
+1425,Shoes,Adidas
+7787,T-shirt,Adidas
+6198,T-shirt,Puma
+3617,Socks,Reebok
+6902,Socks,Adidas
+1837,Socks,Converse
+6272,Bag,Converse
+221,Shoes,Reebok
+5769,Hat,Adidas
+5190,Bag,Nike
+1228,T-shirt,Puma
+2448,T-shirt,Reebok
+37,Jacket,Jack Wolfskin
+2419,Trousers,Adidas
+7761,Jacket,Puma
+2920,Shoes,Jack Wolfskin
+8718,Socks,Puma
+3484,Jacket,Adidas
+1228,T-shirt,Puma
+4076,Socks,Lonsdale
+933,Bag,Jack Wolfskin
+1254,T-shirt,Jack Wolfskin
+8088,Trousers,Reebok
+2577,Trousers,Puma
+3771,Shoes,Converse
+6272,Bag,Converse
+8141,Hat,Reebok
+7060,Shoes,Puma
+5860,Shoes,Puma
+2920,Shoes,Jack Wolfskin
+9493,Shoes,Nike
+5860,Shoes,Puma
+7060,Shoes,Puma
+933,Bag,Jack Wolfskin
+5425,Shoes,Adidas
+5860,Shoes,Puma
+492,Trousers,Jack Wolfskin
+5387,T-shirt,Adidas
+5165,Bag,Nike
+5387,T-shirt,Adidas
+37,Jacket,Jack Wolfskin
+5425,Shoes,Adidas
+9493,Shoes,Nike
+8995,Shoes,Jack Wolfskin
+5860,Shoes,Puma
+3484,Jacket,Adidas
+4076,Socks,Lonsdale
+3771,Shoes,Converse
