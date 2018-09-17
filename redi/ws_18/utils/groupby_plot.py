@@ -62,7 +62,7 @@ def draw_dataframe(df, loc=None, width=None, ax=None, linestyle=None,
 #----------------------------------------------------------
 # Draw figure
 def plot():
-    df = pd.DataFrame({'sales_price': [10, 30, 40, 50, 60]},
+    df = pd.DataFrame({'sales_price': [10, 20, 30, 40, 50, 60]},
                        index=['1', '2', '3', '4', '5', '6'])
     df.index.name = 'product_id'
 
