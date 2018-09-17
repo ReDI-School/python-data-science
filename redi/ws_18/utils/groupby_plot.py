@@ -1,5 +1,8 @@
+# shamelessly adapted from https://github.com/jakevdp/PythonDataScienceHandbook
+
 import matplotlib.pyplot as plt
 import numpy as np
+import pandas as pd
 
 
 def draw_dataframe(df, loc=None, width=None, ax=None, linestyle=None,
@@ -58,52 +61,49 @@ def draw_dataframe(df, loc=None, width=None, ax=None, linestyle=None,
 
 #----------------------------------------------------------
 # Draw figure
+def plot():
+    df = pd.DataFrame({'sales_price': [10, 30, 40, 50, 60]},
+                       index=['1', '2', '3', '4', '5', '6'])
+    df.index.name = 'product_id'
 
-import pandas as pd
-df = pd.DataFrame({'data': [1, 2, 3, 4, 5, 6]},
-                   index=['A', 'B', 'C', 'A', 'B', 'C'])
-df.index.name = 'key'
+    fig = plt.figure(figsize=(8, 6), facecolor='white')
+    ax = plt.axes([0, 0, 1, 1])
 
+    ax.axis('off')
 
-fig = plt.figure(figsize=(8, 6), facecolor='white')
-ax = plt.axes([0, 0, 1, 1])
+    draw_dataframe(df, [0, 0])
 
-ax.axis('off')
+    for y, ind in zip([3, 1, -1], 'ABC'):
+        split = df[df.index == ind]
+        draw_dataframe(split, [2, y])
 
-draw_dataframe(df, [0, 0])
+        sum = pd.DataFrame(split.sum()).T
+        sum.index = [ind]
+        sum.index.name = 'key'
+        sum.columns = ['data']
+        draw_dataframe(sum, [4, y + 0.25])
 
-for y, ind in zip([3, 1, -1], 'ABC'):
-    split = df[df.index == ind]
-    draw_dataframe(split, [2, y])
+    result = df.groupby(df.index).sum()
+    draw_dataframe(result, [6, 0.75])
 
-    sum = pd.DataFrame(split.sum()).T
-    sum.index = [ind]
-    sum.index.name = 'key'
-    sum.columns = ['data']
-    draw_dataframe(sum, [4, y + 0.25])
-    
-result = df.groupby(df.index).sum()
-draw_dataframe(result, [6, 0.75])
+    style = dict(fontsize=14, ha='center', weight='bold')
+    plt.text(0.5, 3.6, "Input", **style)
+    plt.text(2.5, 4.6, "Split", **style)
+    plt.text(4.5, 4.35, "Apply (sum)", **style)
+    plt.text(6.5, 2.85, "Combine", **style)
 
-style = dict(fontsize=14, ha='center', weight='bold')
-plt.text(0.5, 3.6, "Input", **style)
-plt.text(2.5, 4.6, "Split", **style)
-plt.text(4.5, 4.35, "Apply (sum)", **style)
-plt.text(6.5, 2.85, "Combine", **style)
+    arrowprops = dict(facecolor='black', width=1, headwidth=6)
+    plt.annotate('', (1.8, 3.6), (1.2, 2.8), arrowprops=arrowprops)
+    plt.annotate('', (1.8, 1.75), (1.2, 1.75), arrowprops=arrowprops)
+    plt.annotate('', (1.8, -0.1), (1.2, 0.7), arrowprops=arrowprops)
 
-arrowprops = dict(facecolor='black', width=1, headwidth=6)
-plt.annotate('', (1.8, 3.6), (1.2, 2.8), arrowprops=arrowprops)
-plt.annotate('', (1.8, 1.75), (1.2, 1.75), arrowprops=arrowprops)
-plt.annotate('', (1.8, -0.1), (1.2, 0.7), arrowprops=arrowprops)
+    plt.annotate('', (3.8, 3.8), (3.2, 3.8), arrowprops=arrowprops)
+    plt.annotate('', (3.8, 1.75), (3.2, 1.75), arrowprops=arrowprops)
+    plt.annotate('', (3.8, -0.3), (3.2, -0.3), arrowprops=arrowprops)
 
-plt.annotate('', (3.8, 3.8), (3.2, 3.8), arrowprops=arrowprops)
-plt.annotate('', (3.8, 1.75), (3.2, 1.75), arrowprops=arrowprops)
-plt.annotate('', (3.8, -0.3), (3.2, -0.3), arrowprops=arrowprops)
+    plt.annotate('', (5.8, 2.8), (5.2, 3.6), arrowprops=arrowprops)
+    plt.annotate('', (5.8, 1.75), (5.2, 1.75), arrowprops=arrowprops)
+    plt.annotate('', (5.8, 0.7), (5.2, -0.1), arrowprops=arrowprops)
 
-plt.annotate('', (5.8, 2.8), (5.2, 3.6), arrowprops=arrowprops)
-plt.annotate('', (5.8, 1.75), (5.2, 1.75), arrowprops=arrowprops)
-plt.annotate('', (5.8, 0.7), (5.2, -0.1), arrowprops=arrowprops)
-    
-plt.axis('equal')
-plt.ylim(-1.5, 5);
-
+    plt.axis('equal')
+    plt.ylim(-1.5, 5);
