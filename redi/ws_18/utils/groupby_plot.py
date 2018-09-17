@@ -62,35 +62,36 @@ def draw_dataframe(df, loc=None, width=None, ax=None, linestyle=None,
 #----------------------------------------------------------
 # Draw figure
 def plot():
-    df = pd.DataFrame({'sales_price': [10, 20, 30, 40, 50, 60]},
-                       index=['1', '2', '3', '4', '5', '6'])
-    df.index.name = 'product_id'
+    df = pd.DataFrame({'price': [10, 20, 30, 40, 50, 60]},
+                       index=['1', '2', '3', '1', '2', '3'])
+    df.index.name = 'product'
 
     fig = plt.figure(figsize=(8, 6), facecolor='white')
     ax = plt.axes([0, 0, 1, 1])
 
     ax.axis('off')
+  
+    width = 1.2
+    draw_dataframe(df, [0, 0], width=width)
 
-    draw_dataframe(df, [0, 0])
-
-    for y, ind in zip([3, 1, -1], 'ABC'):
+    for y, ind in zip([3, 1, -1], '123'):
         split = df[df.index == ind]
-        draw_dataframe(split, [2, y])
+        draw_dataframe(split, [2, y], width=width)
 
         sum = pd.DataFrame(split.sum()).T
         sum.index = [ind]
-        sum.index.name = 'key'
-        sum.columns = ['data']
-        draw_dataframe(sum, [4, y + 0.25])
+        sum.index.name = 'product'
+        sum.columns = ['price']
+        draw_dataframe(sum, [4, y + 0.25*width], width=width)
 
     result = df.groupby(df.index).sum()
-    draw_dataframe(result, [6, 0.75])
+    draw_dataframe(result, [6, 0.75], width=width)
 
     style = dict(fontsize=14, ha='center', weight='bold')
-    plt.text(0.5, 3.6, "Input", **style)
-    plt.text(2.5, 4.6, "Split", **style)
-    plt.text(4.5, 4.35, "Apply (sum)", **style)
-    plt.text(6.5, 2.85, "Combine", **style)
+    plt.text(0.5, 3.6*width, "Input", **style)
+    plt.text(2.5, 4.9, "Split", **style)
+    plt.text(4.5, 4.6, "Aggregate (sum)", **style)
+    plt.text(6.5, 3.2, "Combine", **style)
 
     arrowprops = dict(facecolor='black', width=1, headwidth=6)
     plt.annotate('', (1.8, 3.6), (1.2, 2.8), arrowprops=arrowprops)
