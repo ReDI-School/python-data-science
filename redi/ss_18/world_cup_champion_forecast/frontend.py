@@ -8,7 +8,7 @@ year = 2018
 team_fer = pd.read_csv('team_features.csv')
 logreg = pickle.load(open('Final_fifa_Logmodel.sav', 'rb'))
 
-countries = ['Argentina', 
+countries = ['Argentina',
              'Australia', 
              'Belgium', 
              'Brazil', 

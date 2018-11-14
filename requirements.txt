@@ -1,0 +1,4 @@
+pandas
+pandas_datareader
+sklearn
+seaborn
