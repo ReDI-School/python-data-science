@@ -198,3 +198,55 @@ def standarize_indicator(df, indicators):
         df_[indicator] = (df_[indicator] - df_[indicator].mean()) / df_[indicator].std()
 
     return df_
+
+
+# Data pipeline from previous lectures
+def get_dataset(indicators):
+    # Define WB factors
+    start = 2007
+    end = 2017
+    n_inhabitants_indicator = 'SP.POP.TOTL'
+    displacement_indicators = ['CO.DI.ID.MC', 'DI.DI.ID.MC']
+
+    indicators = indicators + [n_inhabitants_indicator]
+
+    # Get all previous indicators and the number of inhabitants per country per year
+    df_feature_vector = get_wb_and_idmc(indicator_codes=indicators)
+    #print(df_feature_vector.groupby('indicatorID')['iso3c'].nunique())
+
+    # build indicators mapper
+    mapper_indicators = df_feature_vector[['indicatorID','indicatorName']].drop_duplicates().set_index("indicatorID")
+    wb_features = mapper_indicators.drop(displacement_indicators)
+
+    # Complete missing values per indicator per country by mean over the years
+    feature_vector_complete = complete_missing_values(df_feature_vector, wb_features['indicatorName'])
+    feature_vector_complete_clean = feature_vector_complete[['iso3c','year','value','indicatorName']]
+
+    # Complete the feature vector with missing values replaced and displacements data
+    displacements = df_feature_vector[df_feature_vector.indicatorID.isin(displacement_indicators)]
+    displacements_clean = displacements[['iso3c','year','value','indicatorName']]
+    feature_vector_complete_ = pd.concat([feature_vector_complete_clean, displacements_clean], axis=0)
+
+    # Unstack data
+    unstack_feature_vector = unstack_indicators(feature_vector_complete_)
+
+    # Extract feature vectors for each type of displacements
+    conflicts = get_indicators_clean_for_type_displacements(unstack_feature_vector, 'disasterDisplacements', 'conflictDisplacements')
+    disasters = get_indicators_clean_for_type_displacements(unstack_feature_vector, 'conflictDisplacements', 'disasterDisplacements')
+
+    # Remove NaNs
+    conflicts1 = conflicts.dropna()
+    disasters1 = disasters.dropna()
+
+    # Normalize number of displacements
+    conflicts2 = calculate_percentage_displacements_per_country_per_year(conflicts1, 'conflictDisplacements')
+    disasters2 = calculate_percentage_displacements_per_country_per_year(disasters1, 'disasterDisplacements')
+
+    # Remove population feature
+    indicators_names = wb_features.drop(n_inhabitants_indicator)['indicatorName'].tolist()
+
+    # Standarize each indicator with mean 0 and standard deviation 1
+    conflicts3 = standarize_indicator(conflicts2, indicators_names)
+    disasters3 = standarize_indicator(disasters2, indicators_names)
+
+    return conflicts3, disasters3
