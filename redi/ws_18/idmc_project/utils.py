@@ -168,14 +168,11 @@ def unstack_indicators(df):
     return df_
 
 
-def get_indicators_clean_for_type_displacements(df, drop_displacement_type, keep_displacement_type):
+def get_indicators_clean_for_type_displacements(df, displacement_name):
     df_ = df.copy()
 
-    # Drop the data for the other type of displacements
-    df_ = df_.drop(drop_displacement_type, axis=1)
-
     # Remove rows (events for a given country and year) where there id not data of that type of displacements
-    df_ = df_.dropna(subset=[keep_displacement_type])
+    df_ = df_.dropna(subset=[displacement_name])
 
     return df_
 
