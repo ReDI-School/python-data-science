@@ -104,7 +104,7 @@ def get_idmc_indicators():
     return merge_narrow
 
 
-def get_wb_and_idmc(indicator_codes=None, start_year=2007, end_year=2017):
+def get_wb_and_idmc(indicator_codes=None):
     """
     Combines the information from the WB and IDMC
 
@@ -125,7 +125,7 @@ def get_wb_and_idmc(indicator_codes=None, start_year=2007, end_year=2017):
     idmc = get_idmc_indicators()
 
     # Load data from WB
-    world_bank = get_wb_indicators([], indicator_codes, start_year, end_year)
+    world_bank = get_wb_indicators([], indicator_codes)
 
     # Combine data from WB and IDMC
     concatenation = pd.concat([world_bank, idmc])
