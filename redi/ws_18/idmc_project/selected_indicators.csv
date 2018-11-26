@@ -1,0 +1,244 @@
+Indicator Name,parent_category,child_category,Indicator Code,Relative
+Population growth (annual %),life_quality,demographics,SP.POP.GROW,T
+Urban population (% of total),politics_environment,demographics,SP.URB.TOTL.IN.ZS,T
+Urban population growth (annual %),politics_environment,demographics,SP.URB.GROW,T
+Rural population (% of total population),politics_environment,demographics,SP.RUR.TOTL.ZS,T
+"Primary education, duration (years)",politics_environment,education,SE.PRM.DURS,T
+Primary school starting age (years),politics_environment,education,SE.PRM.AGES,T
+Rural population growth (annual %),politics_environment,demographics,SP.RUR.TOTL.ZG,T
+Lower secondary school starting age (years),politics_environment,education,SE.SEC.AGES,T
+"Secondary education, duration (years)",politics_environment,education,SE.SEC.DURS,T
+Fixed telephone subscriptions (per 100 people),economic,infrastructures,IT.MLT.MAIN.P2,T
+Mobile cellular subscriptions (per 100 people),economic,infrastructures,IT.CEL.SETS.P2,T
+"Inflation, GDP deflator (annual %)",economic,economy,NY.GDP.DEFL.KD.ZG,T
+GDP growth (annual %),economic,economy,NY.GDP.MKTP.KD.ZG,T
+GDP per capita growth (annual %),economic,economy,NY.GDP.PCAP.KD.ZG,T
+"Mortality rate, infant (per 1,000 live births)",life_quality,health,SP.DYN.IMRT.IN,T
+"Mortality rate, neonatal (per 1,000 live births)",life_quality,health,SH.DYN.NMRT,T
+"Mortality rate, under-5 (per 1,000 live births)",life_quality,health,SH.DYN.MORT,T
+Population ages 15-64 (% of total),life_quality,demographics,SP.POP.1564.TO.ZS,T
+"Population ages 15-64, female (% of total)",life_quality,demographics,SP.POP.1564.FE.ZS,T
+"Population ages 15-64, male (% of total)",life_quality,demographics,SP.POP.1564.MA.ZS,T
+"Population ages 0-4, male (% of male population)",life_quality,demographics,SP.POP.0004.MA.5Y,T
+"Population ages 15-19, male (% of male population)",life_quality,demographics,SP.POP.1519.MA.5Y,T
+"Population ages 15-19, female (% of female population)",life_quality,demographics,SP.POP.1519.FE.5Y,T
+"Population ages 10-14, male (% of male population)",life_quality,demographics,SP.POP.1014.MA.5Y,T
+"Population ages 10-14, female (% of female population)",life_quality,demographics,SP.POP.1014.FE.5Y,T
+"Population ages 20-24, male (% of male population)",life_quality,demographics,SP.POP.2024.MA.5Y,T
+"Population ages 0-4, female (% of female population)",life_quality,demographics,SP.POP.0004.FE.5Y,T
+"Population ages 0-14, male (% of total)",life_quality,demographics,SP.POP.0014.MA.ZS,T
+"Population ages 0-14, female (% of total)",life_quality,demographics,SP.POP.0014.FE.ZS,T
+Population ages 0-14 (% of total),life_quality,demographics,SP.POP.0014.TO.ZS,T
+"Population ages 20-24, female (% of female population)",life_quality,demographics,SP.POP.2024.FE.5Y,T
+"Population ages 55-59, female (% of female population)",life_quality,demographics,SP.POP.5559.FE.5Y,T
+"Population ages 25-29, female (% of female population)",life_quality,demographics,SP.POP.2529.FE.5Y,T
+"Population ages 60-64, female (% of female population)",life_quality,demographics,SP.POP.6064.FE.5Y,T
+"Population ages 65 and above, male (% of total)",life_quality,demographics,SP.POP.65UP.MA.ZS,T
+"Population ages 65 and above, female (% of total)",life_quality,demographics,SP.POP.65UP.FE.ZS,T
+Population ages 65 and above (% of total),life_quality,demographics,SP.POP.65UP.TO.ZS,T
+"Population ages 60-64, male (% of male population)",life_quality,demographics,SP.POP.6064.MA.5Y,T
+"Population ages 55-59, male (% of male population)",life_quality,demographics,SP.POP.5559.MA.5Y,T
+"Population ages 65-69, female (% of female population)",life_quality,demographics,SP.POP.6569.FE.5Y,T
+"Population ages 50-54, male (% of male population)",life_quality,demographics,SP.POP.5054.MA.5Y,T
+"Population ages 50-54, female (% of female population)",life_quality,demographics,SP.POP.5054.FE.5Y,T
+"Population ages 5-9, male (% of male population)",life_quality,demographics,SP.POP.0509.MA.5Y,T
+"Population ages 5-9, female (% of female population)",life_quality,demographics,SP.POP.0509.FE.5Y,T
+"Population ages 45-49, male (% of male population)",life_quality,demographics,SP.POP.4549.MA.5Y,T
+"Population ages 45-49, female (% of female population)",life_quality,demographics,SP.POP.4549.FE.5Y,T
+"Population ages 65-69, male (% of male population)",life_quality,demographics,SP.POP.6569.MA.5Y,T
+"Population ages 25-29, male (% of male population)",life_quality,demographics,SP.POP.2529.MA.5Y,T
+"Population, female (% of total)",life_quality,demographics,SP.POP.TOTL.FE.ZS,T
+"Population ages 30-34, female (% of female population)",life_quality,demographics,SP.POP.3034.FE.5Y,T
+"Population ages 30-34, male (% of male population)",life_quality,demographics,SP.POP.3034.MA.5Y,T
+"Population ages 35-39, female (% of female population)",life_quality,demographics,SP.POP.3539.FE.5Y,T
+"Population, male (% of total)",life_quality,demographics,SP.POP.TOTL.MA.ZS,T
+"Population ages 35-39, male (% of male population)",life_quality,demographics,SP.POP.3539.MA.5Y,T
+"Population ages 70-74, female (% of female population)",life_quality,demographics,SP.POP.7074.FE.5Y,T
+"Population ages 80 and above, male (% of male population)",life_quality,demographics,SP.POP.80UP.MA.5Y,T
+"Population ages 80 and above, female (% of female population)",life_quality,demographics,SP.POP.80UP.FE.5Y,T
+"Population ages 75-79, male (% of male population)",life_quality,demographics,SP.POP.7579.MA.5Y,T
+"Population ages 40-44, male (% of male population)",life_quality,demographics,SP.POP.4044.MA.5Y,T
+"Population ages 75-79, female (% of female population)",life_quality,demographics,SP.POP.7579.FE.5Y,T
+"Population ages 70-74, male (% of male population)",life_quality,demographics,SP.POP.7074.MA.5Y,T
+"Population ages 40-44, female (% of female population)",life_quality,demographics,SP.POP.4044.FE.5Y,T
+"Age dependency ratio, young (% of working-age population)",life_quality,health,SP.POP.DPND.YG,T
+Age dependency ratio (% of working-age population),life_quality,health,SP.POP.DPND,T
+"Age dependency ratio, old (% of working-age population)",life_quality,health,SP.POP.DPND.OL,T
+GNI per capita (current LCU),politics_environment,economy,NY.GNP.PCAP.CN,T
+"Immunization, measles (% of children ages 12-23 months)",life_quality,health,SH.IMM.MEAS,T
+"Immunization, DPT (% of children ages 12-23 months)",life_quality,health,SH.IMM.IDPT,T
+"GDP per capita, PPP (current international $)",economic,economy,NY.GDP.PCAP.PP.CD,T
+"GDP per capita, PPP (constant 2011 international $)",economic,economy,NY.GDP.PCAP.PP.KD,T
+"GNI per capita, PPP (current international $)",economic,economy,NY.GNP.PCAP.PP.CD,T
+"Foreign direct investment, net inflows (% of GDP)",economic,trade,BX.KLT.DINV.WD.GD.ZS,T
+Price level ratio of PPP conversion factor (GDP) to market exchange rate,economic,trade,PA.NUS.PPPC.RF,T
+Fixed broadband subscriptions (per 100 people),life_quality,infrastructures,IT.NET.BBND.P2,T
+Merchandise trade (% of GDP),economic,trade,TG.VAL.TOTL.GD.ZS,T
+"Labor force participation rate, total (% of total population ages 15-64) (modeled ILO estimate)",life_quality,demographics,SL.TLF.ACTI.ZS,T
+"Wage and salaried workers, male (% of male employment) (modeled ILO estimate)",politics_environment,gender,SL.EMP.WORK.MA.ZS,T
+"Employers, male (% of male employment) (modeled ILO estimate)",economic,gender,SL.EMP.MPYR.MA.ZS,T
+Ratio of female to male labor force participation rate (%) (modeled ILO estimate),politics_environment,gender,SL.TLF.CACT.FM.ZS,T
+"Employment to population ratio, 15+, female (%) (modeled ILO estimate)",economic,gender,SL.EMP.TOTL.SP.FE.ZS,T
+"Employment to population ratio, 15+, male (%) (modeled ILO estimate)",economic,gender,SL.EMP.TOTL.SP.MA.ZS,T
+"Employment to population ratio, 15+, total (%) (modeled ILO estimate)",economic,employment,SL.EMP.TOTL.SP.ZS,T
+"Contributing family workers, total (% of total employment) (modeled ILO estimate)",economic,employment,SL.FAM.WORK.ZS,T
+"Contributing family workers, male (% of male employment) (modeled ILO estimate)",politics_environment,gender,SL.FAM.WORK.MA.ZS,T
+"Contributing family workers, female (% of female employment) (modeled ILO estimate)",politics_environment,gender,SL.FAM.WORK.FE.ZS,T
+"Employment to population ratio, ages 15-24, female (%) (modeled ILO estimate)",politics_environment,gender,SL.EMP.1524.SP.FE.ZS,T
+"Employment to population ratio, ages 15-24, male (%) (modeled ILO estimate)",politics_environment,gender,SL.EMP.1524.SP.MA.ZS,T
+"Labor force participation rate, total (% of total population ages 15+) (modeled ILO estimate)",life_quality,employment,SL.TLF.CACT.ZS,T
+"Wage and salaried workers, female (% of female employment) (modeled ILO estimate)",politics_environment,gender,SL.EMP.WORK.FE.ZS,T
+"Labor force participation rate, male (% of male population ages 15-64) (modeled ILO estimate)",politics_environment,gender,SL.TLF.ACTI.MA.ZS,T
+"Labor force participation rate, male (% of male population ages 15+) (modeled ILO estimate)",politics_environment,gender,SL.TLF.CACT.MA.ZS,T
+"Labor force participation rate, female (% of female population ages 15-64) (modeled ILO estimate)",politics_environment,gender,SL.TLF.ACTI.FE.ZS,T
+"Labor force participation rate, female (% of female population ages 15+) (modeled ILO estimate)",politics_environment,gender,SL.TLF.CACT.FE.ZS,T
+"Labor force participation rate for ages 15-24, total (%) (modeled ILO estimate)",politics_environment,employment,SL.TLF.ACTI.1524.ZS,T
+"Employment to population ratio, ages 15-24, total (%) (modeled ILO estimate)",economic,employment,SL.EMP.1524.SP.ZS,T
+"Self-employed, female (% of female employment) (modeled ILO estimate)",economic,gender,SL.EMP.SELF.FE.ZS,T
+"Labor force participation rate for ages 15-24, male (%) (modeled ILO estimate)",politics_environment,gender,SL.TLF.ACTI.1524.MA.ZS,T
+"Labor force participation rate for ages 15-24, female (%) (modeled ILO estimate)",politics_environment,gender,SL.TLF.ACTI.1524.FE.ZS,T
+"Self-employed, male (% of male employment) (modeled ILO estimate)",economic,gender,SL.EMP.SELF.MA.ZS,T
+"Self-employed, total (% of total employment) (modeled ILO estimate)",economic,employment,SL.EMP.SELF.ZS,T
+"Wage and salaried workers, total (% of total employment) (modeled ILO estimate)",economic,employment,SL.EMP.WORK.ZS,T
+"Employers, female (% of female employment) (modeled ILO estimate)",economic,gender,SL.EMP.MPYR.FE.ZS,T
+"Vulnerable employment, total (% of total employment) (modeled ILO estimate)",politics_environment,employment,SL.EMP.VULN.ZS,T
+"Employment in agriculture, male (% of male employment) (modeled ILO estimate)",economic,gender,SL.AGR.EMPL.MA.ZS,T
+Employment in services (% of total employment) (modeled ILO estimate),economic,sectors,SL.SRV.EMPL.ZS,T
+"Employment in services, female (% of female employment) (modeled ILO estimate)",economic,gender,SL.SRV.EMPL.FE.ZS,T
+"Employment in industry, male (% of male employment) (modeled ILO estimate)",economic,gender,SL.IND.EMPL.MA.ZS,T
+"Unemployment, total (% of total labor force) (modeled ILO estimate)",economic,employment,SL.UEM.TOTL.ZS,T
+"Unemployment, youth male (% of male labor force ages 15-24) (modeled ILO estimate)",politics_environment,gender,SL.UEM.1524.MA.ZS,T
+"Employment in industry, female (% of female employment) (modeled ILO estimate)",economic,gender,SL.IND.EMPL.FE.ZS,T
+Employment in industry (% of total employment) (modeled ILO estimate),economic,sectors,SL.IND.EMPL.ZS,T
+"Unemployment, male (% of male labor force) (modeled ILO estimate)",politics_environment,gender,SL.UEM.TOTL.MA.ZS,T
+"Vulnerable employment, male (% of male employment) (modeled ILO estimate)",politics_environment,gender,SL.EMP.VULN.MA.ZS,T
+"Employment in agriculture, female (% of female employment) (modeled ILO estimate)",economic,gender,SL.AGR.EMPL.FE.ZS,T
+"Unemployment, female (% of female labor force) (modeled ILO estimate)",politics_environment,gender,SL.UEM.TOTL.FE.ZS,T
+"Employment in services, male (% of male employment) (modeled ILO estimate)",economic,gender,SL.SRV.EMPL.MA.ZS,T
+"Unemployment, youth total (% of total labor force ages 15-24) (modeled ILO estimate)",politics_environment,employment,SL.UEM.1524.ZS,T
+"Vulnerable employment, female (% of female employment) (modeled ILO estimate)",politics_environment,gender,SL.EMP.VULN.FE.ZS,T
+Employment in agriculture (% of total employment) (modeled ILO estimate),economic,sectors,SL.AGR.EMPL.ZS,T
+"Employers, total (% of total employment) (modeled ILO estimate)",economic,employment,SL.EMP.MPYR.ZS,T
+"Unemployment, youth female (% of female labor force ages 15-24) (modeled ILO estimate)",politics_environment,gender,SL.UEM.1524.FE.ZS,T
+Access to electricity (% of population),politics_environment,infrastructures,EG.ELC.ACCS.ZS,T
+"Access to electricity, urban (% of urban population)",politics_environment,infrastructures,EG.ELC.ACCS.UR.ZS,T
+Proportion of seats held by women in national parliaments (%),politics_environment,gender,SG.GEN.PARL.ZS,T
+"Labor force, female (% of total labor force)",politics_environment,gender,SL.TLF.TOTL.FE.ZS,T
+Individuals using the Internet (% of population),politics_environment,infrastructures,IT.NET.USER.ZS,T
+"Incidence of tuberculosis (per 100,000 people)",economic,health,SH.TBS.INCD,T
+Consumer price index (2010 = 100),economic,economy,FP.CPI.TOTL,T
+External balance on goods and services (% of GDP),economic,trade,NE.RSB.GNFS.ZS,T
+Trade (% of GDP),economic,trade,NE.TRD.GNFS.ZS,T
+Exports of goods and services (% of GDP),economic,trade,NE.EXP.GNFS.ZS,T
+Imports of goods and services (% of GDP),economic,trade,NE.IMP.GNFS.ZS,T
+"Inflation, consumer prices (annual %)",economic,economy,FP.CPI.TOTL.ZG,T
+"Agriculture, forestry, and fishing, value added (% of GDP)",economic,sectors,NV.AGR.TOTL.ZS,T
+"Industry (including construction), value added (% of GDP)",economic,sectors,NV.IND.TOTL.ZS,T
+"Preprimary education, duration (years)",politics_environment,education,SE.PRE.DURS,T
+Private credit bureau coverage (% of adults),economic,economy,IC.CRD.PRVT.ZS,T
+Business extent of disclosure index (0=less disclosure to 10=more disclosure),politics_environment,economy,IC.BUS.DISC.XQ,T
+"Cost of business start-up procedures, female (% of GNI per capita)",politics_environment,gender,IC.REG.COST.PC.FE.ZS,T
+Cost of business start-up procedures (% of GNI per capita),politics_environment,economy,IC.REG.COST.PC.ZS,T
+"Cost of business start-up procedures, male (% of GNI per capita)",politics_environment,gender,IC.REG.COST.PC.MA.ZS,T
+Public credit registry coverage (% of adults),politics_environment,economy,IC.CRD.PUBL.ZS,T
+Labor tax and contributions (% of commercial profits),politics_environment,social_inequality,IC.TAX.LABR.CP.ZS,T
+Other taxes payable by businesses (% of commercial profits),politics_environment,social_inequality,IC.TAX.OTHR.CP.ZS,T
+Profit tax (% of commercial profits),politics_environment,social_inequality,IC.TAX.PRFT.CP.ZS,T
+Total tax rate (% of commercial profits),politics_environment,social_inequality,IC.TAX.TOTL.CP.ZS,T
+"Agriculture, forestry, and fishing, value added (annual % growth)",economic,sectors,NV.AGR.TOTL.KD.ZG,T
+"Industry (including construction), value added (annual % growth)",economic,sectors,NV.IND.TOTL.KD.ZG,T
+"Death rate, crude (per 1,000 people)",life_quality,health,SP.DYN.CDRT.IN,T
+"Birth rate, crude (per 1,000 people)",life_quality,health,SP.DYN.CBRT.IN,T
+Food production index (2004-2006 = 100),economic,sectors,AG.PRD.FOOD.XD,T
+Merchandise imports from high-income economies (% of total merchandise imports),economic,trade,TM.VAL.MRCH.HI.ZS,T
+"Merchandise exports by the reporting economy, residual (% of total merchandise exports)",economic,trade,TX.VAL.MRCH.RS.ZS,T
+Merchandise exports to high-income economies (% of total merchandise exports),economic,trade,TX.VAL.MRCH.HI.ZS,T
+"Merchandise imports by the reporting economy, residual (% of total merchandise imports)",economic,trade,TM.VAL.MRCH.RS.ZS,T
+Merchandise imports from low- and middle-income economies outside region (% of total merchandise imports),economic,trade,TM.VAL.MRCH.OR.ZS,T
+Livestock production index (2004-2006 = 100),economic,sectors,AG.PRD.LVSK.XD,T
+Merchandise exports to low- and middle-income economies outside region (% of total merchandise exports),economic,trade,TX.VAL.MRCH.OR.ZS,T
+Merchandise imports from low- and middle-income economies in East Asia & Pacific (% of total merchandise imports),economic,trade,TM.VAL.MRCH.R1.ZS,T
+Merchandise imports from low- and middle-income economies in Sub-Saharan Africa (% of total merchandise imports),economic,trade,TM.VAL.MRCH.R6.ZS,T
+Merchandise imports from low- and middle-income economies in Europe & Central Asia (% of total merchandise imports),economic,trade,TM.VAL.MRCH.R2.ZS,T
+"Tuberculosis case detection rate (%, all forms)",life_quality,health,SH.TBS.DTEC.ZS,T
+"Immunization, HepB3 (% of one-year-old children)",life_quality,health,SH.IMM.HEPB,T
+"Fertility rate, total (births per woman)",life_quality,health,SP.DYN.TFRT.IN,T
+Merchandise imports from low- and middle-income economies in South Asia (% of total merchandise imports),economic,trade,TM.VAL.MRCH.R5.ZS,T
+Crop production index (2004-2006 = 100),economic,sectors,AG.PRD.CROP.XD,T
+Merchandise imports from low- and middle-income economies in Latin America & the Caribbean (% of total merchandise imports),economic,sectors,TM.VAL.MRCH.R3.ZS,T
+"Life expectancy at birth, male (years)",life_quality,health,SP.DYN.LE00.MA.IN,T
+"Life expectancy at birth, female (years)",life_quality,health,SP.DYN.LE00.FE.IN,T
+"Life expectancy at birth, total (years)",life_quality,health,SP.DYN.LE00.IN,T
+"Personal remittances, received (% of GDP)",economic,trade,BX.TRF.PWKR.DT.GD.ZS,T
+Merchandise exports to low- and middle-income economies in East Asia & Pacific (% of total merchandise exports),economic,trade,TX.VAL.MRCH.R1.ZS,T
+Merchandise exports to economies in the Arab World (% of total merchandise exports),economic,trade,TX.VAL.MRCH.AL.ZS,T
+Merchandise exports to low- and middle-income economies in Europe & Central Asia (% of total merchandise exports),economic,trade,TX.VAL.MRCH.R2.ZS,T
+Export volume index (2000 = 100),economic,trade,TX.QTY.MRCH.XD.WD,T
+Net barter terms of trade index (2000 = 100),economic,trade,TT.PRI.MRCH.XD.WD,T
+Import volume index (2000 = 100),economic,trade,TM.QTY.MRCH.XD.WD,T
+Import value index (2000 = 100),economic,trade,TM.VAL.MRCH.XD.WD,T
+Export value index (2000 = 100),economic,trade,TX.VAL.MRCH.XD.WD,T
+"Manufacturing, value added (% of GDP)",economic,sectors,NV.IND.MANF.ZS,T
+"Access to electricity, rural (% of rural population)",politics_environment,infrastructures,EG.ELC.ACCS.RU.ZS,T
+Merchandise exports to low- and middle-income economies in Sub-Saharan Africa (% of total merchandise exports),economic,trade,TX.VAL.MRCH.R6.ZS,T
+Merchandise exports to low- and middle-income economies in Latin America & the Caribbean (% of total merchandise exports),economic,trade,TX.VAL.MRCH.R3.ZS,T
+Merchandise exports to low- and middle-income economies in South Asia (% of total merchandise exports),economic,trade,TX.VAL.MRCH.R5.ZS,T
+Export unit value index (2000 = 100),economic,trade,TX.UVI.MRCH.XD.WD,T
+Import unit value index (2000 = 100),economic,trade,TM.UVI.MRCH.XD.WD,T
+Merchandise imports from economies in the Arab World (% of total merchandise imports),economic,trade,TM.VAL.MRCH.AL.ZS,T
+Mineral rents (% of GDP),economic,sectors,NY.GDP.MINR.RT.ZS,T
+Forest rents (% of GDP),economic,sectors,NY.GDP.FRST.RT.ZS,T
+"Adolescent fertility rate (births per 1,000 women ages 15-19)",life_quality,gender,SP.ADO.TFRT,T
+Total natural resources rents (% of GDP),politics_environment,sectors,NY.GDP.TOTL.RT.ZS,T
+"Survival to age 65, female (% of cohort)",life_quality,health,SP.DYN.TO65.FE.ZS,T
+"Survival to age 65, male (% of cohort)",life_quality,health,SP.DYN.TO65.MA.ZS,T
+"Computer, communications and other services (% of commercial service exports)",economic,sectors,TX.VAL.OTHR.ZS.WT,T
+"Computer, communications and other services (% of commercial service imports)",economic,sectors,TM.VAL.OTHR.ZS.WT,T
+Travel services (% of commercial service imports),economic,sectors,TM.VAL.TRVL.ZS.WT,T
+"Communications, computer, etc. (% of service exports, BoP)",economic,sectors,BX.GSR.CMCP.ZS,T
+"Travel services (% of service imports, BoP)",economic,sectors,BM.GSR.TRVL.ZS,T
+"Foreign direct investment, net outflows (% of GDP)",economic,economy,BM.KLT.DINV.WD.GD.ZS,T
+Transport services (% of commercial service imports),economic,sectors,TM.VAL.TRAN.ZS.WT,T
+"Communications, computer, etc. (% of service imports, BoP)",economic,sectors,BM.GSR.CMCP.ZS,T
+"Transport services (% of service imports, BoP)",economic,sectors,BM.GSR.TRAN.ZS,T
+Domestic credit to private sector by banks (% of GDP),economic,economy,FD.AST.PRVT.GD.ZS,T
+Domestic credit to private sector (% of GDP),economic,economy,FS.AST.PRVT.GD.ZS,T
+Trade in services (% of GDP),economic,sectors,BG.GSR.NFSV.GD.ZS,T
+"Travel services (% of service exports, BoP)",economic,sectors,BX.GSR.TRVL.ZS,T
+"Manufacturing, value added (annual % growth)",economic,sectors,NV.IND.MANF.KD.ZG,T
+"Claims on central government, etc. (% GDP)",economic,social_inequality,FS.AST.CGOV.GD.ZS,T
+Travel services (% of commercial service exports),economic,sectors,TX.VAL.TRVL.ZS.WT,T
+Current account balance (% of GDP),economic,economy,BN.CAB.XOKA.GD.ZS,T
+Adjusted savings: mineral depletion (% of GNI),economic,sectors,NY.ADJ.DMIN.GN.ZS,T
+Merchandise imports from low- and middle-income economies in Middle East & North Africa (% of total merchandise imports),economic,trade,TM.VAL.MRCH.R4.ZS,T
+Merchandise exports to low- and middle-income economies in Middle East & North Africa (% of total merchandise exports),economic,trade,TX.VAL.MRCH.R4.ZS,T
+Adjusted savings: consumption of fixed capital (% of GNI),economic,economy,NY.ADJ.DKAP.GN.ZS,T
+Prevalence of anemia among women of reproductive age (% of women ages 15-49),life_quality,health,SH.ANM.ALLW.ZS,T
+Prevalence of anemia among children (% of children under 5),life_quality,health,SH.ANM.CHLD.ZS,T
+Prevalence of anemia among non-pregnant women (% of women ages 15-49),life_quality,health,SH.ANM.NPRG.ZS,T
+Prevalence of anemia among pregnant women (%),life_quality,health,SH.PRG.ANEM,T
+Adjusted savings: education expenditure (% of GNI),politics_environment,education,NY.ADJ.AEDU.GN.ZS,T
+Transport services (% of commercial service exports),economic,sectors,TX.VAL.TRAN.ZS.WT,T
+"Transport services (% of service exports, BoP)",economic,sectors,BX.GSR.TRAN.ZS,T
+Adjusted savings: carbon dioxide damage (% of GNI),economic,environment,NY.ADJ.DCO2.GN.ZS,T
+Domestic credit provided by financial sector (% of GDP),economic,economy,FS.AST.DOMS.GD.ZS,T
+Insurance and financial services (% of commercial service imports),economic,sectors,TM.VAL.INSF.ZS.WT,T
+"Insurance and financial services (% of service imports, BoP)",economic,sectors,BM.GSR.INSF.ZS,T
+Oil rents (% of GDP),economic,sectors,NY.GDP.PETR.RT.ZS,T
+Access to clean fuels and technologies for cooking (% of population),economic,infrastructures,EG.CFT.ACCS.ZS,T
+Households and NPISHs final consumption expenditure (% of GDP),economic,social_inequality,NE.CON.PRVT.ZS,T
+Gross capital formation (% of GDP),economic,economy,NE.GDI.TOTL.ZS,T
+Final consumption expenditure (% of GDP),economic,economy,NE.CON.TOTL.ZS,T
+Coal rents (% of GDP),politics_environment,sectors,NY.GDP.COAL.RT.ZS,T
+Gross domestic savings (% of GDP),economic,economy,NY.GDS.TOTL.ZS,T
+General government final consumption expenditure (% of GDP),politics_environment,social_inequality,NE.CON.GOVT.ZS,T
+"Commercial bank branches (per 100,000 adults)",economic,economy,FB.CBK.BRCH.P5,T
+Gross national expenditure (% of GDP),politics_environment,economy,NE.DAB.TOTL.ZS,T
+"Mortality rate, adult, female (per 1,000 female adults)",life_quality,health,SP.DYN.AMRT.FE,T
+"Mortality rate, adult, male (per 1,000 male adults)",life_quality,health,SP.DYN.AMRT.MA,T
+Gross fixed capital formation (% of GDP),economic,economy,NE.GDI.FTOT.ZS,T
+Renewable electricity output (% of total electricity output),politics_environment,environment,EG.ELC.RNEW.ZS,T
+Adjusted savings: energy depletion (% of GNI),politics_environment,environment,NY.ADJ.DNGY.GN.ZS,T
+"Services, value added (annual % growth)",economic,sectors,NV.SRV.TOTL.KD.ZG,T
+Cereal yield (kg per hectare),economic,sectors,AG.YLD.CREL.KG,T
+Renewable energy consumption (% of total final energy consumption),politics_environment,environment,EG.FEC.RNEW.ZS,T
