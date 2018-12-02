@@ -1,6 +1,7 @@
 import numpy as np
 import pandas as pd
 from pandas_datareader import wb
+from sklearn.metrics import r2_score
 
 def get_wb_indicators(country_codes=None, indicator_codes=None, start_year=2007, end_year=2017):
     """
