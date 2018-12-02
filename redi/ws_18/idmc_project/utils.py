@@ -250,3 +250,37 @@ def get_dataset(indicators):
     disasters3 = standarize_indicator(disasters2, indicators_names)
 
     return conflicts3, disasters3
+
+def shuffle_cross_validation(x, y, test_size, n_splits):
+    all_coef = []
+    all_scores = []
+
+    # Apply shuffle split from sklearn as "sp"
+    from sklearn.model_selection import ShuffleSplit
+    sp = ShuffleSplit(n_splits=n_splits, test_size=test_size)
+
+    for train_index, test_index in sp.split(x):
+
+        # Apply Lasso regression as lm (fit and predict)
+        from sklearn.linear_model import Lasso
+        reglasso = Lasso(alpha=0.1)
+
+        reglasso.fit(x.iloc[train_index], y.iloc[train_index])
+        y_pred = reglasso.predict(x.iloc[test_index])
+
+        # Calculate r2 score
+        vscore = r2_score(y.iloc[test_index], y_pred)
+
+        coef = pd.DataFrame([x.columns, reglasso.coef_], index=['indicator', 'coef']).T
+        all_coef.append(coef)
+        all_scores.append(vscore)
+
+    all_coef = pd.concat(all_coef)
+    all_coef['coef'] = all_coef['coef'].astype(float)
+    all_coef['coef_abs'] = all_coef['coef'].abs()
+
+    all_coef = all_coef[all_coef['coef_abs'] > 0.001]
+
+    all_scores = pd.Series(all_scores)
+
+    return all_coef, all_scores
