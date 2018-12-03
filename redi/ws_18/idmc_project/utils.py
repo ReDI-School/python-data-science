@@ -252,7 +252,7 @@ def get_dataset(indicators):
 
     return conflicts3, disasters3
 
-def shuffle_cross_validation(x, y, test_size, n_splits):
+def shuffle_cross_validation(x, y, test_size, n_splits, alpha):
     all_coef = []
     all_scores = []
 
@@ -264,7 +264,7 @@ def shuffle_cross_validation(x, y, test_size, n_splits):
 
         # Apply Lasso regression as lm (fit and predict)
         from sklearn.linear_model import Lasso
-        reglasso = Lasso(alpha=0.1)
+        reglasso = Lasso(alpha=alpha)
 
         reglasso.fit(x.iloc[train_index], y.iloc[train_index])
         y_pred = reglasso.predict(x.iloc[test_index])
