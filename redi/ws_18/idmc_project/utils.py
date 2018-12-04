@@ -184,7 +184,7 @@ def get_indicators_clean_for_type_displacements(df, drop_displacement_type, keep
 def calculate_percentage_displacements_per_country_per_year(df, column):
     # Calculate percentage of displacements per number of inhabitants in each country for each year
     column_norm = column + "Norm"
-    df[column_norm] = (df[column] / df['Population, total']) * 100
+    df[column_norm] = (df[column] / df['Population, total'])
 
     # Clean final dataframe
     df = df.drop([column, 'Population, total'], axis=1)
